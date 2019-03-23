@@ -1,0 +1,1001 @@
+trip_id,starttime,stoptime,bikeid,left(bikeid,right bikeid,tripduration,from_station_name,to_station_name,from_station_id,to_station_id,usertype,gender,birthyear
+104440,7/7/15 18:18,7/7/15 20:52,SEA00384,SEA,00384,9208.524,Eastlake Ave E & E Allison St,Eastlake Ave E & E Allison St,EL-05,EL-05,Short-Term Pass Holder,NULL,NULL
+48695,3/20/15 8:49,3/20/15 9:03,SEA00336,SEA,00336,842.405,2nd Ave & Pine St,Dexter Ave N & Aloha St,CBD-13,SLU-02,Annual Member,Male,1975
+41846,2/28/15 15:31,2/28/15 15:45,SEA00449,SEA,00449,846.174,2nd Ave & Pine St,Occidental Park / Occidental Ave S & S Washington St,CBD-13,PS-04,Short-Term Pass Holder,NULL,NULL
+62011,4/20/15 23:53,4/21/15 0:00,SEA00375,SEA,00375,446.055,7th Ave & Union St,2nd Ave & Blanchard St,CBD-03,BT-05,Short-Term Pass Holder,NULL,NULL
+26137,1/6/15 19:01,1/6/15 19:07,SEA00318,SEA,00318,394.624,REI / Yale Ave N & John St,REI / Yale Ave N & John St,SLU-01,SLU-01,Annual Member,Male,1987
+156380,10/11/15 22:55,10/12/15 0:44,SEA00485,SEA,00485,6521.749,Seattle University / E Columbia St & 12th Ave,3rd Ave & Broad St,FH-04,BT-01,Short-Term Pass Holder,NULL,NULL
+131661,8/19/15 16:44,8/19/15 17:06,SEA00059,SEA,00059,1315.264,2nd Ave & Pine St,3rd Ave & Broad St,CBD-13,BT-01,Short-Term Pass Holder,NULL,NULL
+55183,4/7/15 10:00,4/7/15 10:08,SEA00479,SEA,00479,487.58,UW Engineering Library / E Stevens Way NE & Jefferson Rd,UW Engineering Library / E Stevens Way NE & Jefferson Rd,UW-06,UW-06,Annual Member,Male,1992
+108610,7/14/15 8:23,7/14/15 8:29,SEA00191,SEA,00191,344.656,Summit Ave E & E Republican St,Pine St & 9th Ave,CH-03,SLU-16,Annual Member,Male,1981
+1297,10/14/14 16:54,10/14/14 17:09,SEA00428,SEA,00428,909.182,Frye Art Museum / Terry Ave & Columbia St,Seattle University / E Columbia St & 12th Ave,FH-01,FH-04,Short-Term Pass Holder,NULL,NULL
+53534,4/2/15 18:55,4/2/15 19:03,SEA00305,SEA,00305,458.799,Republican St & Westlake Ave N,E Blaine St & Fairview Ave E,SLU-04,EL-03,Annual Member,Male,1988
+7498,10/29/14 19:26,10/29/14 19:31,SEA00457,SEA,00457,321.81,15th Ave E & E Thomas St,Summit Ave E & E Republican St,CH-05,CH-03,Annual Member,Male,1981
+119926,7/31/15 18:08,7/31/15 18:29,SEA00068,SEA,00068,1261.013,3rd Ave & Broad St,Pier 69 / Alaskan Way & Clay St,BT-01,WF-01,Short-Term Pass Holder,NULL,NULL
+100210,7/1/15 12:34,7/1/15 12:47,SEA00153,SEA,00153,756.631,E Blaine St & Fairview Ave E,PATH / 9th Ave & Westlake Ave,EL-03,SLU-07,Annual Member,Female,1961
+47902,3/18/15 8:19,3/18/15 8:28,SEA00172,SEA,00172,558.786,Pier 69 / Alaskan Way & Clay St,1st Ave & Marion St,WF-01,CBD-05,Annual Member,Other,1957
+153422,10/4/15 8:58,10/4/15 9:17,SEA00267,SEA,00267,1119.829,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,WF-04,WF-04,Short-Term Pass Holder,NULL,NULL
+97398,6/26/15 8:52,6/26/15 8:59,SEA00057,SEA,00057,414.748,Dexter Ave N & Aloha St,PATH / 9th Ave & Westlake Ave,SLU-02,SLU-07,Annual Member,Male,1985
+74814,5/17/15 15:27,5/17/15 15:34,SEA00040,SEA,00040,370.356,12th Ave & E Denny Way,Pine St & 9th Ave,CH-06,SLU-16,Annual Member,Male,1987
+29299,1/19/15 11:40,1/19/15 11:44,SEA00262,SEA,00262,232.597,E Harrison St & Broadway Ave E,Harvard Ave & E Pine St,CH-02,CH-09,Annual Member,Male,1989
+89396,6/12/15 17:32,6/12/15 17:36,SEA00170,SEA,00170,189.055,9th Ave N & Mercer St,Dexter Ave N & Aloha St,DPD-01,SLU-02,Annual Member,Male,1971
+133233,8/22/15 11:29,8/22/15 12:21,SEA00316,SEA,00316,3129.238,Cal Anderson Park / 11th Ave & Pine St,Cal Anderson Park / 11th Ave & Pine St,CH-08,CH-08,Short-Term Pass Holder,NULL,NULL
+137054,8/29/15 8:21,8/29/15 8:33,SEA00148,SEA,00148,717.266,1st Ave & Marion St,Bellevue Ave & E Pine St,CBD-05,CH-12,Annual Member,Male,1965
+18920,12/3/14 21:49,12/3/14 21:54,SEA00206,SEA,00206,302.229,Frye Art Museum / Terry Ave & Columbia St,2nd Ave & Spring St,FH-01,CBD-06,Annual Member,Male,1993
+86945,6/8/15 14:57,6/8/15 16:55,SEA00159,SEA,00159,7113.829,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,EL-01,EL-01,Short-Term Pass Holder,NULL,NULL
+128039,8/13/15 13:37,8/13/15 13:46,SEA00116,SEA,00116,503.85,Westlake Ave & 6th Ave,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,SLU-15,EL-01,Annual Member,Male,1989
+76360,5/20/15 12:31,5/20/15 12:42,SEA00473,SEA,00473,655.442,E Pine St & 16th Ave,2nd Ave & Blanchard St,CH-07,BT-05,Annual Member,Male,1985
+41673,2/28/15 11:48,2/28/15 12:15,SEA00138,SEA,00138,1590.167,UW Engineering Library / E Stevens Way NE & Jefferson Rd,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,UW-06,UD-01,Short-Term Pass Holder,NULL,NULL
+19029,12/4/14 12:00,12/4/14 12:07,SEA00457,SEA,00457,403.754,1st Ave & Marion St,6th Ave S & S King St,CBD-05,ID-04,Annual Member,Female,1973
+44402,3/7/15 17:18,3/7/15 19:19,SEA00223,SEA,00223,7217.282,2nd Ave & Spring St,1st Ave & Marion St,CBD-06,CBD-05,Short-Term Pass Holder,NULL,NULL
+19149,12/4/14 18:44,12/4/14 18:57,SEA00308,SEA,00308,787.732,Pine St & 9th Ave,12th Ave & E Denny Way,SLU-16,CH-06,Annual Member,Male,1982
+4723,10/21/14 20:00,10/21/14 20:05,SEA00494,SEA,00494,331.49,Frye Art Museum / Terry Ave & Columbia St,Seattle University / E Columbia St & 12th Ave,FH-01,FH-04,Annual Member,Male,1983
+119776,7/31/15 15:35,7/31/15 15:50,SEA00106,SEA,00106,907.041,Republican St & Westlake Ave N,1st Ave & Marion St,SLU-04,CBD-05,Annual Member,Male,1981
+137806,8/31/15 10:12,8/31/15 10:26,SEA00025,SEA,00025,854.465,E Harrison St & Broadway Ave E,Bellevue Ave & E Pine St,CH-02,CH-12,Annual Member,Male,1977
+142965,9/11/15 13:08,9/11/15 13:23,SEA00394,SEA,00394,862.711,3rd Ave & Broad St,2nd Ave & Pine St,BT-01,CBD-13,Short-Term Pass Holder,NULL,NULL
+52994,4/1/15 13:10,4/1/15 13:20,SEA00329,SEA,00329,596.304,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,2nd Ave & Vine St,WF-04,BT-03,Short-Term Pass Holder,NULL,NULL
+148226,9/23/15 9:39,9/23/15 9:47,SEA00048,SEA,00048,459.813,E Pine St & 16th Ave,Terry Ave & Stewart St,CH-07,SLU-20,Annual Member,Male,1991
+120107,8/1/15 9:53,8/1/15 11:28,SEA00141,SEA,00141,5747.077,2nd Ave & Blanchard St,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,BT-05,PS-05,Short-Term Pass Holder,NULL,NULL
+33687,2/2/15 16:55,2/2/15 17:13,SEA00125,SEA,00125,1105.373,1st Ave & Marion St,Republican St & Westlake Ave N,CBD-05,SLU-04,Annual Member,Male,1981
+113442,7/21/15 11:52,7/21/15 11:57,SEA00267,SEA,00267,269.4,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,Republican St & Westlake Ave N,EL-01,SLU-04,Annual Member,Male,1986
+114147,7/22/15 14:24,7/22/15 15:04,SEA00303,SEA,00303,2392.234,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,3rd Ave & Broad St,WF-04,BT-01,Short-Term Pass Holder,NULL,NULL
+66613,5/1/15 10:39,5/1/15 10:51,SEA00413,SEA,00413,681.962,3rd Ave & Broad St,2nd Ave & Spring St,BT-01,CBD-06,Annual Member,Male,1985
+93178,6/18/15 17:28,6/18/15 18:03,SEA00150,SEA,00150,2120.315,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,2nd Ave & Vine St,UD-01,BT-03,Short-Term Pass Holder,NULL,NULL
+27632,1/12/15 13:46,1/12/15 14:09,SEA00267,SEA,00267,1342.58,Cal Anderson Park / 11th Ave & Pine St,REI / Yale Ave N & John St,CH-08,SLU-01,Short-Term Pass Holder,NULL,NULL
+75983,5/19/15 17:21,5/19/15 17:25,SEA00303,SEA,00303,240.652,Pier 69 / Alaskan Way & Clay St,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,WF-01,WF-04,Annual Member,Male,1976
+107856,7/13/15 7:47,7/13/15 7:52,SEA00290,SEA,00290,282.761,Summit Ave E & E Republican St,Harvard Ave & E Pine St,CH-03,CH-09,Annual Member,Male,1982
+132355,8/20/15 19:05,8/20/15 19:15,SEA00029,SEA,00029,636.529,7th Ave & Union St,E Blaine St & Fairview Ave E,CBD-03,EL-03,Annual Member,Male,1985
+76143,5/19/15 21:53,5/19/15 22:13,SEA00394,SEA,00394,1171.101,UW Intramural Activities Building,9th Ave N & Mercer St,UW-07,DPD-01,Annual Member,Male,1986
+14903,11/18/14 12:23,11/18/14 12:25,SEA00330,SEA,00330,84.066,Pier 69 / Alaskan Way & Clay St,Pier 69 / Alaskan Way & Clay St,WF-01,WF-01,Annual Member,Male,1987
+71591,5/10/15 14:52,5/10/15 16:04,SEA00289,SEA,00289,4302.691,Pier 69 / Alaskan Way & Clay St,9th Ave N & Mercer St,WF-01,DPD-01,Short-Term Pass Holder,NULL,NULL
+73414,5/14/15 18:11,5/14/15 18:16,SEA00056,SEA,00056,289.863,Republican St & Westlake Ave N,Dexter Ave N & Aloha St,SLU-04,SLU-02,Annual Member,Male,1981
+104508,7/7/15 20:10,7/7/15 20:17,SEA00261,SEA,00261,438.508,2nd Ave & Spring St,6th Ave S & S King St,CBD-06,ID-04,Annual Member,Male,1983
+94112,6/20/15 13:12,6/20/15 13:27,SEA00304,SEA,00304,914.273,6th Ave & Blanchard St,3rd Ave & Broad St,BT-04,BT-01,Short-Term Pass Holder,NULL,NULL
+10814,11/7/14 17:46,11/7/14 18:00,SEA00172,SEA,00172,837.798,9th Ave N & Mercer St,Summit Ave E & E Republican St,DPD-01,CH-03,Annual Member,Male,1985
+25104,1/1/15 2:01,1/1/15 2:09,SEA00483,SEA,00483,463.284,3rd Ave & Broad St,2nd Ave & Vine St,BT-01,BT-03,Short-Term Pass Holder,NULL,NULL
+77167,5/21/15 18:05,5/21/15 18:59,SEA00259,SEA,00259,3227.047,6th Ave S & S King St,6th Ave S & S King St,ID-04,ID-04,Short-Term Pass Holder,NULL,NULL
+52393,3/30/15 17:16,3/30/15 17:24,SEA00248,SEA,00248,510.907,2nd Ave & Vine St,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,BT-03,WF-04,Annual Member,Female,1950
+134807,8/25/15 5:55,8/25/15 5:58,SEA00301,SEA,00301,169.542,2nd Ave & Spring St,2nd Ave & Pine St,CBD-06,CBD-13,Annual Member,Male,1982
+128818,8/15/15 8:21,8/15/15 8:26,SEA00148,SEA,00148,311.938,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,Pier 69 / Alaskan Way & Clay St,WF-04,WF-01,Annual Member,Female,1950
+17553,11/27/14 14:41,11/27/14 15:17,SEA00496,SEA,00496,2212.236,12th Ave & NE Campus Pkwy,E Harrison St & Broadway Ave E,UD-04,CH-02,Short-Term Pass Holder,NULL,NULL
+89507,6/12/15 20:30,6/12/15 20:38,SEA00385,SEA,00385,488.129,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,Republican St & Westlake Ave N,EL-01,SLU-04,Short-Term Pass Holder,NULL,NULL
+138647,9/2/15 12:21,9/2/15 13:01,SEA00445,SEA,00445,2380.879,Pier 69 / Alaskan Way & Clay St,Pier 69 / Alaskan Way & Clay St,WF-01,WF-01,Short-Term Pass Holder,NULL,NULL
+80398,5/27/15 21:28,5/27/15 21:54,SEA00315,SEA,00315,1554.908,1st Ave & Marion St,Pier 69 / Alaskan Way & Clay St,CBD-05,WF-01,Short-Term Pass Holder,NULL,NULL
+65965,4/29/15 19:02,4/29/15 19:08,SEA00471,SEA,00471,384.008,3rd Ave & Broad St,PATH / 9th Ave & Westlake Ave,BT-01,SLU-07,Annual Member,Male,1969
+54643,4/5/15 17:35,4/5/15 18:04,SEA00132,SEA,00132,1706.459,REI / Yale Ave N & John St,3rd Ave & Broad St,SLU-01,BT-01,Short-Term Pass Holder,NULL,NULL
+113376,7/21/15 9:39,7/21/15 9:58,SEA00075,SEA,00075,1130.426,Summit Ave & E Denny Way,Occidental Park / Occidental Ave S & S Washington St,CH-01,PS-04,Annual Member,Female,1979
+131554,8/19/15 14:04,8/19/15 14:13,SEA00063,SEA,00063,554.458,2nd Ave & Spring St,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,CBD-06,WF-04,Short-Term Pass Holder,NULL,NULL
+95491,6/22/15 20:18,6/22/15 21:06,SEA00282,SEA,00282,2866.71,Republican St & Westlake Ave N,Republican St & Westlake Ave N,SLU-04,SLU-04,Short-Term Pass Holder,NULL,NULL
+138191,9/1/15 9:17,9/1/15 9:20,SEA00031,SEA,00031,155.268,Summit Ave E & E Republican St,Summit Ave & E Denny Way,CH-03,CH-01,Annual Member,Female,1989
+44247,3/7/15 14:46,3/7/15 14:55,SEA00374,SEA,00374,565.197,7th Ave & Union St,7th Ave & Union St,CBD-03,CBD-03,Short-Term Pass Holder,NULL,NULL
+134451,8/24/15 14:16,8/24/15 14:21,SEA00328,SEA,00328,306.864,2nd Ave & Pine St,2nd Ave & Spring St,CBD-13,CBD-06,Short-Term Pass Holder,NULL,NULL
+110889,7/17/15 12:25,7/17/15 12:29,SEA00168,SEA,00168,251.519,Pine St & 9th Ave,2nd Ave & Pine St,SLU-16,CBD-13,Annual Member,Male,1987
+93500,6/19/15 9:44,6/19/15 9:47,SEA00389,SEA,00389,190.411,Summit Ave E & E Republican St,Bellevue Ave & E Pine St,CH-03,CH-12,Annual Member,Male,1983
+147393,9/21/15 12:51,9/21/15 13:04,SEA00180,SEA,00180,814.931,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,WF-04,PS-05,Short-Term Pass Holder,NULL,NULL
+31071,1/25/15 3:21,1/25/15 3:33,SEA00059,SEA,00059,727.097,E Harrison St & Broadway Ave E,E Pine St & 16th Ave,CH-02,CH-07,Short-Term Pass Holder,NULL,NULL
+1503,10/15/14 7:50,10/15/14 8:02,SEA00437,SEA,00437,718.345,Pine St & 9th Ave,City Hall / 4th Ave & James St,SLU-16,CBD-07,Annual Member,Female,1965
+61654,4/20/15 17:17,4/20/15 17:34,SEA00301,SEA,00301,1047.086,2nd Ave & Vine St,2nd Ave & Pine St,BT-03,CBD-13,Short-Term Pass Holder,NULL,NULL
+65745,4/29/15 8:50,4/29/15 9:00,SEA00395,SEA,00395,609.05,Cal Anderson Park / 11th Ave & Pine St,9th Ave N & Mercer St,CH-08,DPD-01,Annual Member,Male,1975
+76124,5/19/15 20:41,5/19/15 20:54,SEA00075,SEA,00075,810.777,City Hall / 4th Ave & James St,Seattle University / E Columbia St & 12th Ave,CBD-07,FH-04,Annual Member,Male,1976
+111481,7/18/15 10:04,7/18/15 10:08,SEA00231,SEA,00231,260.745,Bellevue Ave & E Pine St,Westlake Ave & 6th Ave,CH-12,SLU-15,Annual Member,Male,1965
+49413,3/22/15 16:53,3/22/15 16:56,SEA00221,SEA,00221,190.313,Summit Ave E & E Republican St,REI / Yale Ave N & John St,CH-03,SLU-01,Annual Member,Male,1983
+67520,5/2/15 22:42,5/2/15 22:56,SEA00361,SEA,00361,847.572,Harvard Ave & E Pine St,2nd Ave & Vine St,CH-09,BT-03,Short-Term Pass Holder,NULL,NULL
+145671,9/17/15 8:57,9/17/15 9:07,SEA00242,SEA,00242,593.594,Pier 69 / Alaskan Way & Clay St,1st Ave & Marion St,WF-01,CBD-05,Annual Member,Other,1957
+34860,2/8/15 7:28,2/8/15 7:38,SEA00455,SEA,00455,603.157,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,Burke Museum / E Stevens Way NE & Memorial Way NE,UD-01,UW-02,Annual Member,Male,1992
+116163,7/25/15 16:59,7/25/15 17:17,SEA00351,SEA,00351,1031.213,Occidental Park / Occidental Ave S & S Washington St,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,PS-04,WF-04,Short-Term Pass Holder,NULL,NULL
+65037,4/27/15 15:20,4/27/15 15:23,SEA00286,SEA,00286,209.684,Burke Museum / E Stevens Way NE & Memorial Way NE,UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd,UW-02,UW-10,Annual Member,Male,1977
+124842,8/8/15 13:34,8/8/15 14:37,SEA00481,SEA,00481,3786.31,3rd Ave & Broad St,2nd Ave & Pine St,BT-01,CBD-13,Short-Term Pass Holder,NULL,NULL
+89574,6/13/15 7:03,6/13/15 7:20,SEA00332,SEA,00332,995.264,15th Ave E & E Thomas St,Key Arena / 1st Ave N & Harrison St,CH-05,SLU-19,Annual Member,Female,1987
+122377,8/4/15 15:31,8/4/15 15:53,SEA00417,SEA,00417,1314.926,9th Ave N & Mercer St,Eastlake Ave E & E Allison St,DPD-01,EL-05,Short-Term Pass Holder,NULL,NULL
+1346,10/14/14 17:56,10/14/14 18:02,SEA00433,SEA,00433,355.725,2nd Ave & Spring St,Occidental Park / Occidental Ave S & S Washington St,CBD-06,PS-04,Annual Member,Male,1986
+156268,10/11/15 15:04,10/11/15 16:03,SEA00392,SEA,00392,3592.374,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,UD-01,UD-01,Short-Term Pass Holder,NULL,NULL
+84831,6/4/15 19:20,6/4/15 19:24,SEA00179,SEA,00179,275.955,Bellevue Ave & E Pine St,Summit Ave E & E Republican St,CH-12,CH-03,Annual Member,Male,1981
+149022,9/24/15 17:25,9/24/15 17:32,SEA00122,SEA,00122,391.724,2nd Ave & Pine St,3rd Ave & Broad St,CBD-13,BT-01,Annual Member,Male,1985
+10828,11/7/14 18:11,11/7/14 18:25,SEA00448,SEA,00448,846.258,9th Ave N & Mercer St,E Blaine St & Fairview Ave E,DPD-01,EL-03,Short-Term Pass Holder,NULL,NULL
+35657,2/10/15 18:09,2/10/15 18:14,SEA00086,SEA,00086,256.607,PATH / 9th Ave & Westlake Ave,2nd Ave & Vine St,SLU-07,BT-03,Annual Member,Male,1987
+27722,1/12/15 18:01,1/12/15 18:12,SEA00125,SEA,00125,638.131,PATH / 9th Ave & Westlake Ave,3rd Ave & Broad St,SLU-07,BT-01,Short-Term Pass Holder,NULL,NULL
+49382,3/22/15 15:04,3/22/15 16:13,SEA00184,SEA,00184,4124.034,Dexter Ave & Denny Way,12th Ave & NE Campus Pkwy,SLU-18,UD-04,Short-Term Pass Holder,NULL,NULL
+105384,7/9/15 8:56,7/9/15 9:01,SEA00212,SEA,00212,300.62,Summit Ave & E Denny Way,7th Ave & Union St,CH-01,CBD-03,Annual Member,Male,1981
+22868,12/19/14 20:38,12/19/14 20:42,SEA00264,SEA,00264,278.938,Cal Anderson Park / 11th Ave & Pine St,E Harrison St & Broadway Ave E,CH-08,CH-02,Annual Member,Female,1988
+58176,4/15/15 19:16,4/15/15 19:44,SEA00031,SEA,00031,1694.495,Pier 69 / Alaskan Way & Clay St,Pier 69 / Alaskan Way & Clay St,WF-01,WF-01,Annual Member,Male,1976
+89744,6/13/15 13:07,6/13/15 13:16,SEA00460,SEA,00460,542.784,PATH / 9th Ave & Westlake Ave,7th Ave & Union St,SLU-07,CBD-03,Annual Member,Male,1987
+132572,8/21/15 9:26,8/21/15 9:35,SEA00116,SEA,00116,549.191,15th Ave E & E Thomas St,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,CH-05,EL-01,Annual Member,Female,1988
+142117,9/9/15 22:24,9/9/15 22:37,SEA00185,SEA,00185,758.728,Key Arena / 1st Ave N & Harrison St,2nd Ave & Blanchard St,SLU-19,BT-05,Annual Member,Male,1965
+4365,10/21/14 7:01,10/21/14 7:18,SEA00112,SEA,00112,1009.727,Frye Art Museum / Terry Ave & Columbia St,2nd Ave & Vine St,FH-01,BT-03,Annual Member,Male,1988
+38962,2/19/15 10:29,2/19/15 10:46,SEA00374,SEA,00374,1042.821,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,2nd Ave & Spring St,WF-04,CBD-06,Short-Term Pass Holder,NULL,NULL
+139120,9/3/15 13:45,9/3/15 14:34,SEA00099,SEA,00099,2935.073,NE 47th St & 12th Ave NE,NE 47th St & 12th Ave NE,UD-07,UD-07,Short-Term Pass Holder,NULL,NULL
+144926,9/15/15 17:21,9/15/15 17:29,SEA00233,SEA,00233,471.874,Union St & 4th Ave,PATH / 9th Ave & Westlake Ave,CBD-04,SLU-07,Annual Member,Male,1989
+123748,8/6/15 17:24,8/6/15 20:00,SEA00430,SEA,00430,9374.329,12th Ave & NE Campus Pkwy,12th Ave & NE Campus Pkwy,UD-04,UD-04,Short-Term Pass Holder,NULL,NULL
+42071,3/1/15 10:57,3/1/15 13:43,SEA00082,SEA,00082,9999.13,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,WF-04,WF-04,Short-Term Pass Holder,NULL,NULL
+63407,4/23/15 16:18,4/23/15 16:21,SEA00079,SEA,00079,185.243,E Harrison St & Broadway Ave E,Summit Ave & E Denny Way,CH-02,CH-01,Annual Member,Male,1982
+118814,7/30/15 6:43,7/30/15 6:48,SEA00084,SEA,00084,260.272,REI / Yale Ave N & John St,PATH / 9th Ave & Westlake Ave,SLU-01,SLU-07,Annual Member,Male,1987
+38624,2/18/15 12:41,2/18/15 12:47,SEA00187,SEA,00187,348.219,Dexter Ave & Denny Way,REI / Yale Ave N & John St,SLU-18,SLU-01,Annual Member,Male,1962
+101233,7/3/15 9:16,7/3/15 9:28,SEA00266,SEA,00266,709.194,Westlake Ave & 6th Ave,Republican St & Westlake Ave N,SLU-15,SLU-04,Short-Term Pass Holder,NULL,NULL
+22047,12/16/14 16:09,12/16/14 16:15,SEA00390,SEA,00390,360.154,REI / Yale Ave N & John St,Pine St & 9th Ave,SLU-01,SLU-16,Annual Member,Male,1987
+52674,3/31/15 15:34,3/31/15 15:41,SEA00230,SEA,00230,362.374,15th Ave E & E Thomas St,Harvard Ave & E Pine St,CH-05,CH-09,Annual Member,Female,1962
+17628,11/28/14 14:50,11/28/14 15:05,SEA00101,SEA,00101,956.202,Harvard Ave & E Pine St,Eastlake Ave E & E Allison St,CH-09,EL-05,Annual Member,Female,1965
+98753,6/28/15 19:41,6/28/15 19:50,SEA00170,SEA,00170,565.206,2nd Ave & Pine St,Pier 69 / Alaskan Way & Clay St,CBD-13,WF-01,Annual Member,Male,1975
+102974,7/5/15 14:54,7/5/15 15:18,SEA00381,SEA,00381,1443.693,Key Arena / 1st Ave N & Harrison St,2nd Ave & Pine St,SLU-19,CBD-13,Short-Term Pass Holder,NULL,NULL
+47908,3/18/15 8:27,3/18/15 8:35,SEA00252,SEA,00252,455.606,12th Ave & E Mercer St,E Pine St & 16th Ave,CH-15,CH-07,Annual Member,Female,1983
+32695,1/29/15 16:26,1/29/15 16:31,SEA00182,SEA,00182,314.449,Harvard Ave & E Pine St,Seattle University / E Columbia St & 12th Ave,CH-09,FH-04,Annual Member,Male,1977
+55578,4/8/15 9:55,4/8/15 10:11,SEA00242,SEA,00242,965.527,2nd Ave & Pine St,E Pine St & 16th Ave,CBD-13,CH-07,Short-Term Pass Holder,NULL,NULL
+57154,4/12/15 14:06,4/12/15 14:11,SEA00478,SEA,00478,348.648,REI / Yale Ave N & John St,Westlake Ave & 6th Ave,SLU-01,SLU-15,Annual Member,Female,1987
+28361,1/14/15 18:43,1/14/15 18:54,SEA00078,SEA,00078,675.512,7th Ave & Union St,2nd Ave & Vine St,CBD-03,BT-03,Annual Member,Female,1986
+97585,6/26/15 13:58,6/26/15 14:14,SEA00092,SEA,00092,941.946,Cal Anderson Park / 11th Ave & Pine St,Occidental Park / Occidental Ave S & S Washington St,CH-08,PS-04,Short-Term Pass Holder,NULL,NULL
+98708,6/28/15 17:40,6/28/15 17:48,SEA00108,SEA,00108,436.949,Westlake Ave & 6th Ave,2nd Ave & Pine St,SLU-15,CBD-13,Annual Member,Male,1968
+26717,1/8/15 14:53,1/8/15 15:49,SEA00355,SEA,00355,3394.646,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,EL-01,EL-01,Annual Member,Male,1967
+105435,7/9/15 10:25,7/9/15 11:34,SEA00353,SEA,00353,4134.121,Westlake Ave & 6th Ave,2nd Ave & Spring St,SLU-15,CBD-06,Short-Term Pass Holder,NULL,NULL
+63059,4/22/15 17:44,4/22/15 17:49,SEA00379,SEA,00379,272.788,PATH / 9th Ave & Westlake Ave,9th Ave N & Mercer St,SLU-07,DPD-01,Annual Member,Male,1974
+120844,8/2/15 10:08,8/2/15 10:12,SEA00444,SEA,00444,203.288,15th Ave E & E Thomas St,E Pine St & 16th Ave,CH-05,CH-07,Annual Member,Female,1980
+112723,7/20/15 6:06,7/20/15 6:15,SEA00337,SEA,00337,543.995,2nd Ave & Vine St,Occidental Park / Occidental Ave S & S Washington St,BT-03,PS-04,Annual Member,Male,1960
+138720,9/2/15 15:59,9/2/15 16:22,SEA00456,SEA,00456,1378.941,3rd Ave & Broad St,Union St & 4th Ave,BT-01,CBD-04,Short-Term Pass Holder,NULL,NULL
+67608,5/3/15 11:16,5/3/15 11:32,SEA00213,SEA,00213,950.466,6th Ave S & S King St,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,ID-04,WF-04,Short-Term Pass Holder,NULL,NULL
+136696,8/28/15 11:24,8/28/15 12:02,SEA00364,SEA,00364,2254.392,15th Ave E & E Thomas St,Eastlake Ave E & E Allison St,CH-05,EL-05,Short-Term Pass Holder,NULL,NULL
+37741,2/15/15 18:33,2/15/15 18:49,SEA00210,SEA,00210,974.132,2nd Ave & Spring St,2nd Ave & Blanchard St,CBD-06,BT-05,Short-Term Pass Holder,NULL,NULL
+23362,12/22/14 16:37,12/22/14 16:45,SEA00213,SEA,00213,459.03,Occidental Park / Occidental Ave S & S Washington St,2nd Ave & Spring St,PS-04,CBD-06,Annual Member,Female,1989
+152143,10/1/15 8:54,10/1/15 9:00,SEA00379,SEA,00379,338.832,2nd Ave & Vine St,Republican St & Westlake Ave N,BT-03,SLU-04,Short-Term Pass Holder,NULL,NULL
+41914,2/28/15 17:07,2/28/15 17:11,SEA00269,SEA,00269,262.496,3rd Ave & Broad St,Key Arena / 1st Ave N & Harrison St,BT-01,SLU-19,Short-Term Pass Holder,NULL,NULL
+117206,7/27/15 17:10,7/27/15 17:19,SEA00210,SEA,00210,584.548,Lake Union Park / Valley St & Boren Ave N,Dexter Ave & Denny Way,SLU-17,SLU-18,Short-Term Pass Holder,NULL,NULL
+123752,8/6/15 17:26,8/6/15 17:33,SEA00238,SEA,00238,433.035,6th Ave & Blanchard St,Dexter Ave N & Aloha St,BT-04,SLU-02,Annual Member,Male,1967
+10008,11/5/14 12:29,11/5/14 12:38,SEA00426,SEA,00426,544.748,REI / Yale Ave N & John St,7th Ave & Union St,SLU-01,CBD-03,Short-Term Pass Holder,NULL,NULL
+130695,8/18/15 8:40,8/18/15 8:48,SEA00179,SEA,00179,465.594,Pine St & 9th Ave,9th Ave N & Mercer St,SLU-16,DPD-01,Annual Member,Male,1973
+134117,8/23/15 22:41,8/23/15 22:47,SEA00314,SEA,00314,356.619,2nd Ave & Pine St,2nd Ave & Blanchard St,CBD-13,BT-05,Short-Term Pass Holder,NULL,NULL
+97712,6/26/15 17:22,6/26/15 17:27,SEA00458,SEA,00458,308.032,2nd Ave & Spring St,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,CBD-06,PS-05,Annual Member,Male,1960
+136721,8/28/15 11:58,8/28/15 12:22,SEA00023,SEA,00023,1431.324,Pier 69 / Alaskan Way & Clay St,Pier 69 / Alaskan Way & Clay St,WF-01,WF-01,Short-Term Pass Holder,NULL,NULL
+27844,1/13/15 8:41,1/13/15 8:54,SEA00424,SEA,00424,761.121,Dexter Ave N & Aloha St,REI / Yale Ave N & John St,SLU-02,SLU-01,Annual Member,Male,1987
+43960,3/6/15 18:25,3/6/15 18:34,SEA00284,SEA,00284,499.76,PATH / 9th Ave & Westlake Ave,3rd Ave & Broad St,SLU-07,BT-01,Annual Member,Female,1955
+43046,3/4/15 9:47,3/4/15 9:54,SEA00368,SEA,00368,438.494,Dexter Ave N & Aloha St,2nd Ave & Vine St,SLU-02,BT-03,Short-Term Pass Holder,NULL,NULL
+96851,6/25/15 9:51,6/25/15 9:58,SEA00361,SEA,00361,417.71,1st Ave & Marion St,Pier 69 / Alaskan Way & Clay St,CBD-05,WF-01,Annual Member,Male,1976
+71213,5/9/15 19:15,5/9/15 19:33,SEA00224,SEA,00224,1071.534,Westlake Ave & 6th Ave,Westlake Ave & 6th Ave,SLU-15,SLU-15,Short-Term Pass Holder,NULL,NULL
+97454,6/26/15 10:11,6/26/15 11:18,SEA00081,SEA,00081,3999.376,E Harrison St & Broadway Ave E,E Harrison St & Broadway Ave E,CH-02,CH-02,Short-Term Pass Holder,NULL,NULL
+127672,8/12/15 19:41,8/12/15 19:49,SEA00466,SEA,00466,490.061,Westlake Ave & 6th Ave,Dexter Ave N & Aloha St,SLU-15,SLU-02,Annual Member,Male,1983
+79998,5/27/15 12:17,5/27/15 12:55,SEA00205,SEA,00205,2331.698,2nd Ave & Spring St,7th Ave & Union St,CBD-06,CBD-03,Short-Term Pass Holder,NULL,NULL
+11635,11/9/14 8:31,11/9/14 8:33,SEA00218,SEA,00218,155.224,Harvard Ave & E Pine St,Pine St & 9th Ave,CH-09,SLU-16,Annual Member,Female,1992
+105033,7/8/15 17:06,7/8/15 17:17,SEA00174,SEA,00174,673.666,2nd Ave & Spring St,3rd Ave & Broad St,CBD-06,BT-01,Annual Member,Male,1986
+110022,7/16/15 9:05,7/16/15 9:11,SEA00127,SEA,00127,367.952,3rd Ave & Broad St,2nd Ave & Spring St,BT-01,CBD-06,Annual Member,Male,1984
+128340,8/13/15 19:28,8/13/15 19:36,SEA00058,SEA,00058,479.134,REI / Yale Ave N & John St,E Blaine St & Fairview Ave E,SLU-01,EL-03,Annual Member,Male,1990
+88284,6/10/15 21:03,6/10/15 21:09,SEA00247,SEA,00247,397.57,Key Arena / 1st Ave N & Harrison St,9th Ave N & Mercer St,SLU-19,DPD-01,Annual Member,Male,1977
+41808,2/28/15 14:55,2/28/15 15:07,SEA00131,SEA,00131,736.398,Dexter Ave & Denny Way,3rd Ave & Broad St,SLU-18,BT-01,Short-Term Pass Holder,NULL,NULL
+147203,9/21/15 7:27,9/21/15 7:43,SEA00265,SEA,00265,961.268,2nd Ave & Blanchard St,E Blaine St & Fairview Ave E,BT-05,EL-03,Annual Member,Female,1964
+143315,9/11/15 20:36,9/11/15 21:11,SEA00171,SEA,00171,2085.621,3rd Ave & Broad St,Pine St & 9th Ave,BT-01,SLU-16,Short-Term Pass Holder,NULL,NULL
+111035,7/17/15 15:08,7/17/15 15:15,SEA00327,SEA,00327,393.356,Frye Art Museum / Terry Ave & Columbia St,Pine St & 9th Ave,FH-01,SLU-16,Annual Member,Female,1982
+98295,6/27/15 20:00,6/27/15 22:52,SEA00127,SEA,00127,10286.881,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,UD-01,UD-01,Short-Term Pass Holder,NULL,NULL
+56235,4/9/15 17:05,4/9/15 17:28,SEA00301,SEA,00301,1392.516,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,6th Ave S & S King St,WF-04,ID-04,Short-Term Pass Holder,NULL,NULL
+114305,7/22/15 17:22,7/22/15 17:28,SEA00440,SEA,00440,412.427,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,Republican St & Westlake Ave N,EL-01,SLU-04,Annual Member,Male,1986
+87031,6/8/15 17:09,6/8/15 17:17,SEA00343,SEA,00343,513.51,Bellevue Ave & E Pine St,Pine St & 9th Ave,CH-12,SLU-16,Short-Term Pass Holder,NULL,NULL
+85892,6/6/15 16:18,6/6/15 16:44,SEA00170,SEA,00170,1549.028,Key Arena / 1st Ave N & Harrison St,3rd Ave & Broad St,SLU-19,BT-01,Short-Term Pass Holder,NULL,NULL
+150919,9/28/15 18:01,9/28/15 18:24,SEA00139,SEA,00139,1377.932,Union St & 4th Ave,Occidental Park / Occidental Ave S & S Washington St,CBD-04,PS-04,Short-Term Pass Holder,NULL,NULL
+45545,3/10/15 16:24,3/10/15 16:53,SEA00052,SEA,00052,1743.792,15th Ave E & E Thomas St,E Harrison St & Broadway Ave E,CH-05,CH-02,Annual Member,Male,1987
+21704,12/15/14 12:24,12/15/14 12:30,SEA00242,SEA,00242,314.978,Key Arena / 1st Ave N & Harrison St,2nd Ave & Vine St,SLU-19,BT-03,Annual Member,Male,1956
+142373,9/10/15 12:41,9/10/15 12:56,SEA00414,SEA,00414,894.668,Union St & 4th Ave,Occidental Park / Occidental Ave S & S Washington St,CBD-04,PS-04,Short-Term Pass Holder,NULL,NULL
+19950,12/8/14 11:38,12/8/14 11:49,SEA00481,SEA,00481,692.646,E Pine St & 16th Ave,City Hall / 4th Ave & James St,CH-07,CBD-07,Annual Member,Male,1985
+28843,1/16/15 15:43,1/16/15 15:52,SEA00088,SEA,00088,517.89,2nd Ave & Spring St,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,CBD-06,PS-05,Short-Term Pass Holder,NULL,NULL
+33702,2/2/15 17:21,2/2/15 17:28,SEA00166,SEA,00166,463.141,City Hall / 4th Ave & James St,2nd Ave & Pine St,CBD-07,CBD-13,Annual Member,Male,1974
+88345,6/11/15 7:12,6/11/15 7:22,SEA00428,SEA,00428,609.151,E Pine St & 16th Ave,2nd Ave & Blanchard St,CH-07,BT-05,Annual Member,Male,1985
+118992,7/30/15 10:28,7/30/15 10:35,SEA00455,SEA,00455,460.27,Dexter Ave N & Aloha St,PATH / 9th Ave & Westlake Ave,SLU-02,SLU-07,Annual Member,Male,1983
+60420,4/19/15 12:03,4/19/15 12:25,SEA00341,SEA,00341,1297.917,15th Ave NE & NE 40th St,NE 47th St & 12th Ave NE,UW-04,UD-07,Short-Term Pass Holder,NULL,NULL
+65460,4/28/15 9:06,4/28/15 9:10,SEA00135,SEA,00135,241.737,Pine St & 9th Ave,PATH / 9th Ave & Westlake Ave,SLU-16,SLU-07,Annual Member,Male,1987
+144267,9/14/15 9:12,9/14/15 9:19,SEA00436,SEA,00436,441.262,E Harrison St & Broadway Ave E,Terry Ave & Stewart St,CH-02,SLU-20,Annual Member,Male,1992
+93761,6/19/15 17:09,6/19/15 17:11,SEA00209,SEA,00209,133.338,12th Ave & E Mercer St,E Harrison St & Broadway Ave E,CH-15,CH-02,Short-Term Pass Holder,NULL,NULL
+81887,5/30/15 11:34,5/30/15 12:04,SEA00321,SEA,00321,1803.578,1st Ave & Marion St,2nd Ave & Blanchard St,CBD-05,BT-05,Short-Term Pass Holder,NULL,NULL
+82065,5/30/15 14:12,5/30/15 14:20,SEA00150,SEA,00150,482.442,NE 47th St & 12th Ave NE,UW Intramural Activities Building,UD-07,UW-07,Annual Member,Male,1991
+111137,7/17/15 17:00,7/17/15 19:47,SEA00237,SEA,00237,9982.064,City Hall / 4th Ave & James St,City Hall / 4th Ave & James St,CBD-07,CBD-07,Short-Term Pass Holder,NULL,NULL
+63960,4/25/15 9:00,4/25/15 9:15,SEA00473,SEA,00473,883.235,2nd Ave & Pine St,Lake Union Park / Valley St & Boren Ave N,CBD-13,SLU-17,Short-Term Pass Holder,NULL,NULL
+27098,1/9/15 16:31,1/9/15 16:45,SEA00069,SEA,00069,851.54,City Hall / 4th Ave & James St,REI / Yale Ave N & John St,CBD-07,SLU-01,Annual Member,Male,1978
+20578,12/11/14 7:58,12/11/14 8:05,SEA00236,SEA,00236,438.945,Westlake Ave & 6th Ave,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,SLU-15,EL-01,Annual Member,Male,1971
+81715,5/29/15 20:31,5/29/15 20:51,SEA00476,SEA,00476,1182.223,15th Ave E & E Thomas St,15th Ave E & E Thomas St,CH-05,CH-05,Short-Term Pass Holder,NULL,NULL
+63956,4/25/15 8:53,4/25/15 8:56,SEA00150,SEA,00150,183.482,E Harrison St & Broadway Ave E,Harvard Ave & E Pine St,CH-02,CH-09,Annual Member,Male,1969
+95972,6/23/15 17:43,6/23/15 17:46,SEA00276,SEA,00276,180.654,REI / Yale Ave N & John St,Terry Ave & Stewart St,SLU-01,SLU-20,Annual Member,Male,1987
+133313,8/22/15 13:15,8/22/15 20:12,SEA00091,SEA,00091,24988.149,15th Ave E & E Thomas St,NE 47th St & 12th Ave NE,CH-05,UD-07,Short-Term Pass Holder,NULL,NULL
+80176,5/27/15 16:57,5/27/15 17:07,SEA00328,SEA,00328,585.089,3rd Ave & Broad St,2nd Ave & Pine St,BT-01,CBD-13,Annual Member,Female,1965
+134887,8/25/15 8:47,8/25/15 8:55,SEA00236,SEA,00236,506.399,Bellevue Ave & E Pine St,PATH / 9th Ave & Westlake Ave,CH-12,SLU-07,Annual Member,Male,1988
+44551,3/8/15 11:18,3/8/15 11:46,SEA00159,SEA,00159,1655.053,7th Ave & Union St,3rd Ave & Broad St,CBD-03,BT-01,Short-Term Pass Holder,NULL,NULL
+122115,8/4/15 9:10,8/4/15 9:16,SEA00375,SEA,00375,366.843,15th Ave E & E Thomas St,Bellevue Ave & E Pine St,CH-05,CH-12,Annual Member,Male,1983
+80570,5/28/15 9:25,5/28/15 9:34,SEA00377,SEA,00377,531.356,Pine St & 9th Ave,Republican St & Westlake Ave N,SLU-16,SLU-04,Annual Member,Male,1972
+100517,7/1/15 23:20,7/1/15 23:31,SEA00445,SEA,00445,626.836,15th Ave NE & NE 40th St,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,UW-04,UD-01,Short-Term Pass Holder,NULL,NULL
+60290,4/19/15 9:52,4/19/15 10:24,SEA00364,SEA,00364,1910.602,Frye Art Museum / Terry Ave & Columbia St,2nd Ave & Pine St,FH-01,CBD-13,Short-Term Pass Holder,NULL,NULL
+128351,8/13/15 19:41,8/13/15 19:46,SEA00169,SEA,00169,260.456,3rd Ave & Broad St,2nd Ave & Blanchard St,BT-01,BT-05,Annual Member,Male,1962
+13422,11/13/14 19:05,11/13/14 19:11,SEA00442,SEA,00442,328.302,15th Ave E & E Thomas St,Seattle University / E Columbia St & 12th Ave,CH-05,FH-04,Annual Member,Male,1981
+122483,8/4/15 17:41,8/4/15 17:59,SEA00071,SEA,00071,1083.112,6th Ave & Blanchard St,E Pine St & 16th Ave,BT-04,CH-07,Annual Member,Female,1985
+112138,7/19/15 7:36,7/19/15 7:51,SEA00024,SEA,00024,881.089,Pine St & 9th Ave,Frye Art Museum / Terry Ave & Columbia St,SLU-16,FH-01,Short-Term Pass Holder,NULL,NULL
+138639,9/2/15 12:07,9/2/15 12:15,SEA00417,SEA,00417,490.033,7th Ave & Union St,Summit Ave & E Denny Way,CBD-03,CH-01,Annual Member,Male,1980
+66861,5/1/15 17:53,5/1/15 17:54,SEA00049,SEA,00049,74.612,Pier 69 / Alaskan Way & Clay St,Pier 69 / Alaskan Way & Clay St,WF-01,WF-01,Short-Term Pass Holder,NULL,NULL
+119523,7/31/15 8:50,7/31/15 8:54,SEA00150,SEA,00150,275.055,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,1st Ave & Marion St,PS-05,CBD-05,Annual Member,Male,1956
+31644,1/26/15 17:08,1/26/15 17:38,SEA00038,SEA,00038,1794.08,12th Ave & NE Campus Pkwy,REI / Yale Ave N & John St,UD-04,SLU-01,Annual Member,Male,1986
+16596,11/23/14 17:26,11/23/14 17:29,SEA00334,SEA,00334,148.476,Harvard Ave & E Pine St,Pine St & 9th Ave,CH-09,SLU-16,Annual Member,Male,1984
+76786,5/21/15 8:35,5/21/15 8:59,SEA00390,SEA,00390,1465.939,Lake Union Park / Valley St & Boren Ave N,12th Ave & NE Campus Pkwy,SLU-17,UD-04,Annual Member,Male,1983
+49795,3/24/15 9:49,3/24/15 9:57,SEA00390,SEA,00390,490.925,2nd Ave & Vine St,2nd Ave & Pine St,BT-03,CBD-13,Annual Member,Male,1989
+100254,7/1/15 14:36,7/1/15 14:48,SEA00444,SEA,00444,755.621,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,Occidental Park / Occidental Ave S & S Washington St,WF-04,PS-04,Short-Term Pass Holder,NULL,NULL
+136778,8/28/15 14:07,8/28/15 14:45,SEA00500,SEA,00500,2258.863,Pier 69 / Alaskan Way & Clay St,Key Arena / 1st Ave N & Harrison St,WF-01,SLU-19,Short-Term Pass Holder,NULL,NULL
+74740,5/17/15 13:51,5/17/15 13:58,SEA00495,SEA,00495,416.624,1st Ave & Marion St,Pier 69 / Alaskan Way & Clay St,CBD-05,WF-01,Short-Term Pass Holder,NULL,NULL
+117603,7/28/15 11:14,7/28/15 11:27,SEA00326,SEA,00326,748.071,Union St & 4th Ave,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,CBD-04,PS-05,Short-Term Pass Holder,NULL,NULL
+113454,7/21/15 12:10,7/21/15 12:18,SEA00281,SEA,00281,484.955,Cal Anderson Park / 11th Ave & Pine St,E Harrison St & Broadway Ave E,CH-08,CH-02,Short-Term Pass Holder,NULL,NULL
+114214,7/22/15 16:09,7/22/15 16:28,SEA00481,SEA,00481,1141.883,Key Arena / 1st Ave N & Harrison St,2nd Ave & Spring St,SLU-19,CBD-06,Short-Term Pass Holder,NULL,NULL
+98355,6/27/15 22:30,6/27/15 22:49,SEA00329,SEA,00329,1119.183,12th Ave & NE Campus Pkwy,UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd,UD-04,UW-10,Short-Term Pass Holder,NULL,NULL
+24294,12/27/14 14:13,12/27/14 14:53,SEA00275,SEA,00275,2377.129,Eastlake Ave E & E Allison St,Eastlake Ave E & E Allison St,EL-05,EL-05,Short-Term Pass Holder,NULL,NULL
+129246,8/15/15 17:37,8/15/15 17:53,SEA00154,SEA,00154,1002.647,Lake Union Park / Valley St & Boren Ave N,3rd Ave & Broad St,SLU-17,BT-01,Short-Term Pass Holder,NULL,NULL
+15745,11/20/14 17:23,11/20/14 17:40,SEA00354,SEA,00354,999.788,E Blaine St & Fairview Ave E,Dexter Ave & Denny Way,EL-03,SLU-18,Annual Member,Male,1980
+39723,2/21/15 16:34,2/21/15 16:42,SEA00268,SEA,00268,486.213,UW McCarty Hall / Whitman Ct,15th Ave NE & NE 40th St,UW-01,UW-04,Short-Term Pass Holder,NULL,NULL
+152292,10/1/15 14:33,10/1/15 15:02,SEA00449,SEA,00449,1765.509,Summit Ave E & E Republican St,1st Ave & Marion St,CH-03,CBD-05,Short-Term Pass Holder,NULL,NULL
+129623,8/16/15 13:08,8/16/15 13:14,SEA00065,SEA,00065,338.582,Dexter Ave N & Aloha St,Dexter Ave N & Aloha St,SLU-02,SLU-02,Annual Member,Male,1985
+88886,6/11/15 19:12,6/11/15 19:26,SEA00232,SEA,00232,870.132,Key Arena / 1st Ave N & Harrison St,Westlake Ave & 6th Ave,SLU-19,SLU-15,Short-Term Pass Holder,NULL,NULL
+90195,6/13/15 19:45,6/13/15 20:58,SEA00310,SEA,00310,4348.428,Pier 69 / Alaskan Way & Clay St,Key Arena / 1st Ave N & Harrison St,WF-01,SLU-19,Short-Term Pass Holder,NULL,NULL
+155361,10/8/15 16:01,10/8/15 16:06,SEA00096,SEA,00096,331.045,Frye Art Museum / Terry Ave & Columbia St,2nd Ave & Spring St,FH-01,CBD-06,Annual Member,Male,1966
+122149,8/4/15 9:50,8/4/15 10:15,SEA00254,SEA,00254,1450.749,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,Occidental Park / Occidental Ave S & S Washington St,WF-04,PS-04,Annual Member,Male,1977
+52959,4/1/15 11:41,4/1/15 12:01,SEA00032,SEA,00032,1237.841,15th Ave NE & NE 40th St,15th Ave NE & NE 40th St,UW-04,UW-04,Short-Term Pass Holder,NULL,NULL
+66767,5/1/15 15:45,5/1/15 15:55,SEA00189,SEA,00189,587.642,3rd Ave & Broad St,2nd Ave & Pine St,BT-01,CBD-13,Annual Member,Male,1989
+17788,11/29/14 18:42,11/29/14 18:57,SEA00349,SEA,00349,927.002,1st Ave & Marion St,Westlake Ave & 6th Ave,CBD-05,SLU-15,Short-Term Pass Holder,NULL,NULL
+3680,10/19/14 16:07,10/19/14 16:46,SEA00334,SEA,00334,2349.349,Pier 69 / Alaskan Way & Clay St,Westlake Ave & 6th Ave,WF-01,SLU-15,Short-Term Pass Holder,NULL,NULL
+147972,9/22/15 17:30,9/22/15 17:35,SEA00432,SEA,00432,332.705,15th Ave NE & NE 40th St,Eastlake Ave E & E Allison St,UW-04,EL-05,Annual Member,Male,1988
+10653,11/7/14 13:22,11/7/14 13:29,SEA00420,SEA,00420,466.567,Occidental Park / Occidental Ave S & S Washington St,2nd Ave & Spring St,PS-04,CBD-06,Short-Term Pass Holder,NULL,NULL
+90333,6/14/15 0:48,6/14/15 1:51,SEA00327,SEA,00327,3811.366,Key Arena / 1st Ave N & Harrison St,Key Arena / 1st Ave N & Harrison St,SLU-19,SLU-19,Short-Term Pass Holder,NULL,NULL
+16555,11/23/14 15:57,11/23/14 16:09,SEA00307,SEA,00307,745.613,E Blaine St & Fairview Ave E,Dexter Ave & Denny Way,EL-03,SLU-18,Short-Term Pass Holder,NULL,NULL
+96322,6/24/15 12:41,6/24/15 13:04,SEA00324,SEA,00324,1391.417,PATH / 9th Ave & Westlake Ave,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,SLU-07,PS-05,Short-Term Pass Holder,NULL,NULL
+40802,2/25/15 7:44,2/25/15 7:52,SEA00118,SEA,00118,456.478,12th Ave & E Mercer St,Republican St & Westlake Ave N,CH-15,SLU-04,Annual Member,Male,1988
+154156,10/5/15 14:07,10/5/15 14:15,SEA00492,SEA,00492,438.473,Lake Union Park / Valley St & Boren Ave N,9th Ave N & Mercer St,SLU-17,DPD-01,Annual Member,Female,1969
+10912,11/7/14 21:52,11/7/14 22:35,SEA00282,SEA,00282,2566.59,15th Ave NE & NE 40th St,UW McCarty Hall / Whitman Ct,UW-04,UW-01,Short-Term Pass Holder,NULL,NULL
+151658,9/30/15 8:37,9/30/15 8:47,SEA00471,SEA,00471,600.374,Pier 69 / Alaskan Way & Clay St,1st Ave & Marion St,WF-01,CBD-05,Annual Member,Other,1957
+13407,11/13/14 18:22,11/13/14 18:28,SEA00227,SEA,00227,346.326,3rd Ave & Broad St,PATH / 9th Ave & Westlake Ave,BT-01,SLU-07,Annual Member,Male,1969
+54802,4/6/15 10:06,4/6/15 10:16,SEA00173,SEA,00173,608.129,2nd Ave & Spring St,REI / Yale Ave N & John St,CBD-06,SLU-01,Annual Member,Male,1970
+39264,2/20/15 15:35,2/20/15 15:40,SEA00310,SEA,00310,300.558,2nd Ave & Blanchard St,7th Ave & Union St,BT-05,CBD-03,Annual Member,Male,1987
+145105,9/16/15 6:45,9/16/15 7:16,SEA00316,SEA,00316,1850.144,Harvard Ave & E Pine St,2nd Ave & Pine St,CH-09,CBD-13,Short-Term Pass Holder,NULL,NULL
+28883,1/16/15 17:22,1/16/15 17:50,SEA00028,SEA,00028,1705.418,UW Intramural Activities Building,15th Ave NE & NE 40th St,UW-07,UW-04,Annual Member,Male,1992
+46983,3/14/15 14:50,3/14/15 15:08,SEA00464,SEA,00464,1047.929,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,UD-01,UD-01,Short-Term Pass Holder,NULL,NULL
+100031,7/1/15 8:22,7/1/15 8:39,SEA00182,SEA,00182,998.538,15th Ave E & E Thomas St,12th Ave & NE Campus Pkwy,CH-05,UD-04,Annual Member,Male,1975
+124554,8/7/15 19:18,8/7/15 19:43,SEA00107,SEA,00107,1448.181,Pier 69 / Alaskan Way & Clay St,Pier 69 / Alaskan Way & Clay St,WF-01,WF-01,Short-Term Pass Holder,NULL,NULL
+115608,7/24/15 17:37,7/24/15 17:54,SEA00352,SEA,00352,1017.671,6th Ave & Blanchard St,Occidental Park / Occidental Ave S & S Washington St,BT-04,PS-04,Short-Term Pass Holder,NULL,NULL
+9377,11/3/14 23:58,11/4/14 0:04,SEA00104,SEA,00104,348.813,12th Ave & E Mercer St,E Pine St & 16th Ave,CH-15,CH-07,Annual Member,Male,1983
+43235,3/4/15 17:52,3/4/15 18:02,SEA00259,SEA,00259,611.701,1st Ave & Marion St,2nd Ave & Vine St,CBD-05,BT-03,Annual Member,Female,1984
+96396,6/24/15 14:50,6/24/15 15:08,SEA00463,SEA,00463,1055.864,12th Ave & NE Campus Pkwy,Eastlake Ave E & E Allison St,UD-04,EL-05,Short-Term Pass Holder,NULL,NULL
+74913,5/17/15 17:59,5/17/15 18:23,SEA00478,SEA,00478,1452.852,Pier 69 / Alaskan Way & Clay St,Pier 69 / Alaskan Way & Clay St,WF-01,WF-01,Short-Term Pass Holder,NULL,NULL
+30145,1/21/15 16:45,1/21/15 16:56,SEA00465,SEA,00465,651.581,2nd Ave & Spring St,Cal Anderson Park / 11th Ave & Pine St,CBD-06,CH-08,Annual Member,Male,1983
+21267,12/13/14 15:53,12/13/14 16:08,SEA00093,SEA,00093,918.616,Bellevue Ave & E Pine St,2nd Ave & Pine St,CH-12,CBD-13,Short-Term Pass Holder,NULL,NULL
+84815,6/4/15 18:53,6/4/15 18:58,SEA00273,SEA,00273,310.772,REI / Yale Ave N & John St,Westlake Ave & 6th Ave,SLU-01,SLU-15,Annual Member,Male,1980
+107024,7/11/15 16:19,7/11/15 16:46,SEA00451,SEA,00451,1634.509,E Blaine St & Fairview Ave E,Key Arena / 1st Ave N & Harrison St,EL-03,SLU-19,Short-Term Pass Holder,NULL,NULL
+12233,11/10/14 16:46,11/10/14 16:53,SEA00465,SEA,00465,430.367,PATH / 9th Ave & Westlake Ave,Dexter Ave N & Aloha St,SLU-07,SLU-02,Annual Member,Male,1971
+152508,10/1/15 23:16,10/1/15 23:21,SEA00328,SEA,00328,290.138,NE 42nd St & University Way NE,12th Ave & NE Campus Pkwy,UD-02,UD-04,Annual Member,Male,1995
+4570,10/21/14 15:29,10/21/14 15:32,SEA00489,SEA,00489,189.121,Burke Museum / E Stevens Way NE & Memorial Way NE,15th Ave NE & NE 40th St,UW-02,UW-04,Annual Member,Female,1965
+121268,8/2/15 20:08,8/2/15 20:43,SEA00201,SEA,00201,2066.692,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,3rd Ave & Broad St,WF-04,BT-01,Short-Term Pass Holder,NULL,NULL
+2652,10/18/14 0:41,10/18/14 0:44,SEA00314,SEA,00314,161.824,Cal Anderson Park / 11th Ave & Pine St,Bellevue Ave & E Pine St,CH-08,CH-12,Annual Member,Male,1987
+44639,3/8/15 13:29,3/8/15 13:41,SEA00292,SEA,00292,729.437,Eastlake Ave E & E Allison St,Lake Union Park / Valley St & Boren Ave N,EL-05,SLU-17,Short-Term Pass Holder,NULL,NULL
+84175,6/3/15 17:25,6/3/15 17:41,SEA00289,SEA,00289,939.795,Occidental Park / Occidental Ave S & S Washington St,12th Ave & E Yesler Way,PS-04,CD-01,Annual Member,Female,1970
+121975,8/3/15 21:33,8/3/15 21:45,SEA00385,SEA,00385,736.619,3rd Ave & Broad St,3rd Ave & Broad St,BT-01,BT-01,Short-Term Pass Holder,NULL,NULL
+150063,9/26/15 18:46,9/26/15 19:01,SEA00356,SEA,00356,897.903,Pier 69 / Alaskan Way & Clay St,2nd Ave & Spring St,WF-01,CBD-06,Short-Term Pass Holder,NULL,NULL
+58144,4/15/15 18:07,4/15/15 18:31,SEA00490,SEA,00490,1455.035,6th Ave S & S King St,12th Ave & E Denny Way,ID-04,CH-06,Annual Member,Male,1973
+127407,8/12/15 14:57,8/12/15 15:24,SEA00030,SEA,00030,1580.977,Burke Museum / E Stevens Way NE & Memorial Way NE,Burke Museum / E Stevens Way NE & Memorial Way NE,UW-02,UW-02,Short-Term Pass Holder,NULL,NULL
+12468,11/11/14 9:32,11/11/14 9:35,SEA00467,SEA,00467,203.385,REI / Yale Ave N & John St,PATH / 9th Ave & Westlake Ave,SLU-01,SLU-07,Annual Member,Male,1953
+33804,2/3/15 7:52,2/3/15 8:02,SEA00353,SEA,00353,578.123,Summit Ave & E Denny Way,2nd Ave & Spring St,CH-01,CBD-06,Annual Member,Female,1991
+43872,3/6/15 15:58,3/6/15 16:01,SEA00180,SEA,00180,150.367,Lake Union Park / Valley St & Boren Ave N,Lake Union Park / Valley St & Boren Ave N,SLU-17,SLU-17,Short-Term Pass Holder,NULL,NULL
+129501,8/16/15 11:16,8/16/15 11:18,SEA00028,SEA,00028,120.6,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,WF-04,WF-04,Short-Term Pass Holder,NULL,NULL
+68877,5/6/15 10:04,5/6/15 10:21,SEA00453,SEA,00453,1038.106,E Blaine St & Fairview Ave E,15th Ave NE & NE 40th St,EL-03,UW-04,Short-Term Pass Holder,NULL,NULL
+8110,11/1/14 3:25,11/1/14 3:47,SEA00172,SEA,00172,1299.826,2nd Ave & Pine St,2nd Ave & Spring St,CBD-13,CBD-06,Short-Term Pass Holder,NULL,NULL
+73382,5/14/15 17:46,5/14/15 20:04,SEA00262,SEA,00262,8325.727,15th Ave NE & NE 40th St,Pine St & 9th Ave,UW-04,SLU-16,Short-Term Pass Holder,NULL,NULL
+69329,5/7/15 9:47,5/7/15 9:49,SEA00090,SEA,00090,155.328,NE 42nd St & University Way NE,15th Ave NE & NE 40th St,UD-02,UW-04,Annual Member,Male,1981
+144294,9/14/15 9:47,9/14/15 9:56,SEA00139,SEA,00139,519.964,Eastlake Ave E & E Allison St,UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd,EL-05,UW-10,Annual Member,Male,1993
+41052,2/26/15 8:12,2/26/15 8:21,SEA00463,SEA,00463,514.786,2nd Ave & Pine St,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,CBD-13,PS-05,Annual Member,Male,1955
+67471,5/2/15 19:28,5/2/15 19:37,SEA00360,SEA,00360,515.25,3rd Ave & Broad St,Pine St & 9th Ave,BT-01,SLU-16,Annual Member,Male,1972
+104898,7/8/15 13:48,7/8/15 14:15,SEA00403,SEA,00403,1629.396,Dexter Ave & Denny Way,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,SLU-18,EL-01,Short-Term Pass Holder,NULL,NULL
+125787,8/9/15 19:59,8/9/15 20:07,SEA00081,SEA,00081,486.386,2nd Ave & Vine St,Terry Ave & Stewart St,BT-03,SLU-20,Annual Member,Male,1983
+60972,4/19/15 20:49,4/19/15 21:07,SEA00157,SEA,00157,1136.549,Summit Ave E & E Republican St,NE 42nd St & University Way NE,CH-03,UD-02,Annual Member,Male,1982
+144253,9/14/15 8:57,9/14/15 9:04,SEA00311,SEA,00311,441.367,Summit Ave E & E Republican St,Union St & 4th Ave,CH-03,CBD-04,Annual Member,Male,1981
+6483,10/27/14 11:18,10/27/14 11:49,SEA00095,SEA,00095,1830.26,12th Ave & E Mercer St,Eastlake Ave E & E Allison St,CH-15,EL-05,Annual Member,Male,1985
+136467,8/27/15 18:49,8/27/15 21:38,SEA00254,SEA,00254,10174.365,Lake Union Park / Valley St & Boren Ave N,Lake Union Park / Valley St & Boren Ave N,SLU-17,SLU-17,Short-Term Pass Holder,NULL,NULL
+87694,6/9/15 19:37,6/9/15 19:51,SEA00442,SEA,00442,814.535,Key Arena / 1st Ave N & Harrison St,1st Ave & Marion St,SLU-19,CBD-05,Annual Member,Female,1974
+19148,12/4/14 18:39,12/4/14 18:52,SEA00271,SEA,00271,767.008,Pier 69 / Alaskan Way & Clay St,Occidental Park / Occidental Ave S & S Washington St,WF-01,PS-04,Short-Term Pass Holder,NULL,NULL
+140828,9/7/15 14:46,9/7/15 16:01,SEA00137,SEA,00137,4503.633,Lake Union Park / Valley St & Boren Ave N,Pier 69 / Alaskan Way & Clay St,SLU-17,WF-01,Short-Term Pass Holder,NULL,NULL
+10887,11/7/14 21:13,11/7/14 21:51,SEA00334,SEA,00334,2305.965,REI / Yale Ave N & John St,Pier 69 / Alaskan Way & Clay St,SLU-01,WF-01,Short-Term Pass Holder,NULL,NULL
+84220,6/3/15 18:21,6/3/15 18:56,SEA00448,SEA,00448,2103.251,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,2nd Ave & Vine St,PS-05,BT-03,Short-Term Pass Holder,NULL,NULL
+84607,6/4/15 14:02,6/4/15 14:20,SEA00310,SEA,00310,1068.404,2nd Ave & Pine St,3rd Ave & Broad St,CBD-13,BT-01,Short-Term Pass Holder,NULL,NULL
+101753,7/3/15 20:39,7/3/15 20:58,SEA00445,SEA,00445,1154.855,3rd Ave & Broad St,E Blaine St & Fairview Ave E,BT-01,EL-03,Short-Term Pass Holder,NULL,NULL
+88766,6/11/15 17:10,6/11/15 17:20,SEA00160,SEA,00160,638.31,UW Intramural Activities Building,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,UW-07,UD-01,Short-Term Pass Holder,NULL,NULL
+75040,5/17/15 21:27,5/17/15 21:42,SEA00286,SEA,00286,865.689,Dexter Ave N & Aloha St,2nd Ave & Pine St,SLU-02,CBD-13,Annual Member,Male,1988
+45081,3/9/15 7:45,3/9/15 7:47,SEA00269,SEA,00269,91.47,Seattle University / E Columbia St & 12th Ave,Seattle University / E Columbia St & 12th Ave,FH-04,FH-04,Annual Member,Male,1976
+68932,5/6/15 12:24,5/6/15 12:46,SEA00059,SEA,00059,1285.134,Dexter Ave & Denny Way,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,SLU-18,WF-04,Short-Term Pass Holder,NULL,NULL
+102654,7/4/15 22:59,7/4/15 23:18,SEA00384,SEA,00384,1132.481,9th Ave N & Mercer St,1st Ave & Marion St,DPD-01,CBD-05,Annual Member,Male,1974
+114757,7/23/15 11:34,7/23/15 12:45,SEA00308,SEA,00308,4230.285,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,Pier 69 / Alaskan Way & Clay St,WF-04,WF-01,Short-Term Pass Holder,NULL,NULL
+80652,5/28/15 11:48,5/28/15 11:57,SEA00380,SEA,00380,511.993,Westlake Ave & 6th Ave,Lake Union Park / Valley St & Boren Ave N,SLU-15,SLU-17,Annual Member,Male,1961
+9060,11/2/14 20:16,11/2/14 20:21,SEA00196,SEA,00196,296.143,12th Ave & E Denny Way,12th Ave & E Mercer St,CH-06,CH-15,Short-Term Pass Holder,NULL,NULL
+46288,3/12/15 15:29,3/12/15 15:53,SEA00271,SEA,00271,1444.955,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,WF-04,WF-04,Short-Term Pass Holder,NULL,NULL
+141515,9/8/15 22:25,9/8/15 22:36,SEA00207,SEA,00207,680.334,2nd Ave & Blanchard St,Summit Ave & E Denny Way,BT-05,CH-01,Annual Member,Male,1978
+137056,8/29/15 9:04,8/29/15 9:18,SEA00394,SEA,00394,857.948,2nd Ave & Blanchard St,Key Arena / 1st Ave N & Harrison St,BT-05,SLU-19,Short-Term Pass Holder,NULL,NULL
+31573,1/26/15 15:13,1/26/15 15:19,SEA00102,SEA,00102,362.046,REI / Yale Ave N & John St,Westlake Ave & 6th Ave,SLU-01,SLU-15,Annual Member,Male,1985
+73617,5/15/15 8:41,5/15/15 8:50,SEA00189,SEA,00189,558.828,Summit Ave E & E Republican St,7th Ave & Union St,CH-03,CBD-03,Annual Member,Male,1976
+103539,7/6/15 12:41,7/6/15 12:46,SEA00412,SEA,00412,262.193,Burke Museum / E Stevens Way NE & Memorial Way NE,UW Engineering Library / E Stevens Way NE & Jefferson Rd,UW-02,UW-06,Annual Member,Male,1983
+44870,3/8/15 17:44,3/8/15 18:37,SEA00042,SEA,00042,3124.614,3rd Ave & Broad St,Key Arena / 1st Ave N & Harrison St,BT-01,SLU-19,Short-Term Pass Holder,NULL,NULL
+103343,7/6/15 7:58,7/6/15 8:03,SEA00483,SEA,00483,331.785,Bellevue Ave & E Pine St,2nd Ave & Spring St,CH-12,CBD-06,Annual Member,Male,1984
+61168,4/20/15 9:55,4/20/15 9:59,SEA00167,SEA,00167,240.912,2nd Ave & Vine St,2nd Ave & Pine St,BT-03,CBD-13,Annual Member,Male,1972
+61084,4/20/15 8:35,4/20/15 8:42,SEA00266,SEA,00266,393.777,1st Ave & Marion St,Westlake Ave & 6th Ave,CBD-05,SLU-15,Annual Member,Male,1969
+59666,4/18/15 13:29,4/18/15 16:51,SEA00293,SEA,00293,12143.356,12th Ave & NE Campus Pkwy,12th Ave & NE Campus Pkwy,UD-04,UD-04,Short-Term Pass Holder,NULL,NULL
+101952,7/4/15 10:30,7/4/15 10:35,SEA00272,SEA,00272,316.241,Dexter Ave N & Aloha St,Republican St & Westlake Ave N,SLU-02,SLU-04,Annual Member,Male,1977
+147616,9/22/15 5:38,9/22/15 5:46,SEA00110,SEA,00110,485.112,12th Ave & E Denny Way,1st Ave & Marion St,CH-06,CBD-05,Annual Member,Male,1989
+40723,2/24/15 18:20,2/24/15 18:26,SEA00093,SEA,00093,364.625,2nd Ave & Blanchard St,Republican St & Westlake Ave N,BT-05,SLU-04,Annual Member,Female,1985
+53405,4/2/15 15:27,4/2/15 15:46,SEA00368,SEA,00368,1103.461,Pier 69 / Alaskan Way & Clay St,Key Arena / 1st Ave N & Harrison St,WF-01,SLU-19,Short-Term Pass Holder,NULL,NULL
+118022,7/28/15 20:19,7/28/15 20:23,SEA00173,SEA,00173,267.599,Cal Anderson Park / 11th Ave & Pine St,E Harrison St & Broadway Ave E,CH-08,CH-02,Annual Member,Other,1987
+112997,7/20/15 15:23,7/20/15 15:33,SEA00478,SEA,00478,594.141,Cal Anderson Park / 11th Ave & Pine St,2nd Ave & Spring St,CH-08,CBD-06,Annual Member,Male,1984
+61000,4/19/15 23:39,4/19/15 23:58,SEA00427,SEA,00427,1142.705,Pier 69 / Alaskan Way & Clay St,Key Arena / 1st Ave N & Harrison St,WF-01,SLU-19,Short-Term Pass Holder,NULL,NULL
+82207,5/30/15 16:43,5/30/15 17:47,SEA00155,SEA,00155,3830.243,Pier 69 / Alaskan Way & Clay St,Pier 69 / Alaskan Way & Clay St,WF-01,WF-01,Short-Term Pass Holder,NULL,NULL
+49087,3/21/15 14:56,3/21/15 15:09,SEA00341,SEA,00341,795.659,15th Ave NE & NE 40th St,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,UW-04,UD-01,Short-Term Pass Holder,NULL,NULL
+142162,9/10/15 7:30,9/10/15 7:47,SEA00212,SEA,00212,1036.193,2nd Ave & Blanchard St,E Blaine St & Fairview Ave E,BT-05,EL-03,Annual Member,Female,1964
+4339,10/20/14 21:00,10/20/14 21:06,SEA00457,SEA,00457,399.988,2nd Ave & Blanchard St,Pine St & 9th Ave,BT-05,SLU-16,Annual Member,Male,1985
+8583,11/1/14 22:31,11/1/14 22:51,SEA00380,SEA,00380,1209.434,City Hall / 4th Ave & James St,Occidental Park / Occidental Ave S & S Washington St,CBD-07,PS-04,Short-Term Pass Holder,NULL,NULL
+25039,12/31/14 15:39,12/31/14 15:48,SEA00223,SEA,00223,521.001,UW Engineering Library / E Stevens Way NE & Jefferson Rd,Eastlake Ave E & E Allison St,UW-06,EL-05,Annual Member,Female,1989
+95408,6/22/15 17:54,6/22/15 18:03,SEA00166,SEA,00166,535.284,PATH / 9th Ave & Westlake Ave,Dexter Ave N & Aloha St,SLU-07,SLU-02,Annual Member,Male,1967
+72131,5/11/15 17:28,5/11/15 17:35,SEA00489,SEA,00489,409.969,9th Ave N & Mercer St,Key Arena / 1st Ave N & Harrison St,DPD-01,SLU-19,Annual Member,Male,1989
+1488,10/15/14 6:07,10/15/14 6:16,SEA00472,SEA,00472,548.58,E Harrison St & Broadway Ave E,Frye Art Museum / Terry Ave & Columbia St,CH-02,FH-01,Annual Member,Male,1968
+83655,6/2/15 16:41,6/2/15 16:59,SEA00194,SEA,00194,1075.108,6th Ave S & S King St,Seattle University / E Columbia St & 12th Ave,ID-04,FH-04,Annual Member,Male,1981
+11330,11/8/14 14:43,11/8/14 15:21,SEA00413,SEA,00413,2298.552,Westlake Ave & 6th Ave,1st Ave & Marion St,SLU-15,CBD-05,Short-Term Pass Holder,NULL,NULL
+113524,7/21/15 14:15,7/21/15 14:23,SEA00457,SEA,00457,476.635,Westlake Ave & 6th Ave,2nd Ave & Pine St,SLU-15,CBD-13,Annual Member,Male,1987
+108559,7/14/15 7:24,7/14/15 7:34,SEA00279,SEA,00279,588.279,12th Ave & E Mercer St,Republican St & Westlake Ave N,CH-15,SLU-04,Annual Member,Male,1976
+9428,11/4/14 8:23,11/4/14 8:41,SEA00379,SEA,00379,1062.766,15th Ave E & E Thomas St,UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd,CH-05,UW-10,Annual Member,Female,1988
+149608,9/26/15 9:02,9/26/15 9:13,SEA00472,SEA,00472,659.614,Occidental Park / Occidental Ave S & S Washington St,2nd Ave & Pine St,PS-04,CBD-13,Short-Term Pass Holder,NULL,NULL
+103838,7/6/15 18:57,7/6/15 19:06,SEA00182,SEA,00182,532.113,Westlake Ave & 6th Ave,Dexter Ave N & Aloha St,SLU-15,SLU-02,Annual Member,Male,1983
+25057,12/31/14 17:01,12/31/14 17:18,SEA00144,SEA,00144,1053.891,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,Eastlake Ave E & E Allison St,EL-01,EL-05,Annual Member,Female,1984
+18569,12/2/14 17:05,12/2/14 17:16,SEA00239,SEA,00239,689.028,REI / Yale Ave N & John St,2nd Ave & Blanchard St,SLU-01,BT-05,Annual Member,Male,1965
+65278,4/27/15 19:05,4/27/15 19:30,SEA00421,SEA,00421,1462.42,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,UD-01,UD-01,Short-Term Pass Holder,NULL,NULL
+30954,1/24/15 16:09,1/24/15 16:15,SEA00371,SEA,00371,335.547,2nd Ave & Blanchard St,Key Arena / 1st Ave N & Harrison St,BT-05,SLU-19,Annual Member,Male,1970
+52337,3/30/15 15:45,3/30/15 15:58,SEA00482,SEA,00482,791.865,E Pine St & 16th Ave,E Pine St & 16th Ave,CH-07,CH-07,Annual Member,Female,1950
+74227,5/16/15 12:00,5/16/15 12:29,SEA00385,SEA,00385,1748.399,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,Occidental Park / Occidental Ave S & S Washington St,WF-04,PS-04,Short-Term Pass Holder,NULL,NULL
+134764,8/24/15 21:27,8/24/15 21:39,SEA00374,SEA,00374,714.637,Cal Anderson Park / 11th Ave & Pine St,2nd Ave & Vine St,CH-08,BT-03,Annual Member,Male,1983
+29320,1/19/15 12:40,1/19/15 12:55,SEA00264,SEA,00264,911.365,Eastlake Ave E & E Allison St,E Blaine St & Fairview Ave E,EL-05,EL-03,Short-Term Pass Holder,NULL,NULL
+118552,7/29/15 17:05,7/29/15 17:18,SEA00277,SEA,00277,756.185,Pier 69 / Alaskan Way & Clay St,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,WF-01,PS-05,Annual Member,Male,1956
+66292,4/30/15 16:09,4/30/15 16:15,SEA00079,SEA,00079,370.774,Westlake Ave & 6th Ave,9th Ave N & Mercer St,SLU-15,DPD-01,Annual Member,Male,1981
+132505,8/21/15 8:34,8/21/15 8:45,SEA00497,SEA,00497,674.563,Summit Ave & E Denny Way,3rd Ave & Broad St,CH-01,BT-01,Annual Member,Other,1987
+71532,5/10/15 13:53,5/10/15 14:18,SEA00356,SEA,00356,1507.942,15th Ave NE & NE 40th St,9th Ave N & Mercer St,UW-04,DPD-01,Annual Member,Female,1987
+130765,8/18/15 9:45,8/18/15 9:55,SEA00349,SEA,00349,591.175,15th Ave E & E Thomas St,Lake Union Park / Valley St & Boren Ave N,CH-05,SLU-17,Annual Member,Male,1991
+40256,2/23/15 11:04,2/23/15 11:08,SEA00315,SEA,00315,243.948,Pine St & 9th Ave,REI / Yale Ave N & John St,SLU-16,SLU-01,Annual Member,Male,1987
+132369,8/20/15 19:42,8/20/15 20:03,SEA00473,SEA,00473,1306.099,NE 47th St & 12th Ave NE,Summit Ave E & E Republican St,UD-07,CH-03,Annual Member,Male,1980
+131960,8/20/15 8:31,8/20/15 8:38,SEA00024,SEA,00024,371.439,Pier 69 / Alaskan Way & Clay St,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,WF-01,WF-04,Annual Member,Other,1957
+16079,11/21/14 23:54,11/22/14 0:13,SEA00091,SEA,00091,1131.489,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,WF-04,WF-04,Short-Term Pass Holder,NULL,NULL
+90470,6/14/15 11:45,6/14/15 14:17,SEA00413,SEA,00413,9114.951,Key Arena / 1st Ave N & Harrison St,Key Arena / 1st Ave N & Harrison St,SLU-19,SLU-19,Short-Term Pass Holder,NULL,NULL
+5838,10/25/14 10:00,10/25/14 10:04,SEA00041,SEA,00041,234.946,12th Ave & E Denny Way,Seattle University / E Columbia St & 12th Ave,CH-06,FH-04,Annual Member,Male,1988
+98674,6/28/15 16:51,6/28/15 16:56,SEA00368,SEA,00368,321.659,REI / Yale Ave N & John St,PATH / 9th Ave & Westlake Ave,SLU-01,SLU-07,Short-Term Pass Holder,NULL,NULL
+77201,5/21/15 18:31,5/21/15 18:36,SEA00371,SEA,00371,321.825,Bellevue Ave & E Pine St,Cal Anderson Park / 11th Ave & Pine St,CH-12,CH-08,Annual Member,Male,1985
+66762,5/1/15 15:30,5/1/15 15:46,SEA00262,SEA,00262,954.802,E Blaine St & Fairview Ave E,Dexter Ave & Denny Way,EL-03,SLU-18,Annual Member,Male,1980
+121480,8/3/15 10:30,8/3/15 10:35,SEA00365,SEA,00365,308.396,9th Ave N & Mercer St,PATH / 9th Ave & Westlake Ave,DPD-01,SLU-07,Annual Member,Male,1983
+58212,4/15/15 20:25,4/15/15 20:34,SEA00057,SEA,00057,552.512,PATH / 9th Ave & Westlake Ave,1st Ave & Marion St,SLU-07,CBD-05,Annual Member,Male,1982
+104594,7/8/15 5:57,7/8/15 6:08,SEA00230,SEA,00230,650.654,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,Pier 69 / Alaskan Way & Clay St,PS-05,WF-01,Annual Member,Male,1982
+5975,10/25/14 15:29,10/25/14 15:43,SEA00107,SEA,00107,829.343,2nd Ave & Vine St,2nd Ave & Blanchard St,BT-03,BT-05,Short-Term Pass Holder,NULL,NULL
+49364,3/22/15 13:38,3/22/15 13:40,SEA00269,SEA,00269,169.313,Lake Union Park / Valley St & Boren Ave N,Lake Union Park / Valley St & Boren Ave N,SLU-17,SLU-17,Annual Member,Female,1982
+123726,8/6/15 17:05,8/6/15 17:15,SEA00169,SEA,00169,588.531,Pier 69 / Alaskan Way & Clay St,2nd Ave & Pine St,WF-01,CBD-13,Annual Member,Male,1992
+77193,5/21/15 18:26,5/21/15 18:39,SEA00481,SEA,00481,792.407,Westlake Ave & 6th Ave,Dexter Ave & Denny Way,SLU-15,SLU-18,Short-Term Pass Holder,NULL,NULL
+46068,3/12/15 7:32,3/12/15 7:37,SEA00155,SEA,00155,300.373,12th Ave & E Denny Way,Pine St & 9th Ave,CH-06,SLU-16,Annual Member,Male,1982
+3338,10/19/14 12:13,10/19/14 13:10,SEA00194,SEA,00194,3411.301,REI / Yale Ave N & John St,Eastlake Ave E & E Allison St,SLU-01,EL-05,Short-Term Pass Holder,NULL,NULL
+13286,11/13/14 14:16,11/13/14 14:19,SEA00295,SEA,00295,188.98,UW Engineering Library / E Stevens Way NE & Jefferson Rd,UW Engineering Library / E Stevens Way NE & Jefferson Rd,UW-06,UW-06,Short-Term Pass Holder,NULL,NULL
+107668,7/12/15 18:32,7/12/15 18:58,SEA00140,SEA,00140,1582.134,1st Ave & Marion St,3rd Ave & Broad St,CBD-05,BT-01,Short-Term Pass Holder,NULL,NULL
+129778,8/16/15 15:08,8/16/15 16:56,SEA00477,SEA,00477,6514.463,2nd Ave & Pine St,Republican St & Westlake Ave N,CBD-13,SLU-04,Short-Term Pass Holder,NULL,NULL
+77724,5/22/15 18:25,5/22/15 18:35,SEA00061,SEA,00061,597.478,Pier 69 / Alaskan Way & Clay St,2nd Ave & Pine St,WF-01,CBD-13,Annual Member,Male,1992
+55810,4/8/15 17:50,4/8/15 17:59,SEA00300,SEA,00300,580.385,9th Ave N & Mercer St,Dexter Ave & Denny Way,DPD-01,SLU-18,Annual Member,Male,1981
+53827,4/3/15 17:17,4/3/15 17:34,SEA00206,SEA,00206,1029.949,PATH / 9th Ave & Westlake Ave,Cal Anderson Park / 11th Ave & Pine St,SLU-07,CH-08,Annual Member,Female,1971
+121588,8/3/15 13:26,8/3/15 13:42,SEA00411,SEA,00411,955.459,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,Pine St & 9th Ave,EL-01,SLU-16,Annual Member,Female,1982
+89783,6/13/15 13:43,6/13/15 13:58,SEA00176,SEA,00176,911.504,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,2nd Ave & Vine St,WF-04,BT-03,Short-Term Pass Holder,NULL,NULL
+118454,7/29/15 15:15,7/29/15 15:32,SEA00386,SEA,00386,993.407,Harvard Ave & E Pine St,6th Ave S & S King St,CH-09,ID-04,Annual Member,Male,1981
+145201,9/16/15 9:07,9/16/15 9:18,SEA00185,SEA,00185,652.474,Bellevue Ave & E Pine St,Occidental Park / Occidental Ave S & S Washington St,CH-12,PS-04,Annual Member,Male,1983
+54662,4/5/15 18:06,4/5/15 18:23,SEA00429,SEA,00429,996.189,E Blaine St & Fairview Ave E,PATH / 9th Ave & Westlake Ave,EL-03,SLU-07,Short-Term Pass Holder,NULL,NULL
+134104,8/23/15 21:18,8/23/15 21:37,SEA00353,SEA,00353,1158.643,Key Arena / 1st Ave N & Harrison St,2nd Ave & Pine St,SLU-19,CBD-13,Short-Term Pass Holder,NULL,NULL
+102077,7/4/15 12:43,7/4/15 13:29,SEA00428,SEA,00428,2774.345,E Harrison St & Broadway Ave E,6th Ave S & S King St,CH-02,ID-04,Short-Term Pass Holder,NULL,NULL
+45899,3/11/15 15:45,3/11/15 15:58,SEA00448,SEA,00448,836.764,3rd Ave & Broad St,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,BT-01,WF-04,Annual Member,Male,1987
+153903,10/5/15 7:20,10/5/15 7:30,SEA00221,SEA,00221,576.388,Summit Ave & E Denny Way,3rd Ave & Broad St,CH-01,BT-01,Annual Member,Other,1987
+33924,2/3/15 16:36,2/3/15 17:53,SEA00415,SEA,00415,4618.771,Lake Union Park / Valley St & Boren Ave N,12th Ave & E Denny Way,SLU-17,CH-06,Short-Term Pass Holder,NULL,NULL
+152469,10/1/15 19:23,10/1/15 19:35,SEA00217,SEA,00217,724.589,Lake Union Park / Valley St & Boren Ave N,Pine St & 9th Ave,SLU-17,SLU-16,Annual Member,Male,1973
+89111,6/12/15 10:12,6/12/15 10:23,SEA00104,SEA,00104,673.247,15th Ave E & E Thomas St,2nd Ave & Pine St,CH-05,CBD-13,Annual Member,Male,1976
+152867,10/2/15 18:00,10/2/15 18:11,SEA00490,SEA,00490,677.042,E Blaine St & Fairview Ave E,REI / Yale Ave N & John St,EL-03,SLU-01,Annual Member,Female,1973
+101457,7/3/15 13:12,7/3/15 13:30,SEA00423,SEA,00423,1052.11,Pine St & 9th Ave,3rd Ave & Broad St,SLU-16,BT-01,Short-Term Pass Holder,NULL,NULL
+7511,10/29/14 20:15,10/29/14 20:30,SEA00273,SEA,00273,887.265,Republican St & Westlake Ave N,Pier 69 / Alaskan Way & Clay St,SLU-04,WF-01,Annual Member,Male,1988
+121325,8/3/15 6:49,8/3/15 6:53,SEA00279,SEA,00279,218.65,Westlake Ave & 6th Ave,6th Ave & Blanchard St,SLU-15,BT-04,Annual Member,Male,1988
+155844,10/9/15 18:44,10/9/15 18:48,SEA00044,SEA,00044,265.626,E Pine St & 16th Ave,Harvard Ave & E Pine St,CH-07,CH-09,Annual Member,Male,1983
+127079,8/11/15 21:38,8/11/15 21:43,SEA00129,SEA,00129,274.657,Harvard Ave & E Pine St,E Harrison St & Broadway Ave E,CH-09,CH-02,Annual Member,Female,1983
+130050,8/17/15 7:54,8/17/15 8:02,SEA00490,SEA,00490,484.367,3rd Ave & Broad St,REI / Yale Ave N & John St,BT-01,SLU-01,Annual Member,Male,1990
+151929,9/30/15 17:35,9/30/15 17:41,SEA00136,SEA,00136,376.765,2nd Ave & Spring St,6th Ave S & S King St,CBD-06,ID-04,Annual Member,Male,1990
+112884,7/20/15 11:25,7/20/15 11:52,SEA00022,SEA,00022,1651.805,Cal Anderson Park / 11th Ave & Pine St,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,CH-08,WF-04,Short-Term Pass Holder,NULL,NULL
+79816,5/27/15 7:51,5/27/15 8:02,SEA00473,SEA,00473,657.215,12th Ave & E Mercer St,2nd Ave & Spring St,CH-15,CBD-06,Annual Member,Male,1962
+29658,1/20/15 10:46,1/20/15 10:50,SEA00047,SEA,00047,238.269,2nd Ave & Vine St,2nd Ave & Pine St,BT-03,CBD-13,Annual Member,Male,1972
+12876,11/12/14 11:53,11/12/14 12:07,SEA00025,SEA,00025,819.639,NE 47th St & 12th Ave NE,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,UD-07,EL-01,Annual Member,Male,1985
+75351,5/18/15 14:56,5/18/15 15:00,SEA00244,SEA,00244,210.455,Republican St & Westlake Ave N,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,SLU-04,EL-01,Short-Term Pass Holder,NULL,NULL
+22771,12/19/14 16:02,12/19/14 16:10,SEA00374,SEA,00374,463.26,Westlake Ave & 6th Ave,Dexter Ave N & Aloha St,SLU-15,SLU-02,Annual Member,Male,1987
+18452,12/2/14 10:52,12/2/14 11:01,SEA00416,SEA,00416,516.633,2nd Ave & Blanchard St,Republican St & Westlake Ave N,BT-05,SLU-04,Annual Member,Male,1987
+93750,6/19/15 16:56,6/19/15 18:42,SEA00249,SEA,00249,6352.987,Pier 69 / Alaskan Way & Clay St,Pier 69 / Alaskan Way & Clay St,WF-01,WF-01,Short-Term Pass Holder,NULL,NULL
+65634,4/28/15 18:19,4/28/15 18:27,SEA00364,SEA,00364,508.564,2nd Ave & Pine St,2nd Ave & Vine St,CBD-13,BT-03,Annual Member,Male,1986
+28850,1/16/15 16:03,1/16/15 16:34,SEA00255,SEA,00255,1883.926,E Blaine St & Fairview Ave E,Key Arena / 1st Ave N & Harrison St,EL-03,SLU-19,Annual Member,Female,1954
+97314,6/26/15 6:24,6/26/15 6:28,SEA00293,SEA,00293,265.164,3rd Ave & Broad St,PATH / 9th Ave & Westlake Ave,BT-01,SLU-07,Annual Member,Male,1961
+149194,9/25/15 6:32,9/25/15 6:40,SEA00390,SEA,00390,444.802,Harvard Ave & E Pine St,E Pine St & 16th Ave,CH-09,CH-07,Short-Term Pass Holder,NULL,NULL
+58592,4/16/15 17:34,4/16/15 17:48,SEA00375,SEA,00375,856.172,2nd Ave & Spring St,3rd Ave & Broad St,CBD-06,BT-01,Short-Term Pass Holder,NULL,NULL
+96021,6/23/15 18:53,6/23/15 18:56,SEA00145,SEA,00145,182.956,PATH / 9th Ave & Westlake Ave,Westlake Ave & 6th Ave,SLU-07,SLU-15,Annual Member,Male,1962
+73784,5/15/15 12:48,5/15/15 12:53,SEA00306,SEA,00306,329.712,E Blaine St & Fairview Ave E,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,EL-03,EL-01,Annual Member,Male,1961
+75460,5/18/15 17:39,5/18/15 17:45,SEA00449,SEA,00449,364.869,9th Ave N & Mercer St,6th Ave & Blanchard St,DPD-01,BT-04,Annual Member,Male,1965
+62560,4/21/15 17:44,4/21/15 17:54,SEA00052,SEA,00052,585.558,15th Ave NE & NE 40th St,Eastlake Ave E & E Allison St,UW-04,EL-05,Annual Member,Male,1988
+64950,4/27/15 12:25,4/27/15 12:52,SEA00286,SEA,00286,1620.482,Lake Union Park / Valley St & Boren Ave N,12th Ave & NE Campus Pkwy,SLU-17,UD-04,Short-Term Pass Holder,NULL,NULL
+156534,10/12/15 10:22,10/12/15 12:22,SEA00358,SEA,00358,7201.997,15th Ave NE & NE 40th St,2nd Ave & Pine St,UW-04,CBD-13,Short-Term Pass Holder,NULL,NULL
+4896,10/22/14 18:46,10/22/14 18:48,SEA00094,SEA,00094,126.913,Summit Ave & E Denny Way,Summit Ave E & E Republican St,CH-01,CH-03,Annual Member,Male,1986
+7225,10/29/14 12:40,10/29/14 12:43,SEA00438,SEA,00438,216.917,NE 42nd St & University Way NE,15th Ave NE & NE 40th St,UD-02,UW-04,Annual Member,Male,1978
+71237,5/9/15 19:49,5/9/15 20:30,SEA00283,SEA,00283,2416.51,Pier 69 / Alaskan Way & Clay St,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,WF-01,WF-04,Short-Term Pass Holder,NULL,NULL
+6589,10/27/14 15:31,10/27/14 15:41,SEA00089,SEA,00089,601.309,6th Ave S & S King St,City Hall / 4th Ave & James St,ID-04,CBD-07,Short-Term Pass Holder,NULL,NULL
+150314,9/27/15 14:02,9/27/15 14:16,SEA00229,SEA,00229,846.996,Summit Ave E & E Republican St,1st Ave & Marion St,CH-03,CBD-05,Annual Member,Female,1989
+72968,5/13/15 18:24,5/13/15 18:32,SEA00150,SEA,00150,487.331,Dexter Ave N & Aloha St,Westlake Ave & 6th Ave,SLU-02,SLU-15,Annual Member,Male,1982
+137479,8/30/15 13:55,8/30/15 14:10,SEA00263,SEA,00263,937.625,Pine St & 9th Ave,Key Arena / 1st Ave N & Harrison St,SLU-16,SLU-19,Short-Term Pass Holder,NULL,NULL
+54104,4/4/15 13:48,4/4/15 14:05,SEA00308,SEA,00308,1022.039,Dexter Ave N & Aloha St,Eastlake Ave E & E Allison St,SLU-02,EL-05,Annual Member,Male,1985
+121174,8/2/15 17:37,8/2/15 17:57,SEA00183,SEA,00183,1222.799,Occidental Park / Occidental Ave S & S Washington St,Westlake Ave & 6th Ave,PS-04,SLU-15,Short-Term Pass Holder,NULL,NULL
+152312,10/1/15 15:25,10/1/15 15:32,SEA00487,SEA,00487,382.59,Lake Union Park / Valley St & Boren Ave N,E Blaine St & Fairview Ave E,SLU-17,EL-03,Annual Member,Male,1978
+113869,7/22/15 7:51,7/22/15 7:57,SEA00083,SEA,00083,350.079,Seattle University / E Columbia St & 12th Ave,Bellevue Ave & E Pine St,FH-04,CH-12,Annual Member,Female,1993
+69956,5/8/15 11:23,5/8/15 11:33,SEA00383,SEA,00383,593.825,E Harrison St & Broadway Ave E,2nd Ave & Pine St,CH-02,CBD-13,Annual Member,Male,1977
+54072,4/4/15 13:04,4/4/15 13:21,SEA00452,SEA,00452,1067.724,Pier 69 / Alaskan Way & Clay St,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,WF-01,WF-04,Short-Term Pass Holder,NULL,NULL
+11006,11/8/14 9:57,11/8/14 11:49,SEA00353,SEA,00353,6725.579,Seattle University / E Columbia St & 12th Ave,Seattle University / E Columbia St & 12th Ave,FH-04,FH-04,Short-Term Pass Holder,NULL,NULL
+117553,7/28/15 9:45,7/28/15 11:50,SEA00065,SEA,00065,7516.703,2nd Ave & Spring St,2nd Ave & Spring St,CBD-06,CBD-06,Short-Term Pass Holder,NULL,NULL
+14658,11/17/14 17:05,11/17/14 17:11,SEA00254,SEA,00254,404.9,PATH / 9th Ave & Westlake Ave,Dexter Ave N & Aloha St,SLU-07,SLU-02,Annual Member,Male,1971
+69474,5/7/15 14:51,5/7/15 15:13,SEA00143,SEA,00143,1272.253,15th Ave E & E Thomas St,Pine St & 9th Ave,CH-05,SLU-16,Short-Term Pass Holder,NULL,NULL
+77756,5/22/15 19:39,5/22/15 20:00,SEA00428,SEA,00428,1245.645,Key Arena / 1st Ave N & Harrison St,Key Arena / 1st Ave N & Harrison St,SLU-19,SLU-19,Short-Term Pass Holder,NULL,NULL
+17341,11/26/14 15:12,11/26/14 15:14,SEA00478,SEA,00478,88.701,Cal Anderson Park / 11th Ave & Pine St,Cal Anderson Park / 11th Ave & Pine St,CH-08,CH-08,Annual Member,Male,1985
+58417,4/16/15 12:19,4/16/15 12:38,SEA00181,SEA,00181,1156.829,Occidental Park / Occidental Ave S & S Washington St,Seattle University / E Columbia St & 12th Ave,PS-04,FH-04,Annual Member,Female,1982
+34113,2/4/15 9:15,2/4/15 9:37,SEA00433,SEA,00433,1304.176,12th Ave & NE Campus Pkwy,7th Ave & Union St,UD-04,CBD-03,Short-Term Pass Holder,NULL,NULL
+72456,5/12/15 12:15,5/12/15 12:20,SEA00069,SEA,00069,321.55,2nd Ave & Spring St,Occidental Park / Occidental Ave S & S Washington St,CBD-06,PS-04,Annual Member,Male,1954
+82714,5/31/15 14:22,5/31/15 14:33,SEA00129,SEA,00129,642.812,Summit Ave E & E Republican St,2nd Ave & Pine St,CH-03,CBD-13,Annual Member,Female,1990
+70989,5/9/15 15:47,5/9/15 16:20,SEA00283,SEA,00283,1983.383,Pier 69 / Alaskan Way & Clay St,Pier 69 / Alaskan Way & Clay St,WF-01,WF-01,Short-Term Pass Holder,NULL,NULL
+77851,5/23/15 9:07,5/23/15 9:18,SEA00353,SEA,00353,691.41,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,12th Ave & NE Campus Pkwy,UD-01,UD-04,Short-Term Pass Holder,NULL,NULL
+87893,6/10/15 9:27,6/10/15 9:48,SEA00185,SEA,00185,1267.702,E Pine St & 16th Ave,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,CH-07,PS-05,Annual Member,Female,1979
+36200,2/12/15 11:51,2/12/15 12:04,SEA00373,SEA,00373,808.599,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,9th Ave N & Mercer St,PS-05,DPD-01,Annual Member,Male,1955
+115308,7/24/15 9:03,7/24/15 9:06,SEA00373,SEA,00373,199.87,PATH / 9th Ave & Westlake Ave,Westlake Ave & 6th Ave,SLU-07,SLU-15,Annual Member,Male,1989
+3011,10/18/14 17:39,10/18/14 18:02,SEA00413,SEA,00413,1372.357,E Blaine St & Fairview Ave E,3rd Ave & Broad St,EL-03,BT-01,Short-Term Pass Holder,NULL,NULL
+44658,3/8/15 13:49,3/8/15 14:03,SEA00230,SEA,00230,848.686,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,15th Ave NE & NE 40th St,UD-01,UW-04,Short-Term Pass Holder,NULL,NULL
+86857,6/8/15 12:19,6/8/15 12:27,SEA00099,SEA,00099,483.885,REI / Yale Ave N & John St,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,SLU-01,EL-01,Short-Term Pass Holder,NULL,NULL
+3818,10/19/14 18:20,10/19/14 18:27,SEA00090,SEA,00090,466.841,Republican St & Westlake Ave N,E Blaine St & Fairview Ave E,SLU-04,EL-03,Annual Member,Male,1971
+142187,9/10/15 8:08,9/10/15 8:19,SEA00159,SEA,00159,618.784,12th Ave & E Denny Way,1st Ave & Marion St,CH-06,CBD-05,Annual Member,Male,1979
+151517,9/29/15 18:43,9/29/15 18:46,SEA00131,SEA,00131,179.253,E Pine St & 16th Ave,15th Ave E & E Thomas St,CH-07,CH-05,Annual Member,Male,1992
+120913,8/2/15 11:53,8/2/15 12:08,SEA00124,SEA,00124,863.181,3rd Ave & Broad St,2nd Ave & Pine St,BT-01,CBD-13,Short-Term Pass Holder,NULL,NULL
+91479,6/15/15 21:26,6/15/15 21:37,SEA00062,SEA,00062,667.007,2nd Ave & Blanchard St,Harvard Ave & E Pine St,BT-05,CH-09,Annual Member,Male,1986
+27526,1/12/15 8:39,1/12/15 8:43,SEA00194,SEA,00194,274.079,REI / Yale Ave N & John St,PATH / 9th Ave & Westlake Ave,SLU-01,SLU-07,Annual Member,Male,1987
+136748,8/28/15 12:49,8/28/15 13:03,SEA00303,SEA,00303,890.927,NE 42nd St & University Way NE,Lake Union Park / Valley St & Boren Ave N,UD-02,SLU-17,Annual Member,Male,1985
+78631,5/24/15 15:45,5/24/15 16:48,SEA00316,SEA,00316,3753.733,12th Ave & E Mercer St,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,CH-15,WF-04,Short-Term Pass Holder,NULL,NULL
+107907,7/13/15 8:52,7/13/15 9:02,SEA00357,SEA,00357,592.405,3rd Ave & Broad St,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,BT-01,EL-01,Annual Member,Female,1992
+132983,8/21/15 19:23,8/21/15 20:12,SEA00199,SEA,00199,2971.9,3rd Ave & Broad St,3rd Ave & Broad St,BT-01,BT-01,Short-Term Pass Holder,NULL,NULL
+33257,1/31/15 14:21,1/31/15 14:35,SEA00475,SEA,00475,831.159,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,Occidental Park / Occidental Ave S & S Washington St,WF-04,PS-04,Short-Term Pass Holder,NULL,NULL
+2843,10/18/14 13:56,10/18/14 15:21,SEA00280,SEA,00280,5101.863,Republican St & Westlake Ave N,Dexter Ave & Denny Way,SLU-04,SLU-18,Short-Term Pass Holder,NULL,NULL
+115177,7/23/15 21:59,7/23/15 22:15,SEA00133,SEA,00133,985.654,Occidental Park / Occidental Ave S & S Washington St,Pine St & 9th Ave,PS-04,SLU-16,Annual Member,Female,1971
+109554,7/15/15 15:12,7/15/15 15:24,SEA00322,SEA,00322,693.893,2nd Ave & Pine St,3rd Ave & Broad St,CBD-13,BT-01,Short-Term Pass Holder,NULL,NULL
+76253,5/20/15 8:53,5/20/15 9:03,SEA00068,SEA,00068,591.038,Westlake Ave & 6th Ave,REI / Yale Ave N & John St,SLU-15,SLU-01,Short-Term Pass Holder,NULL,NULL
+71582,5/10/15 14:47,5/10/15 15:38,SEA00194,SEA,00194,3078.009,Pier 69 / Alaskan Way & Clay St,2nd Ave & Pine St,WF-01,CBD-13,Short-Term Pass Holder,NULL,NULL
+143561,9/12/15 13:07,9/12/15 13:20,SEA00265,SEA,00265,766.842,Westlake Ave & 6th Ave,2nd Ave & Spring St,SLU-15,CBD-06,Short-Term Pass Holder,NULL,NULL
+58219,4/15/15 21:03,4/15/15 21:12,SEA00203,SEA,00203,499.992,7th Ave & Union St,3rd Ave & Broad St,CBD-03,BT-01,Annual Member,Male,1981
+113262,7/21/15 6:21,7/21/15 6:25,SEA00259,SEA,00259,189.972,3rd Ave & Broad St,PATH / 9th Ave & Westlake Ave,BT-01,SLU-07,Annual Member,Male,1961
+152793,10/2/15 16:13,10/2/15 16:25,SEA00305,SEA,00305,752.757,9th Ave N & Mercer St,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,DPD-01,PS-05,Annual Member,Male,1978
+135317,8/25/15 22:25,8/25/15 22:59,SEA00224,SEA,00224,2052.14,NE 42nd St & University Way NE,NE 42nd St & University Way NE,UD-02,UD-02,Short-Term Pass Holder,NULL,NULL
+17157,11/26/14 8:28,11/26/14 8:35,SEA00317,SEA,00317,386.656,7th Ave & Union St,Occidental Park / Occidental Ave S & S Washington St,CBD-03,PS-04,Annual Member,Male,1974
+143593,9/12/15 13:44,9/12/15 18:46,SEA00492,SEA,00492,18126.18,Summit Ave E & E Republican St,Dexter Ave & Denny Way,CH-03,SLU-18,Short-Term Pass Holder,NULL,NULL
+146240,9/18/15 16:39,9/18/15 17:31,SEA00198,SEA,00198,3144.976,Pier 69 / Alaskan Way & Clay St,Pier 69 / Alaskan Way & Clay St,WF-01,WF-01,Short-Term Pass Holder,NULL,NULL
+143395,9/12/15 9:02,9/12/15 9:08,SEA00465,SEA,00465,408.761,Dexter Ave & Denny Way,Pine St & 9th Ave,SLU-18,SLU-16,Short-Term Pass Holder,NULL,NULL
+16846,11/24/14 15:45,11/24/14 15:52,SEA00391,SEA,00391,456.405,NE 47th St & 12th Ave NE,UW Engineering Library / E Stevens Way NE & Jefferson Rd,UD-07,UW-06,Annual Member,Male,1991
+16173,11/22/14 12:55,11/22/14 13:40,SEA00139,SEA,00139,2692.236,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,PS-05,PS-05,Short-Term Pass Holder,NULL,NULL
+97369,6/26/15 8:13,6/26/15 8:15,SEA00389,SEA,00389,145.393,E Pine St & 16th Ave,Harvard Ave & E Pine St,CH-07,CH-09,Annual Member,Other,1978
+107380,7/12/15 13:00,7/12/15 13:20,SEA00171,SEA,00171,1181.149,Pier 69 / Alaskan Way & Clay St,Pier 69 / Alaskan Way & Clay St,WF-01,WF-01,Short-Term Pass Holder,NULL,NULL
+113843,7/22/15 6:44,7/22/15 6:56,SEA00127,SEA,00127,758.391,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,Pier 69 / Alaskan Way & Clay St,PS-05,WF-01,Annual Member,Male,1956
+22372,12/18/14 6:56,12/18/14 7:01,SEA00249,SEA,00249,274.202,2nd Ave & Pine St,2nd Ave & Vine St,CBD-13,BT-03,Annual Member,Male,1965
+42724,3/3/15 10:34,3/3/15 10:40,SEA00145,SEA,00145,412.367,Westlake Ave & 6th Ave,REI / Yale Ave N & John St,SLU-15,SLU-01,Annual Member,Male,1987
+3801,10/19/14 17:59,10/19/14 18:14,SEA00382,SEA,00382,910.637,PATH / 9th Ave & Westlake Ave,Key Arena / 1st Ave N & Harrison St,SLU-07,SLU-19,Short-Term Pass Holder,NULL,NULL
+146546,9/19/15 12:18,9/19/15 12:30,SEA00098,SEA,00098,727.801,Seattle University / E Columbia St & 12th Ave,2nd Ave & Pine St,FH-04,CBD-13,Short-Term Pass Holder,NULL,NULL
+156246,10/11/15 14:27,10/11/15 14:32,SEA00118,SEA,00118,317.557,3rd Ave & Broad St,Pier 69 / Alaskan Way & Clay St,BT-01,WF-01,Short-Term Pass Holder,NULL,NULL
+3457,10/19/14 13:50,10/19/14 14:06,SEA00170,SEA,00170,978.778,2nd Ave & Pine St,6th Ave S & S King St,CBD-13,ID-04,Short-Term Pass Holder,NULL,NULL
+22250,12/17/14 13:15,12/17/14 13:33,SEA00275,SEA,00275,1103.319,12th Ave & E Mercer St,15th Ave E & E Thomas St,CH-15,CH-05,Annual Member,Female,1991
+48544,3/19/15 18:07,3/19/15 18:12,SEA00406,SEA,00406,268.143,UW Engineering Library / E Stevens Way NE & Jefferson Rd,Burke Museum / E Stevens Way NE & Memorial Way NE,UW-06,UW-02,Annual Member,Male,1992
+65170,4/27/15 17:26,4/27/15 18:44,SEA00170,SEA,00170,4691.724,12th Ave & NE Campus Pkwy,12th Ave & NE Campus Pkwy,UD-04,UD-04,Short-Term Pass Holder,NULL,NULL
+39318,2/20/15 17:45,2/20/15 17:51,SEA00188,SEA,00188,353.039,Republican St & Westlake Ave N,Westlake Ave & 6th Ave,SLU-04,SLU-15,Annual Member,Male,1962
+133823,8/23/15 12:39,8/23/15 20:02,SEA00155,SEA,00155,26623.043,Lake Union Park / Valley St & Boren Ave N,2nd Ave & Pine St,SLU-17,CBD-13,Short-Term Pass Holder,NULL,NULL
+90364,6/14/15 8:41,6/14/15 10:40,SEA00083,SEA,00083,7103.979,2nd Ave & Vine St,Occidental Park / Occidental Ave S & S Washington St,BT-03,PS-04,Short-Term Pass Holder,NULL,NULL
+52747,3/31/15 18:19,3/31/15 18:21,SEA00476,SEA,00476,156.402,Cal Anderson Park / 11th Ave & Pine St,E Pine St & 16th Ave,CH-08,CH-07,Annual Member,Male,1982
+44350,3/7/15 16:25,3/7/15 16:32,SEA00245,SEA,00245,375.909,Cal Anderson Park / 11th Ave & Pine St,Summit Ave E & E Republican St,CH-08,CH-03,Annual Member,Male,1985
+69071,5/6/15 17:47,5/6/15 18:03,SEA00448,SEA,00448,975.058,PATH / 9th Ave & Westlake Ave,Cal Anderson Park / 11th Ave & Pine St,SLU-07,CH-08,Annual Member,Female,1971
+133282,8/22/15 12:43,8/22/15 13:35,SEA00460,SEA,00460,3132.649,UW Intramural Activities Building,15th Ave NE & NE 40th St,UW-07,UW-04,Short-Term Pass Holder,NULL,NULL
+69112,5/6/15 18:49,5/6/15 18:57,SEA00459,SEA,00459,440.159,Harvard Ave & E Pine St,E Pine St & 16th Ave,CH-09,CH-07,Short-Term Pass Holder,NULL,NULL
+110868,7/17/15 12:10,7/17/15 12:18,SEA00185,SEA,00185,459.041,E Pine St & 16th Ave,E Harrison St & Broadway Ave E,CH-07,CH-02,Annual Member,Male,1967
+38099,2/17/15 8:16,2/17/15 8:25,SEA00293,SEA,00293,523.892,Cal Anderson Park / 11th Ave & Pine St,PATH / 9th Ave & Westlake Ave,CH-08,SLU-07,Annual Member,Female,1971
+54419,4/5/15 10:47,4/5/15 10:58,SEA00353,SEA,00353,659.541,Pier 69 / Alaskan Way & Clay St,Pier 69 / Alaskan Way & Clay St,WF-01,WF-01,Short-Term Pass Holder,NULL,NULL
+91125,6/15/15 12:18,6/15/15 12:28,SEA00196,SEA,00196,587.343,12th Ave & E Denny Way,E Harrison St & Broadway Ave E,CH-06,CH-02,Short-Term Pass Holder,NULL,NULL
+61685,4/20/15 17:32,4/20/15 17:59,SEA00369,SEA,00369,1632.101,E Harrison St & Broadway Ave E,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,CH-02,EL-01,Short-Term Pass Holder,NULL,NULL
+58911,4/17/15 12:00,4/17/15 12:08,SEA00379,SEA,00379,484.34,12th Ave & E Mercer St,Summit Ave & E Denny Way,CH-15,CH-01,Annual Member,Female,1987
+111526,7/18/15 10:43,7/18/15 11:14,SEA00488,SEA,00488,1890.139,Lake Union Park / Valley St & Boren Ave N,UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd,SLU-17,UW-10,Short-Term Pass Holder,NULL,NULL
+5228,10/23/14 18:44,10/23/14 18:59,SEA00367,SEA,00367,869.769,E Pine St & 16th Ave,Westlake Ave & 6th Ave,CH-07,SLU-15,Annual Member,Female,1973
+110953,7/17/15 13:50,7/17/15 13:56,SEA00268,SEA,00268,338.678,E Harrison St & Broadway Ave E,Pine St & 9th Ave,CH-02,SLU-16,Annual Member,Male,1968
+54192,4/4/15 15:39,4/4/15 15:56,SEA00247,SEA,00247,1039.925,Key Arena / 1st Ave N & Harrison St,Key Arena / 1st Ave N & Harrison St,SLU-19,SLU-19,Annual Member,Male,1981
+150933,9/28/15 18:17,9/28/15 18:23,SEA00323,SEA,00323,394.837,Union St & 4th Ave,Occidental Park / Occidental Ave S & S Washington St,CBD-04,PS-04,Annual Member,Male,1985
+60741,4/19/15 16:05,4/19/15 19:57,SEA00205,SEA,00205,13894.852,Westlake Ave & 6th Ave,Westlake Ave & 6th Ave,SLU-15,SLU-15,Short-Term Pass Holder,NULL,NULL
+109136,7/14/15 19:57,7/14/15 20:39,SEA00087,SEA,00087,2530.972,Pier 69 / Alaskan Way & Clay St,Pier 69 / Alaskan Way & Clay St,WF-01,WF-01,Short-Term Pass Holder,NULL,NULL
+60733,4/19/15 15:56,4/19/15 16:05,SEA00451,SEA,00451,516.749,Cal Anderson Park / 11th Ave & Pine St,PATH / 9th Ave & Westlake Ave,CH-08,SLU-07,Short-Term Pass Holder,NULL,NULL
+111271,7/17/15 19:05,7/17/15 19:23,SEA00454,SEA,00454,1040.467,Key Arena / 1st Ave N & Harrison St,REI / Yale Ave N & John St,SLU-19,SLU-01,Short-Term Pass Holder,NULL,NULL
+85020,6/5/15 9:29,6/5/15 10:30,SEA00314,SEA,00314,3659.424,Westlake Ave & 6th Ave,Republican St & Westlake Ave N,SLU-15,SLU-04,Short-Term Pass Holder,NULL,NULL
+41783,2/28/15 14:20,2/28/15 15:58,SEA00380,SEA,00380,5893.732,PATH / 9th Ave & Westlake Ave,2nd Ave & Vine St,SLU-07,BT-03,Short-Term Pass Holder,NULL,NULL
+72706,5/13/15 6:37,5/13/15 6:40,SEA00304,SEA,00304,164.637,Summit Ave & E Denny Way,Pine St & 9th Ave,CH-01,SLU-16,Annual Member,Male,1990
+130644,8/18/15 7:38,8/18/15 7:49,SEA00239,SEA,00239,699.265,Dexter Ave N & Aloha St,Terry Ave & Stewart St,SLU-02,SLU-20,Annual Member,Male,1967
+32860,1/30/15 8:14,1/30/15 8:18,SEA00107,SEA,00107,279.59,Summit Ave E & E Republican St,Bellevue Ave & E Pine St,CH-03,CH-12,Annual Member,Male,1985
+88656,6/11/15 14:38,6/11/15 15:10,SEA00314,SEA,00314,1871.768,9th Ave N & Mercer St,12th Ave & E Yesler Way,DPD-01,CD-01,Short-Term Pass Holder,NULL,NULL
+66944,5/2/15 0:35,5/2/15 0:38,SEA00065,SEA,00065,188.395,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,9th Ave N & Mercer St,EL-01,DPD-01,Annual Member,Male,1986
+99740,6/30/15 17:11,6/30/15 17:49,SEA00158,SEA,00158,2289.91,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,7th Ave & Union St,PS-05,CBD-03,Short-Term Pass Holder,NULL,NULL
+130593,8/17/15 22:18,8/17/15 22:26,SEA00292,SEA,00292,443.051,2nd Ave & Pine St,3rd Ave & Broad St,CBD-13,BT-01,Annual Member,Male,1985
+25430,1/2/15 21:24,1/2/15 21:32,SEA00405,SEA,00405,441.571,Republican St & Westlake Ave N,2nd Ave & Vine St,SLU-04,BT-03,Annual Member,Male,1981
+40448,2/23/15 21:14,2/23/15 21:21,SEA00272,SEA,00272,391.543,Republican St & Westlake Ave N,2nd Ave & Vine St,SLU-04,BT-03,Annual Member,Male,1981
+100380,7/1/15 18:09,7/1/15 18:16,SEA00245,SEA,00245,417.719,2nd Ave & Blanchard St,Key Arena / 1st Ave N & Harrison St,BT-05,SLU-19,Annual Member,Male,1964
+125138,8/8/15 19:17,8/8/15 19:45,SEA00365,SEA,00365,1681.568,2nd Ave & Vine St,2nd Ave & Blanchard St,BT-03,BT-05,Short-Term Pass Holder,NULL,NULL
+48818,3/20/15 13:04,3/20/15 13:32,SEA00466,SEA,00466,1695.338,6th Ave S & S King St,3rd Ave & Broad St,ID-04,BT-01,Short-Term Pass Holder,NULL,NULL
+68245,5/4/15 13:54,5/4/15 14:00,SEA00457,SEA,00457,346.96,Westlake Ave & 6th Ave,2nd Ave & Spring St,SLU-15,CBD-06,Annual Member,Male,1961
+102274,7/4/15 16:05,7/4/15 16:09,SEA00411,SEA,00411,281.963,2nd Ave & Pine St,1st Ave & Marion St,CBD-13,CBD-05,Annual Member,Male,1965
+36531,2/13/15 10:02,2/13/15 10:06,SEA00451,SEA,00451,251.132,2nd Ave & Pine St,Westlake Ave & 6th Ave,CBD-13,SLU-15,Annual Member,Male,1981
+59069,4/17/15 15:54,4/17/15 16:04,SEA00061,SEA,00061,635.824,Pier 69 / Alaskan Way & Clay St,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,WF-01,PS-05,Annual Member,Male,1985
+125537,8/9/15 15:03,8/9/15 15:12,SEA00417,SEA,00417,585.536,7th Ave & Union St,Summit Ave E & E Republican St,CBD-03,CH-03,Annual Member,Male,1976
+130020,8/17/15 6:51,8/17/15 8:09,SEA00132,SEA,00132,4696.464,Lake Union Park / Valley St & Boren Ave N,Lake Union Park / Valley St & Boren Ave N,SLU-17,SLU-17,Short-Term Pass Holder,NULL,NULL
+2336,10/17/14 7:56,10/17/14 8:04,SEA00229,SEA,00229,481.715,PATH / 9th Ave & Westlake Ave,7th Ave & Union St,SLU-07,CBD-03,Annual Member,Female,1986
+137262,8/29/15 16:50,8/29/15 17:16,SEA00384,SEA,00384,1534.007,Harvard Ave & E Pine St,Key Arena / 1st Ave N & Harrison St,CH-09,SLU-19,Short-Term Pass Holder,NULL,NULL
+9520,11/4/14 11:28,11/4/14 11:33,SEA00483,SEA,00483,306.024,Seattle University / E Columbia St & 12th Ave,Cal Anderson Park / 11th Ave & Pine St,FH-04,CH-08,Annual Member,Male,1964
+3790,10/19/14 17:49,10/19/14 17:54,SEA00403,SEA,00403,270.734,Cal Anderson Park / 11th Ave & Pine St,Cal Anderson Park / 11th Ave & Pine St,CH-08,CH-08,Short-Term Pass Holder,NULL,NULL
+7450,10/29/14 18:12,10/29/14 18:36,SEA00200,SEA,00200,1445.592,Republican St & Westlake Ave N,3rd Ave & Broad St,SLU-04,BT-01,Annual Member,Male,1982
+59509,4/18/15 10:59,4/18/15 12:27,SEA00145,SEA,00145,5238.713,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,WF-04,WF-04,Annual Member,Female,1979
+4480,10/21/14 11:54,10/21/14 12:19,SEA00157,SEA,00157,1486.06,Pier 69 / Alaskan Way & Clay St,Key Arena / 1st Ave N & Harrison St,WF-01,SLU-19,Short-Term Pass Holder,NULL,NULL
+132051,8/20/15 10:56,8/20/15 11:05,SEA00320,SEA,00320,555.789,E Pine St & 16th Ave,2nd Ave & Pine St,CH-07,CBD-13,Annual Member,Male,1987
+146577,9/19/15 13:24,9/19/15 14:06,SEA00443,SEA,00443,2556.189,Bellevue Ave & E Pine St,NE 42nd St & University Way NE,CH-12,UD-02,Short-Term Pass Holder,NULL,NULL
+39498,2/21/15 11:25,2/21/15 11:54,SEA00256,SEA,00256,1701.025,2nd Ave & Vine St,Pier 69 / Alaskan Way & Clay St,BT-03,WF-01,Short-Term Pass Holder,NULL,NULL
+89927,6/13/15 15:32,6/13/15 17:48,SEA00294,SEA,00294,8161.872,2nd Ave & Blanchard St,2nd Ave & Blanchard St,BT-05,BT-05,Short-Term Pass Holder,NULL,NULL
+18847,12/3/14 17:56,12/3/14 18:01,SEA00095,SEA,00095,254.591,12th Ave & E Denny Way,12th Ave & E Mercer St,CH-06,CH-15,Annual Member,Male,1982
+2794,10/18/14 13:03,10/18/14 13:22,SEA00400,SEA,00400,1108.39,Dexter Ave & Denny Way,Summit Ave & E Denny Way,SLU-18,CH-01,Short-Term Pass Holder,NULL,NULL
+57595,4/14/15 8:43,4/14/15 8:51,SEA00427,SEA,00427,492.912,E Harrison St & Broadway Ave E,2nd Ave & Pine St,CH-02,CBD-13,Annual Member,Male,1990
+96766,6/25/15 8:19,6/25/15 8:27,SEA00115,SEA,00115,439.963,Frye Art Museum / Terry Ave & Columbia St,Cal Anderson Park / 11th Ave & Pine St,FH-01,CH-08,Annual Member,Male,1983
+68465,5/5/15 7:41,5/5/15 7:48,SEA00093,SEA,00093,446.039,E Pine St & 16th Ave,Pine St & 9th Ave,CH-07,SLU-16,Annual Member,Male,1987
+26383,1/7/15 16:07,1/7/15 16:15,SEA00110,SEA,00110,493.453,Children's Hospital / Sandpoint Way NE & 40th Ave NE,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,DPD-03,UD-01,Annual Member,Female,1987
+142506,9/10/15 17:06,9/10/15 17:18,SEA00453,SEA,00453,762.316,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,Lake Union Park / Valley St & Boren Ave N,EL-01,SLU-17,Short-Term Pass Holder,NULL,NULL
+56106,4/9/15 13:03,4/9/15 13:23,SEA00473,SEA,00473,1203.187,Summit Ave & E Denny Way,E Blaine St & Fairview Ave E,CH-01,EL-03,Short-Term Pass Holder,NULL,NULL
+154480,10/6/15 8:35,10/6/15 8:40,SEA00136,SEA,00136,283.458,Terry Ave & Stewart St,Dexter Ave & Denny Way,SLU-20,SLU-18,Annual Member,Male,1953
+119609,7/31/15 10:56,7/31/15 11:06,SEA00241,SEA,00241,613.612,1st Ave & Marion St,2nd Ave & Pine St,CBD-05,CBD-13,Short-Term Pass Holder,NULL,NULL
+14751,11/18/14 2:17,11/18/14 2:27,SEA00082,SEA,00082,601.148,Westlake Ave & 6th Ave,Bellevue Ave & E Pine St,SLU-15,CH-12,Short-Term Pass Holder,NULL,NULL
+141902,9/9/15 17:16,9/9/15 17:20,SEA00242,SEA,00242,237.553,Lake Union Park / Valley St & Boren Ave N,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,SLU-17,EL-01,Short-Term Pass Holder,NULL,NULL
+129901,8/16/15 17:34,8/16/15 17:46,SEA00084,SEA,00084,724.963,Occidental Park / Occidental Ave S & S Washington St,City Hall / 4th Ave & James St,PS-04,CBD-07,Short-Term Pass Holder,NULL,NULL
+132473,8/21/15 7:53,8/21/15 8:04,SEA00143,SEA,00143,678.679,Pine St & 9th Ave,2nd Ave & Pine St,SLU-16,CBD-13,Short-Term Pass Holder,NULL,NULL
+85826,6/6/15 15:05,6/6/15 15:46,SEA00170,SEA,00170,2491.584,Pier 69 / Alaskan Way & Clay St,Key Arena / 1st Ave N & Harrison St,WF-01,SLU-19,Short-Term Pass Holder,NULL,NULL
+124121,8/7/15 9:50,8/7/15 10:04,SEA00207,SEA,00207,837.049,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,15th Ave NE & NE 40th St,UD-01,UW-04,Annual Member,Male,1983
+137153,8/29/15 13:33,8/29/15 13:49,SEA00377,SEA,00377,1011.549,Terry Ave & Stewart St,12th Ave & E Yesler Way,SLU-20,CD-01,Annual Member,Male,1988
+95862,6/23/15 15:53,6/23/15 16:05,SEA00300,SEA,00300,759.083,12th Ave & E Yesler Way,12th Ave & E Mercer St,CD-01,CH-15,Annual Member,Female,1970
+145006,9/15/15 19:03,9/15/15 19:09,SEA00065,SEA,00065,376.956,Bellevue Ave & E Pine St,Union St & 4th Ave,CH-12,CBD-04,Annual Member,Male,1990
+142095,9/9/15 21:38,9/9/15 21:49,SEA00103,SEA,00103,674.687,Key Arena / 1st Ave N & Harrison St,6th Ave & Blanchard St,SLU-19,BT-04,Annual Member,Female,1956
+98959,6/29/15 9:42,6/29/15 9:52,SEA00422,SEA,00422,600.056,Summit Ave & E Denny Way,Occidental Park / Occidental Ave S & S Washington St,CH-01,PS-04,Annual Member,Male,1988
+1289,10/14/14 16:46,10/14/14 16:50,SEA00203,SEA,00203,218.059,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,6th Ave S & S King St,PS-05,ID-04,Annual Member,Female,1951
+59024,4/17/15 14:49,4/17/15 15:24,SEA00125,SEA,00125,2085.371,Burke Museum / E Stevens Way NE & Memorial Way NE,2nd Ave & Spring St,UW-02,CBD-06,Short-Term Pass Holder,NULL,NULL
+136960,8/28/15 19:44,8/28/15 19:52,SEA00435,SEA,00435,512.961,Westlake Ave & 6th Ave,3rd Ave & Broad St,SLU-15,BT-01,Annual Member,Male,1991
+5514,10/24/14 12:57,10/24/14 13:01,SEA00477,SEA,00477,212.698,1st Ave & Marion St,Occidental Park / Occidental Ave S & S Washington St,CBD-05,PS-04,Annual Member,Male,1949
+121527,8/3/15 11:49,8/3/15 12:37,SEA00075,SEA,00075,2873.565,Pier 69 / Alaskan Way & Clay St,Pier 69 / Alaskan Way & Clay St,WF-01,WF-01,Short-Term Pass Holder,NULL,NULL
+133615,8/22/15 20:25,8/22/15 23:18,SEA00257,SEA,00257,10383.089,6th Ave S & S King St,Westlake Ave & 6th Ave,ID-04,SLU-15,Short-Term Pass Holder,NULL,NULL
+146450,9/19/15 9:27,9/19/15 9:54,SEA00044,SEA,00044,1573.074,Pier 69 / Alaskan Way & Clay St,REI / Yale Ave N & John St,WF-01,SLU-01,Short-Term Pass Holder,NULL,NULL
+68293,5/4/15 16:27,5/4/15 16:39,SEA00460,SEA,00460,708.716,E Pine St & 16th Ave,Frye Art Museum / Terry Ave & Columbia St,CH-07,FH-01,Annual Member,Male,1987
+139264,9/3/15 17:36,9/3/15 17:46,SEA00169,SEA,00169,590.108,Republican St & Westlake Ave N,Key Arena / 1st Ave N & Harrison St,SLU-04,SLU-19,Annual Member,Male,1975
+133206,8/22/15 10:58,8/22/15 11:06,SEA00026,SEA,00026,512.415,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,Children's Hospital / Sandpoint Way NE & 40th Ave NE,UD-01,DPD-03,Short-Term Pass Holder,NULL,NULL
+75039,5/17/15 21:25,5/17/15 21:36,SEA00091,SEA,00091,657.398,E Harrison St & Broadway Ave E,2nd Ave & Vine St,CH-02,BT-03,Annual Member,Male,1983
+86787,6/8/15 10:28,6/8/15 10:31,SEA00408,SEA,00408,165.648,Bellevue Ave & E Pine St,Pine St & 9th Ave,CH-12,SLU-16,Annual Member,Female,1964
+32713,1/29/15 16:46,1/29/15 16:54,SEA00483,SEA,00483,510.538,2nd Ave & Pine St,Harvard Ave & E Pine St,CBD-13,CH-09,Annual Member,Male,1983
+102096,7/4/15 13:08,7/4/15 14:21,SEA00212,SEA,00212,4348.382,Eastlake Ave E & E Allison St,Eastlake Ave E & E Allison St,EL-05,EL-05,Short-Term Pass Holder,NULL,NULL
+102901,7/5/15 13:12,7/5/15 13:24,SEA00349,SEA,00349,694.623,NE 47th St & 12th Ave NE,Eastlake Ave E & E Allison St,UD-07,EL-05,Short-Term Pass Holder,NULL,NULL
+76472,5/20/15 16:08,5/20/15 16:21,SEA00028,SEA,00028,735.779,Pier 69 / Alaskan Way & Clay St,1st Ave & Marion St,WF-01,CBD-05,Annual Member,Female,1965
+67875,5/3/15 15:59,5/3/15 16:20,SEA00093,SEA,00093,1225.513,3rd Ave & Broad St,2nd Ave & Pine St,BT-01,CBD-13,Short-Term Pass Holder,NULL,NULL
+61858,4/20/15 19:32,4/20/15 19:58,SEA00229,SEA,00229,1528.556,Summit Ave & E Denny Way,Summit Ave & E Denny Way,CH-01,CH-01,Short-Term Pass Holder,NULL,NULL
+80187,5/27/15 17:06,5/27/15 17:22,SEA00266,SEA,00266,953.288,E Pine St & 16th Ave,6th Ave S & S King St,CH-07,ID-04,Annual Member,Female,1967
+133801,8/23/15 11:58,8/23/15 12:07,SEA00062,SEA,00062,543.899,REI / Yale Ave N & John St,2nd Ave & Spring St,SLU-01,CBD-06,Short-Term Pass Holder,NULL,NULL
+8813,11/2/14 11:11,11/2/14 11:35,SEA00273,SEA,00273,1402.496,Cal Anderson Park / 11th Ave & Pine St,Cal Anderson Park / 11th Ave & Pine St,CH-08,CH-08,Short-Term Pass Holder,NULL,NULL
+63144,4/22/15 20:15,4/22/15 20:35,SEA00235,SEA,00235,1218.747,9th Ave N & Mercer St,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,DPD-01,EL-01,Short-Term Pass Holder,NULL,NULL
+108312,7/13/15 17:35,7/13/15 17:47,SEA00098,SEA,00098,739.987,UW Engineering Library / E Stevens Way NE & Jefferson Rd,12th Ave & NE Campus Pkwy,UW-06,UD-04,Annual Member,Female,1977
+20082,12/8/14 21:16,12/8/14 21:37,SEA00192,SEA,00192,1241.371,3rd Ave & Broad St,Dexter Ave & Denny Way,BT-01,SLU-18,Annual Member,Male,1988
+100434,7/1/15 19:15,7/1/15 19:19,SEA00198,SEA,00198,206.502,Cal Anderson Park / 11th Ave & Pine St,E Pine St & 16th Ave,CH-08,CH-07,Annual Member,Male,1972
+103734,7/6/15 17:23,7/6/15 17:28,SEA00134,SEA,00134,267.965,Summit Ave & E Denny Way,Pine St & 9th Ave,CH-01,SLU-16,Annual Member,Male,1975
+12259,11/10/14 17:17,11/10/14 17:26,SEA00215,SEA,00215,574.827,7th Ave & Union St,Summit Ave E & E Republican St,CBD-03,CH-03,Annual Member,Male,1976
+72313,5/12/15 7:47,5/12/15 7:56,SEA00113,SEA,00113,553.5,Cal Anderson Park / 11th Ave & Pine St,2nd Ave & Spring St,CH-08,CBD-06,Annual Member,Male,1978
+119466,7/31/15 7:38,7/31/15 7:45,SEA00191,SEA,00191,404.221,Summit Ave E & E Republican St,Pine St & 9th Ave,CH-03,SLU-16,Annual Member,Male,1981
+45768,3/11/15 8:40,3/11/15 8:50,SEA00078,SEA,00078,567.364,Summit Ave & E Denny Way,2nd Ave & Spring St,CH-01,CBD-06,Annual Member,Female,1991
+94441,6/20/15 20:23,6/20/15 20:55,SEA00271,SEA,00271,1904.96,Pier 69 / Alaskan Way & Clay St,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,WF-01,WF-04,Short-Term Pass Holder,NULL,NULL
+86184,6/7/15 11:12,6/7/15 11:17,SEA00494,SEA,00494,299.735,E Harrison St & Broadway Ave E,Harvard Ave & E Pine St,CH-02,CH-09,Annual Member,Female,1983
+5509,10/24/14 12:49,10/24/14 12:56,SEA00388,SEA,00388,449.468,REI / Yale Ave N & John St,Bellevue Ave & E Pine St,SLU-01,CH-12,Annual Member,Male,1977
+57139,4/12/15 13:28,4/12/15 13:36,SEA00067,SEA,00067,509.007,Pier 69 / Alaskan Way & Clay St,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,WF-01,WF-04,Short-Term Pass Holder,NULL,NULL
+103750,7/6/15 17:35,7/6/15 18:04,SEA00322,SEA,00322,1774.161,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,2nd Ave & Vine St,UD-01,BT-03,Annual Member,Male,1979
+115828,7/25/15 11:09,7/25/15 11:52,SEA00026,SEA,00026,2573.916,3rd Ave & Broad St,Occidental Park / Occidental Ave S & S Washington St,BT-01,PS-04,Short-Term Pass Holder,NULL,NULL
+60527,4/19/15 13:18,4/19/15 16:38,SEA00211,SEA,00211,12001.818,Lake Union Park / Valley St & Boren Ave N,12th Ave & NE Campus Pkwy,SLU-17,UD-04,Short-Term Pass Holder,NULL,NULL
+141051,9/7/15 20:50,9/7/15 20:59,SEA00161,SEA,00161,568.905,Republican St & Westlake Ave N,Pine St & 9th Ave,SLU-04,SLU-16,Annual Member,Female,1992
+74415,5/16/15 16:55,5/16/15 17:01,SEA00268,SEA,00268,378.816,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,EL-01,EL-01,Short-Term Pass Holder,NULL,NULL
+29269,1/19/15 9:46,1/19/15 9:48,SEA00233,SEA,00233,146.065,Summit Ave & E Denny Way,REI / Yale Ave N & John St,CH-01,SLU-01,Annual Member,Male,1987
+139738,9/4/15 16:37,9/4/15 16:59,SEA00484,SEA,00484,1373.377,Children's Hospital / Sandpoint Way NE & 40th Ave NE,15th Ave NE & NE 40th St,DPD-03,UW-04,Annual Member,Female,1956
+2172,10/16/14 17:42,10/16/14 17:52,SEA00061,SEA,00061,600.812,Republican St & Westlake Ave N,Westlake Ave & 6th Ave,SLU-04,SLU-15,Annual Member,Male,1989
+51791,3/29/15 0:54,3/29/15 4:15,SEA00253,SEA,00253,12031.515,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,PS-05,PS-05,Short-Term Pass Holder,NULL,NULL
+69284,5/7/15 8:54,5/7/15 9:02,SEA00065,SEA,00065,497.469,12th Ave & E Mercer St,Pine St & 9th Ave,CH-15,SLU-16,Annual Member,Male,1984
+7381,10/29/14 17:12,10/29/14 17:28,SEA00292,SEA,00292,940.381,Dexter Ave N & Aloha St,E Blaine St & Fairview Ave E,SLU-02,EL-03,Short-Term Pass Holder,NULL,NULL
+156308,10/11/15 16:35,10/11/15 16:55,SEA00268,SEA,00268,1221.536,Pier 69 / Alaskan Way & Clay St,Pier 69 / Alaskan Way & Clay St,WF-01,WF-01,Short-Term Pass Holder,NULL,NULL
+72305,5/12/15 7:42,5/12/15 7:58,SEA00085,SEA,00085,972.909,12th Ave & E Mercer St,City Hall / 4th Ave & James St,CH-15,CBD-07,Annual Member,Male,1987
+151519,9/29/15 18:45,9/29/15 19:15,SEA00363,SEA,00363,1761.645,6th Ave S & S King St,Mercer St & 9th Ave N,ID-04,SLU-21,Short-Term Pass Holder,NULL,NULL
+142991,9/11/15 13:39,9/11/15 13:46,SEA00069,SEA,00069,465.209,Harvard Ave & E Pine St,15th Ave E & E Thomas St,CH-09,CH-05,Short-Term Pass Holder,NULL,NULL
+81816,5/30/15 8:57,5/30/15 9:21,SEA00337,SEA,00337,1415.344,Westlake Ave & 6th Ave,3rd Ave & Broad St,SLU-15,BT-01,Short-Term Pass Holder,NULL,NULL
+21620,12/15/14 8:42,12/15/14 8:58,SEA00177,SEA,00177,943.577,15th Ave E & E Thomas St,Occidental Park / Occidental Ave S & S Washington St,CH-05,PS-04,Annual Member,Male,1986
+109079,7/14/15 18:37,7/14/15 18:43,SEA00391,SEA,00391,356.385,City Hall / 4th Ave & James St,6th Ave S & S King St,CBD-07,ID-04,Annual Member,Female,1963
+141927,9/9/15 17:35,9/9/15 17:44,SEA00267,SEA,00267,569.989,Terry Ave & Stewart St,Summit Ave & E Denny Way,SLU-20,CH-01,Annual Member,Male,1967
+87924,6/10/15 10:42,6/10/15 10:48,SEA00267,SEA,00267,393.741,NE 47th St & 12th Ave NE,UW Engineering Library / E Stevens Way NE & Jefferson Rd,UD-07,UW-06,Annual Member,Male,1991
+113469,7/21/15 12:32,7/21/15 12:50,SEA00206,SEA,00206,1086.447,PATH / 9th Ave & Westlake Ave,9th Ave N & Mercer St,SLU-07,DPD-01,Annual Member,Male,1965
+117529,7/28/15 9:15,7/28/15 9:26,SEA00064,SEA,00064,650.481,Cal Anderson Park / 11th Ave & Pine St,Republican St & Westlake Ave N,CH-08,SLU-04,Annual Member,Male,1987
+73197,5/14/15 12:15,5/14/15 12:20,SEA00097,SEA,00097,277.006,NE 47th St & 12th Ave NE,Burke Museum / E Stevens Way NE & Memorial Way NE,UD-07,UW-02,Annual Member,Female,1994
+70576,5/9/15 10:48,5/9/15 10:55,SEA00421,SEA,00421,399.668,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,UW Engineering Library / E Stevens Way NE & Jefferson Rd,UD-01,UW-06,Annual Member,Male,1992
+138268,9/1/15 14:29,9/1/15 14:36,SEA00026,SEA,00026,398.362,Westlake Ave & 6th Ave,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,SLU-15,EL-01,Short-Term Pass Holder,NULL,NULL
+140580,9/6/15 22:53,9/6/15 22:58,SEA00263,SEA,00263,288.563,2nd Ave & Vine St,2nd Ave & Blanchard St,BT-03,BT-05,Short-Term Pass Holder,NULL,NULL
+125699,8/9/15 18:20,8/9/15 18:27,SEA00081,SEA,00081,404.085,Republican St & Westlake Ave N,2nd Ave & Vine St,SLU-04,BT-03,Annual Member,Male,1981
+133116,8/22/15 1:55,8/22/15 2:00,SEA00413,SEA,00413,322.929,Occidental Park / Occidental Ave S & S Washington St,6th Ave S & S King St,PS-04,ID-04,Annual Member,Male,1981
+115077,7/23/15 18:24,7/23/15 18:54,SEA00430,SEA,00430,1768.462,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,15th Ave NE & NE 40th St,UD-01,UW-04,Short-Term Pass Holder,NULL,NULL
+109466,7/15/15 12:25,7/15/15 12:33,SEA00115,SEA,00115,505.658,2nd Ave & Pine St,Dexter Ave & Denny Way,CBD-13,SLU-18,Short-Term Pass Holder,NULL,NULL
+154432,10/6/15 7:41,10/6/15 7:59,SEA00103,SEA,00103,1038.613,2nd Ave & Blanchard St,E Blaine St & Fairview Ave E,BT-05,EL-03,Annual Member,Female,1964
+25940,1/6/15 9:44,1/6/15 9:54,SEA00362,SEA,00362,610.111,E Harrison St & Broadway Ave E,7th Ave & Union St,CH-02,CBD-03,Annual Member,Female,1979
+41320,2/26/15 21:03,2/26/15 21:06,SEA00222,SEA,00222,169.683,Harvard Ave & E Pine St,Pine St & 9th Ave,CH-09,SLU-16,Annual Member,Male,1984
+12706,11/11/14 22:59,11/11/14 23:06,SEA00406,SEA,00406,422.993,2nd Ave & Spring St,2nd Ave & Spring St,CBD-06,CBD-06,Annual Member,Male,1981
+75743,5/19/15 9:34,5/19/15 9:55,SEA00338,SEA,00338,1236.664,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,2nd Ave & Pine St,PS-05,CBD-13,Short-Term Pass Holder,NULL,NULL
+60318,4/19/15 10:29,4/19/15 10:46,SEA00308,SEA,00308,1005.699,9th Ave N & Mercer St,Dexter Ave N & Aloha St,DPD-01,SLU-02,Short-Term Pass Holder,NULL,NULL
+61833,4/20/15 19:03,4/20/15 19:27,SEA00310,SEA,00310,1440.322,Republican St & Westlake Ave N,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,SLU-04,PS-05,Short-Term Pass Holder,NULL,NULL
+18805,12/3/14 16:08,12/3/14 16:30,SEA00485,SEA,00485,1320.653,Occidental Park / Occidental Ave S & S Washington St,Key Arena / 1st Ave N & Harrison St,PS-04,SLU-19,Annual Member,Male,1988
+156761,10/12/15 18:28,10/12/15 18:38,SEA00136,SEA,00136,643.474,Republican St & Westlake Ave N,Pine St & 9th Ave,SLU-04,SLU-16,Annual Member,Male,1990
+8271,11/1/14 13:39,11/1/14 15:52,SEA00398,SEA,00398,7945.646,Frye Art Museum / Terry Ave & Columbia St,Frye Art Museum / Terry Ave & Columbia St,FH-01,FH-01,Short-Term Pass Holder,NULL,NULL
+119589,7/31/15 10:19,7/31/15 10:25,SEA00427,SEA,00427,348.683,2nd Ave & Blanchard St,2nd Ave & Spring St,BT-05,CBD-06,Annual Member,Male,1981
+60238,4/19/15 8:46,4/19/15 8:53,SEA00246,SEA,00246,386.122,E Pine St & 16th Ave,Pine St & 9th Ave,CH-07,SLU-16,Annual Member,Female,1977
+56067,4/9/15 11:27,4/9/15 12:56,SEA00079,SEA,00079,5315.361,NE 47th St & 12th Ave NE,NE 47th St & 12th Ave NE,UD-07,UD-07,Short-Term Pass Holder,NULL,NULL
+12217,11/10/14 16:24,11/10/14 16:44,SEA00134,SEA,00134,1201.113,Bellevue Ave & E Pine St,REI / Yale Ave N & John St,CH-12,SLU-01,Short-Term Pass Holder,NULL,NULL
+28887,1/16/15 17:25,1/16/15 17:43,SEA00392,SEA,00392,1067.096,E Blaine St & Fairview Ave E,2nd Ave & Blanchard St,EL-03,BT-05,Annual Member,Female,1964
+138026,8/31/15 18:42,8/31/15 19:04,SEA00357,SEA,00357,1294.364,E Pine St & 16th Ave,PATH / 9th Ave & Westlake Ave,CH-07,SLU-07,Short-Term Pass Holder,NULL,NULL
+135684,8/26/15 15:51,8/26/15 16:12,SEA00106,SEA,00106,1241.216,Terry Ave & Stewart St,E Pine St & 16th Ave,SLU-20,CH-07,Short-Term Pass Holder,NULL,NULL
+71807,5/11/15 5:23,5/11/15 5:32,SEA00291,SEA,00291,567.168,Cal Anderson Park / 11th Ave & Pine St,2nd Ave & Spring St,CH-08,CBD-06,Annual Member,Female,1988
+49591,3/23/15 10:58,3/23/15 11:13,SEA00222,SEA,00222,869.436,Cal Anderson Park / 11th Ave & Pine St,2nd Ave & Vine St,CH-08,BT-03,Annual Member,Male,1988
+18949,12/4/14 8:09,12/4/14 8:10,SEA00490,SEA,00490,75.924,Bellevue Ave & E Pine St,Bellevue Ave & E Pine St,CH-12,CH-12,Annual Member,Female,1966
+145018,9/15/15 19:23,9/15/15 19:26,SEA00318,SEA,00318,176.312,PATH / 9th Ave & Westlake Ave,9th Ave N & Mercer St,SLU-07,DPD-01,Annual Member,Male,1982
+63460,4/23/15 18:06,4/23/15 18:17,SEA00259,SEA,00259,693.75,2nd Ave & Spring St,3rd Ave & Broad St,CBD-06,BT-01,Annual Member,Male,1962
+150625,9/28/15 9:43,9/28/15 9:49,SEA00356,SEA,00356,384.978,12th Ave & E Yesler Way,City Hall / 4th Ave & James St,CD-01,CBD-07,Annual Member,Male,1986
+7337,10/29/14 15:56,10/29/14 16:01,SEA00330,SEA,00330,304.16,REI / Yale Ave N & John St,Westlake Ave & 6th Ave,SLU-01,SLU-15,Annual Member,Male,1983
+45279,3/9/15 18:27,3/9/15 18:34,SEA00117,SEA,00117,374.279,Republican St & Westlake Ave N,Westlake Ave & 6th Ave,SLU-04,SLU-15,Annual Member,Male,1962
+148816,9/24/15 12:37,9/24/15 12:46,SEA00450,SEA,00450,526.212,6th Ave & Blanchard St,Republican St & Westlake Ave N,BT-04,SLU-04,Annual Member,Female,1994
+32496,1/29/15 8:31,1/29/15 8:50,SEA00203,SEA,00203,1121.626,12th Ave & E Mercer St,2nd Ave & Spring St,CH-15,CBD-06,Annual Member,Female,1981
+7242,10/29/14 12:57,10/29/14 13:03,SEA00097,SEA,00097,393.18,REI / Yale Ave N & John St,Lake Union Park / Valley St & Boren Ave N,SLU-01,SLU-17,Short-Term Pass Holder,NULL,NULL
+45187,3/9/15 16:09,3/9/15 16:18,SEA00150,SEA,00150,487.912,Dexter Ave & Denny Way,REI / Yale Ave N & John St,SLU-18,SLU-01,Annual Member,Male,1987
+86741,6/8/15 9:26,6/8/15 9:37,SEA00180,SEA,00180,701.233,2nd Ave & Pine St,9th Ave N & Mercer St,CBD-13,DPD-01,Annual Member,Male,1991
+126863,8/11/15 15:58,8/11/15 16:19,SEA00370,SEA,00370,1291.673,REI / Yale Ave N & John St,NE 42nd St & University Way NE,SLU-01,UD-02,Annual Member,Male,1951
+89375,6/12/15 17:15,6/12/15 19:16,SEA00375,SEA,00375,7265.137,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,Dexter Ave N & Aloha St,WF-04,SLU-02,Short-Term Pass Holder,NULL,NULL
+1778,10/15/14 19:05,10/15/14 19:12,SEA00468,SEA,00468,442.038,PATH / 9th Ave & Westlake Ave,3rd Ave & Broad St,SLU-07,BT-01,Annual Member,Male,1969
+51416,3/27/15 19:43,3/27/15 19:56,SEA00156,SEA,00156,777.966,Pine St & 9th Ave,E Pine St & 16th Ave,SLU-16,CH-07,Annual Member,Male,1985
+155276,10/8/15 13:05,10/8/15 13:17,SEA00294,SEA,00294,719.92,Pier 69 / Alaskan Way & Clay St,1st Ave & Marion St,WF-01,CBD-05,Annual Member,Female,1971
+54529,4/5/15 14:24,4/5/15 14:40,SEA00098,SEA,00098,960.798,Summit Ave E & E Republican St,2nd Ave & Pine St,CH-03,CBD-13,Short-Term Pass Holder,NULL,NULL
+56421,4/10/15 3:40,4/10/15 3:56,SEA00248,SEA,00248,954.561,Summit Ave E & E Republican St,E Pine St & 16th Ave,CH-03,CH-07,Short-Term Pass Holder,NULL,NULL
+92439,6/17/15 14:57,6/17/15 15:34,SEA00022,SEA,00022,2225.44,Dexter Ave & Denny Way,Pier 69 / Alaskan Way & Clay St,SLU-18,WF-01,Short-Term Pass Holder,NULL,NULL
+11744,11/9/14 12:09,11/9/14 12:24,SEA00446,SEA,00446,860.643,Harvard Ave & E Pine St,E Pine St & 16th Ave,CH-09,CH-07,Annual Member,Male,1977
+97492,6/26/15 11:36,6/26/15 12:25,SEA00121,SEA,00121,2931.441,Pier 69 / Alaskan Way & Clay St,Pier 69 / Alaskan Way & Clay St,WF-01,WF-01,Short-Term Pass Holder,NULL,NULL
+37995,2/16/15 17:12,2/16/15 17:34,SEA00374,SEA,00374,1319.226,Lake Union Park / Valley St & Boren Ave N,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,SLU-17,WF-04,Short-Term Pass Holder,NULL,NULL
+57222,4/12/15 16:51,4/12/15 16:58,SEA00134,SEA,00134,371.035,E Harrison St & Broadway Ave E,Summit Ave & E Denny Way,CH-02,CH-01,Annual Member,Female,1964
+135949,8/27/15 7:36,8/27/15 7:58,SEA00264,SEA,00264,1319.341,2nd Ave & Spring St,Eastlake Ave E & E Allison St,CBD-06,EL-05,Short-Term Pass Holder,NULL,NULL
+147038,9/20/15 15:10,9/20/15 15:12,SEA00314,SEA,00314,89.605,Dexter Ave & Denny Way,PATH / 9th Ave & Westlake Ave,SLU-18,SLU-07,Annual Member,Male,1989
+112783,7/20/15 8:36,7/20/15 8:46,SEA00227,SEA,00227,637.194,15th Ave E & E Thomas St,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,CH-05,EL-01,Annual Member,Female,1988
+26635,1/8/15 10:35,1/8/15 15:37,SEA00352,SEA,00352,18079.304,3rd Ave & Broad St,3rd Ave & Broad St,BT-01,BT-01,Short-Term Pass Holder,NULL,NULL
+92268,6/17/15 9:15,6/17/15 9:22,SEA00476,SEA,00476,444.973,Key Arena / 1st Ave N & Harrison St,PATH / 9th Ave & Westlake Ave,SLU-19,SLU-07,Annual Member,Male,1985
+21944,12/16/14 9:34,12/16/14 9:41,SEA00046,SEA,00046,380.955,Pine St & 9th Ave,Republican St & Westlake Ave N,SLU-16,SLU-04,Annual Member,Male,1987
+146528,9/19/15 11:59,9/19/15 12:34,SEA00089,SEA,00089,2115.794,Pier 69 / Alaskan Way & Clay St,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,WF-01,WF-04,Short-Term Pass Holder,NULL,NULL
+3238,10/19/14 10:34,10/19/14 10:51,SEA00381,SEA,00381,1063.158,E Blaine St & Fairview Ave E,9th Ave N & Mercer St,EL-03,DPD-01,Annual Member,Male,1953
+145098,9/16/15 6:07,9/16/15 6:16,SEA00266,SEA,00266,570.979,Summit Ave & E Denny Way,2nd Ave & Pine St,CH-01,CBD-13,Short-Term Pass Holder,NULL,NULL
+121127,8/2/15 16:18,8/2/15 16:28,SEA00054,SEA,00054,579.96,Summit Ave E & E Republican St,2nd Ave & Pine St,CH-03,CBD-13,Annual Member,Male,1977
+69621,5/7/15 17:43,5/7/15 17:45,SEA00110,SEA,00110,91.547,Dexter Ave & Denny Way,PATH / 9th Ave & Westlake Ave,SLU-18,SLU-07,Annual Member,Female,1966
+15407,11/19/14 17:00,11/19/14 17:05,SEA00386,SEA,00386,247.116,15th Ave E & E Thomas St,E Harrison St & Broadway Ave E,CH-05,CH-02,Annual Member,Female,1979
+121774,8/3/15 17:16,8/3/15 17:24,SEA00403,SEA,00403,472.06,Frye Art Museum / Terry Ave & Columbia St,Cal Anderson Park / 11th Ave & Pine St,FH-01,CH-08,Annual Member,Male,1983
+74480,5/16/15 18:42,5/16/15 20:38,SEA00364,SEA,00364,6953.192,Pier 69 / Alaskan Way & Clay St,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,WF-01,WF-04,Short-Term Pass Holder,NULL,NULL
+8458,11/1/14 17:52,11/1/14 18:15,SEA00218,SEA,00218,1387.794,City Hall / 4th Ave & James St,City Hall / 4th Ave & James St,CBD-07,CBD-07,Short-Term Pass Holder,NULL,NULL
+18024,12/1/14 8:20,12/1/14 8:29,SEA00051,SEA,00051,579.012,1st Ave & Marion St,Pier 69 / Alaskan Way & Clay St,CBD-05,WF-01,Short-Term Pass Holder,NULL,NULL
+61687,4/20/15 17:32,4/20/15 17:37,SEA00111,SEA,00111,303.878,9th Ave N & Mercer St,6th Ave & Blanchard St,DPD-01,BT-04,Annual Member,Male,1965
+105394,7/9/15 9:11,7/9/15 9:19,SEA00145,SEA,00145,518.451,E Pine St & 16th Ave,Westlake Ave & 6th Ave,CH-07,SLU-15,Annual Member,Female,1985
+28748,1/16/15 12:09,1/16/15 12:16,SEA00230,SEA,00230,416.201,2nd Ave & Vine St,Republican St & Westlake Ave N,BT-03,SLU-04,Annual Member,Male,1981
+38156,2/17/15 9:58,2/17/15 10:03,SEA00046,SEA,00046,327.912,12th Ave & E Mercer St,Harvard Ave & E Pine St,CH-15,CH-09,Annual Member,Female,1972
+9796,11/4/14 20:01,11/4/14 20:13,SEA00111,SEA,00111,698.752,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,3rd Ave & Broad St,WF-04,BT-01,Short-Term Pass Holder,NULL,NULL
+95587,6/23/15 7:45,6/23/15 7:53,SEA00210,SEA,00210,447.355,Seattle University / E Columbia St & 12th Ave,6th Ave S & S King St,FH-04,ID-04,Annual Member,Male,1988
+60807,4/19/15 17:04,4/19/15 17:30,SEA00320,SEA,00320,1569.593,15th Ave E & E Thomas St,15th Ave E & E Thomas St,CH-05,CH-05,Short-Term Pass Holder,NULL,NULL
+9013,11/2/14 16:06,11/2/14 16:13,SEA00189,SEA,00189,409.201,Frye Art Museum / Terry Ave & Columbia St,Bellevue Ave & E Pine St,FH-01,CH-12,Annual Member,Male,1972
+46103,3/12/15 8:37,3/12/15 8:47,SEA00034,SEA,00034,615.397,Pier 69 / Alaskan Way & Clay St,1st Ave & Marion St,WF-01,CBD-05,Annual Member,Other,1957
+101530,7/3/15 15:01,7/3/15 16:01,SEA00487,SEA,00487,3632.906,Key Arena / 1st Ave N & Harrison St,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,SLU-19,WF-04,Short-Term Pass Holder,NULL,NULL
+26523,1/8/15 5:38,1/8/15 5:44,SEA00049,SEA,00049,340.11,E Harrison St & Broadway Ave E,7th Ave & Union St,CH-02,CBD-03,Annual Member,Male,1979
+30210,1/21/15 18:29,1/21/15 18:34,SEA00087,SEA,00087,326.59,Dexter Ave & Denny Way,Dexter Ave N & Aloha St,SLU-18,SLU-02,Annual Member,Male,1991
+136539,8/28/15 5:55,8/28/15 6:06,SEA00424,SEA,00424,632.022,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,Pier 69 / Alaskan Way & Clay St,PS-05,WF-01,Annual Member,Male,1982
+3220,10/19/14 10:09,10/19/14 10:14,SEA00268,SEA,00268,293.427,15th Ave E & E Thomas St,Cal Anderson Park / 11th Ave & Pine St,CH-05,CH-08,Annual Member,Male,1979
+73396,5/14/15 17:55,5/14/15 17:59,SEA00449,SEA,00449,266.839,REI / Yale Ave N & John St,Westlake Ave & 6th Ave,SLU-01,SLU-15,Annual Member,Male,1987
+60930,4/19/15 19:15,4/19/15 19:23,SEA00327,SEA,00327,449.973,Cal Anderson Park / 11th Ave & Pine St,Frye Art Museum / Terry Ave & Columbia St,CH-08,FH-01,Annual Member,Male,1983
+60301,4/19/15 10:05,4/19/15 10:18,SEA00133,SEA,00133,777.252,7th Ave & Union St,3rd Ave & Broad St,CBD-03,BT-01,Short-Term Pass Holder,NULL,NULL
+82288,5/30/15 17:57,5/30/15 18:04,SEA00240,SEA,00240,435.329,6th Ave & Blanchard St,3rd Ave & Broad St,BT-04,BT-01,Annual Member,Male,1986
+120521,8/1/15 17:10,8/1/15 17:21,SEA00210,SEA,00210,658.998,E Harrison St & Broadway Ave E,E Pine St & 16th Ave,CH-02,CH-07,Annual Member,Male,1980
+145551,9/16/15 20:00,9/16/15 20:24,SEA00463,SEA,00463,1493.17,3rd Ave & Broad St,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,BT-01,PS-05,Short-Term Pass Holder,NULL,NULL
+82599,5/31/15 12:25,5/31/15 12:37,SEA00309,SEA,00309,727.62,Cal Anderson Park / 11th Ave & Pine St,Westlake Ave & 6th Ave,CH-08,SLU-15,Annual Member,Male,1959
+103260,7/5/15 22:20,7/5/15 22:36,SEA00228,SEA,00228,972.781,Westlake Ave & 6th Ave,6th Ave S & S King St,SLU-15,ID-04,Short-Term Pass Holder,NULL,NULL
+119942,7/31/15 18:31,7/31/15 18:56,SEA00449,SEA,00449,1502.302,Pier 69 / Alaskan Way & Clay St,Pier 69 / Alaskan Way & Clay St,WF-01,WF-01,Short-Term Pass Holder,NULL,NULL
+123778,8/6/15 17:45,8/6/15 18:11,SEA00234,SEA,00234,1557.531,Summit Ave & E Denny Way,12th Ave & E Yesler Way,CH-01,CD-01,Short-Term Pass Holder,NULL,NULL
+122314,8/4/15 13:55,8/4/15 14:05,SEA00380,SEA,00380,579.404,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,Republican St & Westlake Ave N,EL-01,SLU-04,Short-Term Pass Holder,NULL,NULL
+115451,7/24/15 13:41,7/24/15 14:05,SEA00054,SEA,00054,1434.756,Dexter Ave N & Aloha St,Cal Anderson Park / 11th Ave & Pine St,SLU-02,CH-08,Short-Term Pass Holder,NULL,NULL
+1980,10/16/14 11:53,10/16/14 12:16,SEA00251,SEA,00251,1362.927,2nd Ave & Spring St,2nd Ave & Spring St,CBD-06,CBD-06,Annual Member,Female,1987
+146012,9/18/15 9:30,9/18/15 9:34,SEA00379,SEA,00379,217.985,Bellevue Ave & E Pine St,Westlake Ave & 6th Ave,CH-12,SLU-15,Annual Member,Female,1964
+21225,12/13/14 14:16,12/13/14 14:25,SEA00340,SEA,00340,549.163,12th Ave & E Denny Way,7th Ave & Union St,CH-06,CBD-03,Annual Member,Female,1991
+111213,7/17/15 17:57,7/17/15 18:05,SEA00220,SEA,00220,443.807,Westlake Ave & 6th Ave,3rd Ave & Broad St,SLU-15,BT-01,Annual Member,Male,1989
+57460,4/13/15 15:50,4/13/15 15:57,SEA00435,SEA,00435,380.214,2nd Ave & Pine St,Pine St & 9th Ave,CBD-13,SLU-16,Annual Member,Male,1987
+146671,9/19/15 15:33,9/19/15 15:59,SEA00145,SEA,00145,1566.971,Pier 69 / Alaskan Way & Clay St,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,WF-01,PS-05,Short-Term Pass Holder,NULL,NULL
+23542,12/23/14 11:47,12/23/14 12:02,SEA00213,SEA,00213,860.193,2nd Ave & Spring St,Harvard Ave & E Pine St,CBD-06,CH-09,Short-Term Pass Holder,NULL,NULL
+6985,10/28/14 18:10,10/28/14 18:25,SEA00225,SEA,00225,879.441,Dexter Ave & Denny Way,2nd Ave & Pine St,SLU-18,CBD-13,Annual Member,Male,1986
+57155,4/12/15 14:06,4/12/15 14:11,SEA00424,SEA,00424,315.963,REI / Yale Ave N & John St,Westlake Ave & 6th Ave,SLU-01,SLU-15,Annual Member,Male,1987
+132371,8/20/15 19:43,8/20/15 19:47,SEA00374,SEA,00374,250.776,Harvard Ave & E Pine St,Pine St & 9th Ave,CH-09,SLU-16,Annual Member,Male,1987
+51314,3/27/15 16:46,3/27/15 16:54,SEA00206,SEA,00206,457.775,Republican St & Westlake Ave N,E Blaine St & Fairview Ave E,SLU-04,EL-03,Annual Member,Male,1974
+132521,8/21/15 8:45,8/21/15 9:10,SEA00315,SEA,00315,1490.974,E Blaine St & Fairview Ave E,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,EL-03,WF-04,Short-Term Pass Holder,NULL,NULL
+156111,10/11/15 10:45,10/11/15 12:25,SEA00453,SEA,00453,6048.906,E Pine St & 16th Ave,Cal Anderson Park / 11th Ave & Pine St,CH-07,CH-08,Short-Term Pass Holder,NULL,NULL
+66184,4/30/15 11:10,4/30/15 11:17,SEA00268,SEA,00268,457.155,2nd Ave & Pine St,Occidental Park / Occidental Ave S & S Washington St,CBD-13,PS-04,Annual Member,Female,1983
+48293,3/19/15 8:27,3/19/15 8:37,SEA00119,SEA,00119,634.805,Summit Ave & E Denny Way,1st Ave & Marion St,CH-01,CBD-05,Short-Term Pass Holder,NULL,NULL
+113446,7/21/15 12:00,7/21/15 12:02,SEA00245,SEA,00245,79.929,City Hall / 4th Ave & James St,City Hall / 4th Ave & James St,CBD-07,CBD-07,Annual Member,Male,1961
+119694,7/31/15 13:00,7/31/15 13:12,SEA00408,SEA,00408,699.134,7th Ave & Union St,E Blaine St & Fairview Ave E,CBD-03,EL-03,Annual Member,Male,1985
+45304,3/9/15 19:38,3/9/15 19:52,SEA00248,SEA,00248,832.246,REI / Yale Ave N & John St,E Harrison St & Broadway Ave E,SLU-01,CH-02,Annual Member,Male,1969
+144173,9/14/15 5:25,9/14/15 5:30,SEA00228,SEA,00228,328.911,E Pine St & 16th Ave,2nd Ave & Pine St,CH-07,CBD-13,Annual Member,Male,1979
+4491,10/21/14 12:15,10/21/14 12:58,SEA00387,SEA,00387,2580.164,Cal Anderson Park / 11th Ave & Pine St,7th Ave & Union St,CH-08,CBD-03,Short-Term Pass Holder,NULL,NULL
+15949,11/21/14 10:38,11/21/14 10:43,SEA00271,SEA,00271,301.064,2nd Ave & Vine St,2nd Ave & Pine St,BT-03,CBD-13,Annual Member,Male,1972
+38626,2/18/15 12:48,2/18/15 12:52,SEA00253,SEA,00253,266.905,2nd Ave & Pine St,Westlake Ave & 6th Ave,CBD-13,SLU-15,Annual Member,Male,1981
+146442,9/19/15 7:38,9/19/15 7:43,SEA00147,SEA,00147,293.509,12th Ave & E Mercer St,Seattle University / E Columbia St & 12th Ave,CH-15,FH-04,Annual Member,Male,1995
+77528,5/22/15 13:15,5/22/15 13:20,SEA00397,SEA,00397,281.707,City Hall / 4th Ave & James St,2nd Ave & Spring St,CBD-07,CBD-06,Annual Member,Male,1975
+53210,4/1/15 23:39,4/1/15 23:49,SEA00094,SEA,00094,620.237,Children's Hospital / Sandpoint Way NE & 40th Ave NE,UW Intramural Activities Building,DPD-03,UW-07,Annual Member,Female,1991
+76029,5/19/15 18:18,5/19/15 18:30,SEA00413,SEA,00413,721.938,Lake Union Park / Valley St & Boren Ave N,Eastlake Ave E & E Allison St,SLU-17,EL-05,Annual Member,Male,1980
+35231,2/9/15 15:36,2/9/15 15:57,SEA00061,SEA,00061,1257.712,Pier 69 / Alaskan Way & Clay St,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,WF-01,WF-04,Short-Term Pass Holder,NULL,NULL
+19229,12/5/14 9:09,12/5/14 9:22,SEA00440,SEA,00440,784.52,1st Ave & Marion St,Pier 69 / Alaskan Way & Clay St,CBD-05,WF-01,Short-Term Pass Holder,NULL,NULL
+29201,1/18/15 19:06,1/18/15 19:11,SEA00021,SEA,00021,308.389,2nd Ave & Pine St,Occidental Park / Occidental Ave S & S Washington St,CBD-13,PS-04,Annual Member,Male,1977
+41934,2/28/15 17:38,2/28/15 18:01,SEA00321,SEA,00321,1360.556,PATH / 9th Ave & Westlake Ave,Dexter Ave N & Aloha St,SLU-07,SLU-02,Short-Term Pass Holder,NULL,NULL
+154299,10/5/15 17:43,10/5/15 18:01,SEA00137,SEA,00137,1039.609,Occidental Park / Occidental Ave S & S Washington St,2nd Ave & Pine St,PS-04,CBD-13,Short-Term Pass Holder,NULL,NULL
+69776,5/8/15 2:39,5/8/15 2:43,SEA00128,SEA,00128,274.525,7th Ave & Union St,7th Ave & Union St,CBD-03,CBD-03,Short-Term Pass Holder,NULL,NULL
+12174,11/10/14 14:52,11/10/14 15:09,SEA00123,SEA,00123,1052.346,2nd Ave & Spring St,Occidental Park / Occidental Ave S & S Washington St,CBD-06,PS-04,Short-Term Pass Holder,NULL,NULL
+29311,1/19/15 12:19,1/19/15 12:34,SEA00092,SEA,00092,854.038,PATH / 9th Ave & Westlake Ave,City Hall / 4th Ave & James St,SLU-07,CBD-07,Annual Member,Male,1972
+52781,3/31/15 19:51,3/31/15 19:58,SEA00024,SEA,00024,388.37,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,WF-04,WF-04,Short-Term Pass Holder,NULL,NULL
+87587,6/9/15 17:25,6/9/15 17:32,SEA00181,SEA,00181,415.297,Westlake Ave & 6th Ave,2nd Ave & Spring St,SLU-15,CBD-06,Annual Member,Male,1967
+7657,10/30/14 10:20,10/30/14 10:25,SEA00109,SEA,00109,314.226,UW Engineering Library / E Stevens Way NE & Jefferson Rd,UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd,UW-06,UW-10,Annual Member,Male,1988
+93727,6/19/15 16:30,6/19/15 16:34,SEA00453,SEA,00453,238.882,9th Ave N & Mercer St,Dexter Ave N & Aloha St,DPD-01,SLU-02,Annual Member,Male,1971
+130720,8/18/15 9:00,8/18/15 9:07,SEA00052,SEA,00052,383.419,2nd Ave & Vine St,9th Ave N & Mercer St,BT-03,DPD-01,Annual Member,Male,1985
+59589,4/18/15 12:28,4/18/15 14:49,SEA00197,SEA,00197,8467.452,Westlake Ave & 6th Ave,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,SLU-15,WF-04,Short-Term Pass Holder,NULL,NULL
+99400,6/30/15 7:14,6/30/15 7:25,SEA00335,SEA,00335,630.304,2nd Ave & Pine St,Pier 69 / Alaskan Way & Clay St,CBD-13,WF-01,Annual Member,Male,1992
+1451,10/14/14 20:51,10/14/14 21:01,SEA00310,SEA,00310,605.651,Frye Art Museum / Terry Ave & Columbia St,E Harrison St & Broadway Ave E,FH-01,CH-02,Short-Term Pass Holder,NULL,NULL
+17272,11/26/14 11:57,11/26/14 12:02,SEA00325,SEA,00325,295.296,Harvard Ave & E Pine St,Seattle University / E Columbia St & 12th Ave,CH-09,FH-04,Annual Member,Male,1986
+7227,10/29/14 12:40,10/29/14 12:56,SEA00324,SEA,00324,940.823,7th Ave & Union St,Occidental Park / Occidental Ave S & S Washington St,CBD-03,PS-04,Annual Member,Female,1974
+73768,5/15/15 12:14,5/15/15 12:17,SEA00372,SEA,00372,193.822,2nd Ave & Blanchard St,2nd Ave & Vine St,BT-05,BT-03,Annual Member,Male,1956
+124100,8/7/15 9:33,8/7/15 9:42,SEA00370,SEA,00370,538.097,E Pine St & 16th Ave,PATH / 9th Ave & Westlake Ave,CH-07,SLU-07,Annual Member,Male,1987
+55001,4/6/15 18:15,4/6/15 18:30,SEA00445,SEA,00445,915.035,Occidental Park / Occidental Ave S & S Washington St,2nd Ave & Pine St,PS-04,CBD-13,Short-Term Pass Holder,NULL,NULL
+83539,6/2/15 12:32,6/2/15 12:39,SEA00277,SEA,00277,442.828,Lake Union Park / Valley St & Boren Ave N,REI / Yale Ave N & John St,SLU-17,SLU-01,Annual Member,Male,1965
+83414,6/2/15 8:19,6/2/15 8:25,SEA00083,SEA,00083,358.079,Summit Ave E & E Republican St,7th Ave & Union St,CH-03,CBD-03,Annual Member,Male,1976
+154348,10/5/15 18:49,10/5/15 18:50,SEA00080,SEA,00080,114.759,Cal Anderson Park / 11th Ave & Pine St,Bellevue Ave & E Pine St,CH-08,CH-12,Annual Member,Male,1987
+70070,5/8/15 14:07,5/8/15 14:12,SEA00424,SEA,00424,274.583,Burke Museum / E Stevens Way NE & Memorial Way NE,UW Intramural Activities Building,UW-02,UW-07,Annual Member,Male,1986
+131641,8/19/15 16:26,8/19/15 16:35,SEA00431,SEA,00431,546.019,Republican St & Westlake Ave N,E Blaine St & Fairview Ave E,SLU-04,EL-03,Annual Member,Female,1977
+61680,4/20/15 17:28,4/20/15 17:36,SEA00311,SEA,00311,518.093,12th Ave & NE Campus Pkwy,E Blaine St & Fairview Ave E,UD-04,EL-03,Annual Member,Male,1990
+108198,7/13/15 15:35,7/13/15 15:44,SEA00155,SEA,00155,564.669,Pier 69 / Alaskan Way & Clay St,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,WF-01,PS-05,Annual Member,Male,1981
+13885,11/15/14 9:52,11/15/14 9:56,SEA00280,SEA,00280,240.132,15th Ave E & E Thomas St,E Pine St & 16th Ave,CH-05,CH-07,Annual Member,Male,1981
+6260,10/26/14 16:48,10/26/14 16:52,SEA00400,SEA,00400,257.899,12th Ave & E Denny Way,Bellevue Ave & E Pine St,CH-06,CH-12,Annual Member,Male,1975
+144833,9/15/15 14:08,9/15/15 14:13,SEA00246,SEA,00246,325.298,Cal Anderson Park / 11th Ave & Pine St,12th Ave & E Mercer St,CH-08,CH-15,Annual Member,Male,1972
+105381,7/9/15 8:54,7/9/15 9:06,SEA00447,SEA,00447,736.505,E Pine St & 16th Ave,6th Ave & Blanchard St,CH-07,BT-04,Annual Member,Male,1993
+119412,7/30/15 21:33,7/30/15 21:49,SEA00153,SEA,00153,992.566,Cal Anderson Park / 11th Ave & Pine St,Key Arena / 1st Ave N & Harrison St,CH-08,SLU-19,Annual Member,Female,1984
+61690,4/20/15 17:34,4/20/15 17:58,SEA00361,SEA,00361,1476.581,12th Ave & E Mercer St,City Hall / 4th Ave & James St,CH-15,CBD-07,Short-Term Pass Holder,NULL,NULL
+31278,1/25/15 15:56,1/25/15 16:03,SEA00033,SEA,00033,451.699,E Pine St & 16th Ave,12th Ave & E Mercer St,CH-07,CH-15,Annual Member,Male,1975
+138920,9/3/15 6:41,9/3/15 6:51,SEA00326,SEA,00326,592.175,1st Ave & Marion St,2nd Ave & Vine St,CBD-05,BT-03,Annual Member,Male,1965
+124080,8/7/15 9:18,8/7/15 9:22,SEA00249,SEA,00249,226.478,Summit Ave & E Denny Way,Pine St & 9th Ave,CH-01,SLU-16,Annual Member,Male,1969
+141966,9/9/15 18:16,9/9/15 18:18,SEA00306,SEA,00306,126.136,12th Ave & E Denny Way,Cal Anderson Park / 11th Ave & Pine St,CH-06,CH-08,Annual Member,Male,1967
+112578,7/19/15 17:39,7/19/15 18:01,SEA00288,SEA,00288,1295.413,Lake Union Park / Valley St & Boren Ave N,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,SLU-17,EL-01,Short-Term Pass Holder,NULL,NULL
+125833,8/9/15 21:19,8/9/15 21:43,SEA00064,SEA,00064,1394.856,E Harrison St & Broadway Ave E,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,CH-02,UD-01,Short-Term Pass Holder,NULL,NULL
+118090,7/28/15 21:55,7/28/15 22:08,SEA00091,SEA,00091,766.566,Occidental Park / Occidental Ave S & S Washington St,Pine St & 9th Ave,PS-04,SLU-16,Annual Member,Male,1987
+6507,10/27/14 12:31,10/27/14 13:42,SEA00065,SEA,00065,4265.179,2nd Ave & Spring St,2nd Ave & Pine St,CBD-06,CBD-13,Short-Term Pass Holder,NULL,NULL
+57206,4/12/15 16:00,4/12/15 16:14,SEA00207,SEA,00207,853.642,Pier 69 / Alaskan Way & Clay St,3rd Ave & Broad St,WF-01,BT-01,Short-Term Pass Holder,NULL,NULL
+156608,10/12/15 14:02,10/12/15 14:11,SEA00275,SEA,00275,529.442,E Pine St & 16th Ave,Seattle University / E Columbia St & 12th Ave,CH-07,FH-04,Annual Member,Male,1977
+95319,6/22/15 16:25,6/22/15 16:39,SEA00072,SEA,00072,810.389,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,UW Engineering Library / E Stevens Way NE & Jefferson Rd,UD-01,UW-06,Short-Term Pass Holder,NULL,NULL
+147671,9/22/15 8:27,9/22/15 8:37,SEA00117,SEA,00117,617.043,E Pine St & 16th Ave,2nd Ave & Vine St,CH-07,BT-03,Annual Member,Male,1970
+131775,8/19/15 18:30,8/19/15 18:38,SEA00464,SEA,00464,501.685,UW Engineering Library / E Stevens Way NE & Jefferson Rd,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,UW-06,UD-01,Annual Member,Female,1981
+133378,8/22/15 14:21,8/22/15 14:54,SEA00107,SEA,00107,1988.924,15th Ave NE & NE 40th St,Lake Union Park / Valley St & Boren Ave N,UW-04,SLU-17,Short-Term Pass Holder,NULL,NULL
+45427,3/10/15 10:04,3/10/15 10:07,SEA00131,SEA,00131,178.382,E Pine St & 16th Ave,Harvard Ave & E Pine St,CH-07,CH-09,Annual Member,Male,1990
+130497,8/17/15 18:49,8/17/15 18:57,SEA00246,SEA,00246,502.753,E Pine St & 16th Ave,Summit Ave & E Denny Way,CH-07,CH-01,Annual Member,Male,1980
+60024,4/18/15 18:09,4/18/15 18:36,SEA00201,SEA,00201,1629.913,2nd Ave & Pine St,Summit Ave E & E Republican St,CBD-13,CH-03,Short-Term Pass Holder,NULL,NULL
+145690,9/17/15 9:19,9/17/15 9:26,SEA00174,SEA,00174,424.42,Summit Ave E & E Republican St,Republican St & Westlake Ave N,CH-03,SLU-04,Annual Member,Male,1992
+48526,3/19/15 17:43,3/19/15 17:51,SEA00500,SEA,00500,456.786,REI / Yale Ave N & John St,Westlake Ave & 6th Ave,SLU-01,SLU-15,Annual Member,Female,1959
+107508,7/12/15 15:37,7/12/15 16:19,SEA00260,SEA,00260,2566.592,Summit Ave E & E Republican St,Lake Union Park / Valley St & Boren Ave N,CH-03,SLU-17,Short-Term Pass Holder,NULL,NULL
+118147,7/29/15 7:26,7/29/15 7:34,SEA00374,SEA,00374,470.333,12th Ave & E Mercer St,Republican St & Westlake Ave N,CH-15,SLU-04,Annual Member,Male,1976
+63955,4/25/15 8:47,4/25/15 8:56,SEA00221,SEA,00221,512.867,Cal Anderson Park / 11th Ave & Pine St,E Harrison St & Broadway Ave E,CH-08,CH-02,Annual Member,Female,1947
+132720,8/21/15 14:25,8/21/15 15:24,SEA00356,SEA,00356,3526.003,12th Ave & NE Campus Pkwy,E Harrison St & Broadway Ave E,UD-04,CH-02,Short-Term Pass Holder,NULL,NULL
+93513,6/19/15 9:58,6/19/15 10:42,SEA00203,SEA,00203,2645.881,Dexter Ave & Denny Way,Dexter Ave & Denny Way,SLU-18,SLU-18,Short-Term Pass Holder,NULL,NULL
+147291,9/21/15 9:20,9/21/15 9:26,SEA00085,SEA,00085,390.644,Pine St & 9th Ave,Republican St & Westlake Ave N,SLU-16,SLU-04,Annual Member,Male,1979
+86981,6/8/15 16:01,6/8/15 16:14,SEA00478,SEA,00478,735.863,E Blaine St & Fairview Ave E,Key Arena / 1st Ave N & Harrison St,EL-03,SLU-19,Annual Member,Female,1974
+30165,1/21/15 17:15,1/21/15 17:36,SEA00344,SEA,00344,1255.371,E Blaine St & Fairview Ave E,2nd Ave & Blanchard St,EL-03,BT-05,Annual Member,Female,1964
+25633,1/4/15 13:32,1/4/15 13:36,SEA00082,SEA,00082,221.362,Westlake Ave & 6th Ave,PATH / 9th Ave & Westlake Ave,SLU-15,SLU-07,Annual Member,Male,1985
+31341,1/25/15 18:32,1/25/15 18:53,SEA00040,SEA,00040,1278.513,E Blaine St & Fairview Ave E,Key Arena / 1st Ave N & Harrison St,EL-03,SLU-19,Short-Term Pass Holder,NULL,NULL
+100491,7/1/15 21:32,7/1/15 21:38,SEA00364,SEA,00364,361.551,12th Ave & E Yesler Way,Seattle University / E Columbia St & 12th Ave,CD-01,FH-04,Annual Member,Male,1984
+2779,10/18/14 12:43,10/18/14 12:55,SEA00412,SEA,00412,713.61,City Hall / 4th Ave & James St,2nd Ave & Spring St,CBD-07,CBD-06,Short-Term Pass Holder,NULL,NULL
+90141,6/13/15 18:35,6/13/15 18:57,SEA00157,SEA,00157,1322.631,Key Arena / 1st Ave N & Harrison St,Harvard Ave & E Pine St,SLU-19,CH-09,Short-Term Pass Holder,NULL,NULL
+79957,5/27/15 11:32,5/27/15 11:44,SEA00160,SEA,00160,699.155,Harvard Ave & E Pine St,6th Ave & Blanchard St,CH-09,BT-04,Short-Term Pass Holder,NULL,NULL
+60234,4/19/15 8:43,4/19/15 8:50,SEA00028,SEA,00028,437.543,PATH / 9th Ave & Westlake Ave,7th Ave & Union St,SLU-07,CBD-03,Short-Term Pass Holder,NULL,NULL
+153716,10/4/15 16:18,10/4/15 16:27,SEA00385,SEA,00385,528.829,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,UW McCarty Hall / Whitman Ct,UD-01,UW-01,Annual Member,Male,1995
+42601,3/2/15 22:06,3/2/15 22:11,SEA00374,SEA,00374,274.297,Westlake Ave & 6th Ave,REI / Yale Ave N & John St,SLU-15,SLU-01,Annual Member,Male,1987
+62828,4/22/15 11:06,4/22/15 11:25,SEA00021,SEA,00021,1193.406,Eastlake Ave E & E Allison St,UW Intramural Activities Building,EL-05,UW-07,Short-Term Pass Holder,NULL,NULL
+11963,11/10/14 8:37,11/10/14 8:53,SEA00375,SEA,00375,965.336,Key Arena / 1st Ave N & Harrison St,1st Ave & Marion St,SLU-19,CBD-05,Annual Member,Female,1984
+156119,10/11/15 11:04,10/11/15 11:08,SEA00262,SEA,00262,267.571,6th Ave & Blanchard St,3rd Ave & Broad St,BT-04,BT-01,Annual Member,Male,1972
+53317,4/2/15 11:20,4/2/15 11:54,SEA00038,SEA,00038,2054.287,UW Intramural Activities Building,Occidental Park / Occidental Ave S & S Washington St,UW-07,PS-04,Annual Member,Male,1960
+155357,10/8/15 15:56,10/8/15 16:10,SEA00074,SEA,00074,793.75,REI / Yale Ave N & John St,2nd Ave & Vine St,SLU-01,BT-03,Annual Member,Male,1971
+53043,4/1/15 14:51,4/1/15 15:14,SEA00453,SEA,00453,1370.653,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,12th Ave & NE Campus Pkwy,EL-01,UD-04,Short-Term Pass Holder,NULL,NULL
+150399,9/27/15 16:47,9/27/15 16:51,SEA00404,SEA,00404,245.077,Harvard Ave & E Pine St,Pine St & 9th Ave,CH-09,SLU-16,Annual Member,Male,1988
+68191,5/4/15 12:05,5/4/15 12:30,SEA00448,SEA,00448,1466.696,15th Ave NE & NE 40th St,Burke Museum / E Stevens Way NE & Memorial Way NE,UW-04,UW-02,Short-Term Pass Holder,NULL,NULL
+63142,4/22/15 20:07,4/22/15 20:13,SEA00121,SEA,00121,396.284,Harvard Ave & E Pine St,Seattle University / E Columbia St & 12th Ave,CH-09,FH-04,Annual Member,Male,1959
+140504,9/6/15 16:26,9/6/15 18:03,SEA00417,SEA,00417,5816.198,Pier 69 / Alaskan Way & Clay St,Pier 69 / Alaskan Way & Clay St,WF-01,WF-01,Short-Term Pass Holder,NULL,NULL
+33226,1/31/15 13:17,1/31/15 13:28,SEA00165,SEA,00165,616.993,Children's Hospital / Sandpoint Way NE & 40th Ave NE,Children's Hospital / Sandpoint Way NE & 40th Ave NE,DPD-03,DPD-03,Annual Member,Female,1976
+3125,10/19/14 0:41,10/19/14 0:44,SEA00174,SEA,00174,178.637,1st Ave & Marion St,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,CBD-05,WF-04,Short-Term Pass Holder,NULL,NULL
+60612,4/19/15 14:18,4/19/15 14:45,SEA00202,SEA,00202,1638.128,Key Arena / 1st Ave N & Harrison St,9th Ave N & Mercer St,SLU-19,DPD-01,Short-Term Pass Holder,NULL,NULL
+28640,1/16/15 7:16,1/16/15 7:24,SEA00284,SEA,00284,523.226,15th Ave E & E Thomas St,PATH / 9th Ave & Westlake Ave,CH-05,SLU-07,Annual Member,Male,1971
+99203,6/29/15 17:16,6/29/15 17:24,SEA00321,SEA,00321,491.028,UW Engineering Library / E Stevens Way NE & Jefferson Rd,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,UW-06,UD-01,Annual Member,Female,1990
+24243,12/27/14 10:39,12/27/14 10:51,SEA00211,SEA,00211,714.452,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,Seattle University / E Columbia St & 12th Ave,PS-05,FH-04,Annual Member,Female,1977
+98793,6/28/15 22:12,6/28/15 22:20,SEA00374,SEA,00374,467.42,Key Arena / 1st Ave N & Harrison St,PATH / 9th Ave & Westlake Ave,SLU-19,SLU-07,Annual Member,Male,1985
+51913,3/29/15 14:56,3/29/15 15:26,SEA00119,SEA,00119,1768.251,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,Lake Union Park / Valley St & Boren Ave N,EL-01,SLU-17,Short-Term Pass Holder,NULL,NULL
+101171,7/2/15 23:39,7/3/15 0:03,SEA00470,SEA,00470,1440.957,3rd Ave & Broad St,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,BT-01,WF-04,Short-Term Pass Holder,NULL,NULL
+123781,8/6/15 17:50,8/6/15 18:00,SEA00339,SEA,00339,587.593,Key Arena / 1st Ave N & Harrison St,2nd Ave & Vine St,SLU-19,BT-03,Short-Term Pass Holder,NULL,NULL
+36141,2/12/15 9:12,2/12/15 9:17,SEA00216,SEA,00216,293.431,2nd Ave & Vine St,2nd Ave & Pine St,BT-03,CBD-13,Annual Member,Male,1972
+73206,5/14/15 12:45,5/14/15 13:17,SEA00370,SEA,00370,1941.436,City Hall / 4th Ave & James St,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,CBD-07,PS-05,Short-Term Pass Holder,NULL,NULL
+62542,4/21/15 17:28,4/21/15 17:39,SEA00156,SEA,00156,643.837,Pine St & 9th Ave,E Pine St & 16th Ave,SLU-16,CH-07,Annual Member,Male,1971
+57032,4/12/15 8:55,4/12/15 9:02,SEA00114,SEA,00114,379.818,12th Ave & E Denny Way,Republican St & Westlake Ave N,CH-06,SLU-04,Annual Member,Male,1991
+136388,8/27/15 17:12,8/27/15 17:21,SEA00070,SEA,00070,529.489,Union St & 4th Ave,Key Arena / 1st Ave N & Harrison St,CBD-04,SLU-19,Annual Member,Male,1989
+12330,11/10/14 19:59,11/10/14 20:03,SEA00245,SEA,00245,226.106,E Pine St & 16th Ave,15th Ave E & E Thomas St,CH-07,CH-05,Annual Member,Female,1987
+45820,3/11/15 10:24,3/11/15 10:30,SEA00247,SEA,00247,355.259,NE 47th St & 12th Ave NE,Burke Museum / E Stevens Way NE & Memorial Way NE,UD-07,UW-02,Annual Member,Female,1992
+117385,7/27/15 20:51,7/27/15 20:55,SEA00430,SEA,00430,246.905,Summit Ave & E Denny Way,E Harrison St & Broadway Ave E,CH-01,CH-02,Annual Member,Male,1990
+93663,6/19/15 14:43,6/19/15 14:46,SEA00371,SEA,00371,159.011,Bellevue Ave & E Pine St,Pine St & 9th Ave,CH-12,SLU-16,Annual Member,Male,1987
+117241,7/27/15 17:42,7/27/15 18:02,SEA00087,SEA,00087,1202.081,6th Ave & Blanchard St,E Pine St & 16th Ave,BT-04,CH-07,Annual Member,Female,1985
+86038,6/6/15 19:47,6/6/15 19:48,SEA00227,SEA,00227,97.299,Harvard Ave & E Pine St,Bellevue Ave & E Pine St,CH-09,CH-12,Annual Member,Female,1988
+49966,3/24/15 17:15,3/24/15 17:23,SEA00348,SEA,00348,479.314,7th Ave & Union St,PATH / 9th Ave & Westlake Ave,CBD-03,SLU-07,Annual Member,Male,1989
+131819,8/19/15 19:23,8/19/15 19:34,SEA00189,SEA,00189,618.423,Frye Art Museum / Terry Ave & Columbia St,15th Ave E & E Thomas St,FH-01,CH-05,Annual Member,Male,1984
+49321,3/22/15 10:45,3/22/15 10:48,SEA00384,SEA,00384,166.21,15th Ave E & E Thomas St,E Pine St & 16th Ave,CH-05,CH-07,Annual Member,Male,1975
+31507,1/26/15 12:05,1/26/15 12:09,SEA00329,SEA,00329,262.572,9th Ave N & Mercer St,PATH / 9th Ave & Westlake Ave,DPD-01,SLU-07,Annual Member,Male,1988
+28544,1/15/15 15:58,1/15/15 15:59,SEA00241,SEA,00241,108.327,UW McCarty Hall / Whitman Ct,UW Engineering Library / E Stevens Way NE & Jefferson Rd,UW-01,UW-06,Annual Member,Male,1992
+147104,9/20/15 17:03,9/20/15 17:19,SEA00046,SEA,00046,960.403,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,Pier 69 / Alaskan Way & Clay St,WF-04,WF-01,Short-Term Pass Holder,NULL,NULL
+100326,7/1/15 16:52,7/1/15 17:00,SEA00303,SEA,00303,489.688,Republican St & Westlake Ave N,Dexter Ave N & Aloha St,SLU-04,SLU-02,Annual Member,Female,1985
+39550,2/21/15 12:55,2/21/15 13:13,SEA00117,SEA,00117,1087.398,2nd Ave & Pine St,Occidental Park / Occidental Ave S & S Washington St,CBD-13,PS-04,Short-Term Pass Holder,NULL,NULL
+87020,6/8/15 16:55,6/8/15 17:11,SEA00481,SEA,00481,981.68,12th Ave & E Yesler Way,Harvard Ave & E Pine St,CD-01,CH-09,Annual Member,Female,1970
+142441,9/10/15 15:22,9/10/15 15:53,SEA00280,SEA,00280,1827.259,Pier 69 / Alaskan Way & Clay St,Occidental Park / Occidental Ave S & S Washington St,WF-01,PS-04,Short-Term Pass Holder,NULL,NULL
+7088,10/29/14 8:56,10/29/14 15:08,SEA00443,SEA,00443,22372.978,Lake Union Park / Valley St & Boren Ave N,E Blaine St & Fairview Ave E,SLU-17,EL-03,Annual Member,Male,1987
+25256,1/1/15 18:26,1/1/15 18:30,SEA00317,SEA,00317,246.69,E Pine St & 16th Ave,Harvard Ave & E Pine St,CH-07,CH-09,Annual Member,Male,1985
+99780,6/30/15 17:36,6/30/15 17:42,SEA00442,SEA,00442,386.61,PATH / 9th Ave & Westlake Ave,2nd Ave & Blanchard St,SLU-07,BT-05,Annual Member,Male,1985
+86447,6/7/15 17:35,6/7/15 19:41,SEA00462,SEA,00462,7573.73,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,WF-04,WF-04,Short-Term Pass Holder,NULL,NULL
+40877,2/25/15 11:03,2/25/15 11:09,SEA00322,SEA,00322,326.106,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,1st Ave & Marion St,PS-05,CBD-05,Annual Member,Male,1953
+17875,11/30/14 13:14,11/30/14 13:42,SEA00096,SEA,00096,1711.785,15th Ave NE & NE 40th St,Westlake Ave & 6th Ave,UW-04,SLU-15,Annual Member,Male,1985
+81657,5/29/15 18:37,5/29/15 18:48,SEA00191,SEA,00191,627.878,7th Ave & Union St,Dexter Ave N & Aloha St,CBD-03,SLU-02,Annual Member,Male,1956
+28094,1/14/15 0:08,1/14/15 0:11,SEA00313,SEA,00313,186.42,PATH / 9th Ave & Westlake Ave,9th Ave N & Mercer St,SLU-07,DPD-01,Annual Member,Male,1990
+98524,6/28/15 12:43,6/28/15 12:53,SEA00495,SEA,00495,611.75,Cal Anderson Park / 11th Ave & Pine St,E Harrison St & Broadway Ave E,CH-08,CH-02,Short-Term Pass Holder,NULL,NULL
+25767,1/5/15 15:36,1/5/15 15:45,SEA00241,SEA,00241,520.039,REI / Yale Ave N & John St,Dexter Ave & Denny Way,SLU-01,SLU-18,Annual Member,Male,1987
+139652,9/4/15 14:15,9/4/15 14:37,SEA00403,SEA,00403,1347.875,NE 42nd St & University Way NE,Children's Hospital / Sandpoint Way NE & 40th Ave NE,UD-02,DPD-03,Short-Term Pass Holder,NULL,NULL
+45933,3/11/15 17:02,3/11/15 17:10,SEA00441,SEA,00441,447.129,UW Engineering Library / E Stevens Way NE & Jefferson Rd,NE 42nd St & University Way NE,UW-06,UD-02,Annual Member,Male,1992
+29232,1/19/15 7:59,1/19/15 8:08,SEA00483,SEA,00483,527.619,Cal Anderson Park / 11th Ave & Pine St,PATH / 9th Ave & Westlake Ave,CH-08,SLU-07,Annual Member,Female,1971
+117895,7/28/15 17:58,7/28/15 18:02,SEA00358,SEA,00358,283.91,Dexter Ave N & Aloha St,Lake Union Park / Valley St & Boren Ave N,SLU-02,SLU-17,Annual Member,Male,1988
+120654,8/1/15 19:35,8/1/15 23:08,SEA00484,SEA,00484,12775.432,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,WF-04,WF-04,Short-Term Pass Holder,NULL,NULL
+99402,6/30/15 7:29,6/30/15 7:36,SEA00294,SEA,00294,417.302,Summit Ave E & E Republican St,Pine St & 9th Ave,CH-03,SLU-16,Annual Member,Male,1981
+124127,8/7/15 9:52,8/7/15 10:00,SEA00362,SEA,00362,490.357,1st Ave & Marion St,Pier 69 / Alaskan Way & Clay St,CBD-05,WF-01,Annual Member,Male,1976
+66503,5/1/15 7:50,5/1/15 7:56,SEA00155,SEA,00155,361.181,Westlake Ave & 6th Ave,9th Ave N & Mercer St,SLU-15,DPD-01,Annual Member,Male,1965
+106602,7/10/15 21:22,7/10/15 22:01,SEA00423,SEA,00423,2338.967,2nd Ave & Pine St,REI / Yale Ave N & John St,CBD-13,SLU-01,Short-Term Pass Holder,NULL,NULL
+148268,9/23/15 11:00,9/23/15 11:37,SEA00103,SEA,00103,2189.557,Key Arena / 1st Ave N & Harrison St,City Hall / 4th Ave & James St,SLU-19,CBD-07,Short-Term Pass Holder,NULL,NULL
+15022,11/18/14 17:13,11/18/14 17:41,SEA00340,SEA,00340,1700.106,City Hall / 4th Ave & James St,12th Ave & E Mercer St,CBD-07,CH-15,Annual Member,Male,1966
+5003,10/23/14 10:12,10/23/14 10:16,SEA00065,SEA,00065,217.252,6th Ave & Blanchard St,9th Ave N & Mercer St,BT-04,DPD-01,Annual Member,Male,1990
+106556,7/10/15 20:08,7/10/15 20:10,SEA00482,SEA,00482,130.327,12th Ave & E Denny Way,Cal Anderson Park / 11th Ave & Pine St,CH-06,CH-08,Annual Member,Male,1967
+18240,12/1/14 16:36,12/1/14 16:49,SEA00103,SEA,00103,762.02,Dexter Ave & Denny Way,PATH / 9th Ave & Westlake Ave,SLU-18,SLU-07,Annual Member,Male,1988
+132219,8/20/15 16:44,8/20/15 17:01,SEA00031,SEA,00031,1009.262,Bellevue Ave & E Pine St,Eastlake Ave E & E Allison St,CH-12,EL-05,Annual Member,Male,1968
+42464,3/2/15 15:04,3/2/15 15:10,SEA00431,SEA,00431,367.674,Occidental Park / Occidental Ave S & S Washington St,2nd Ave & Spring St,PS-04,CBD-06,Annual Member,Male,1961
+155555,10/9/15 7:50,10/9/15 7:57,SEA00262,SEA,00262,414.515,Bellevue Ave & E Pine St,6th Ave & Blanchard St,CH-12,BT-04,Annual Member,Male,1981
+146019,9/18/15 9:43,9/18/15 9:48,SEA00143,SEA,00143,335.86,E Harrison St & Broadway Ave E,Terry Ave & Stewart St,CH-02,SLU-20,Annual Member,Male,1992
+69068,5/6/15 17:46,5/6/15 18:07,SEA00283,SEA,00283,1288.779,2nd Ave & Spring St,E Pine St & 16th Ave,CBD-06,CH-07,Annual Member,Male,1985
+94563,6/21/15 11:02,6/21/15 12:08,SEA00027,SEA,00027,3978.719,Dexter Ave & Denny Way,Lake Union Park / Valley St & Boren Ave N,SLU-18,SLU-17,Short-Term Pass Holder,NULL,NULL
+32035,1/28/15 2:27,1/28/15 2:53,SEA00193,SEA,00193,1563.328,Summit Ave & E Denny Way,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,CH-01,PS-05,Short-Term Pass Holder,NULL,NULL
+26421,1/7/15 17:07,1/7/15 17:15,SEA00443,SEA,00443,446.881,REI / Yale Ave N & John St,2nd Ave & Pine St,SLU-01,CBD-13,Annual Member,Male,1984
+109799,7/15/15 19:06,7/15/15 19:11,SEA00205,SEA,00205,265.638,Dexter Ave & Denny Way,2nd Ave & Vine St,SLU-18,BT-03,Annual Member,Male,1988
+61886,4/20/15 20:00,4/20/15 20:03,SEA00213,SEA,00213,180.964,Harvard Ave & E Pine St,E Harrison St & Broadway Ave E,CH-09,CH-02,Annual Member,Other,1987
+22127,12/16/14 19:58,12/16/14 20:05,SEA00376,SEA,00376,374.89,1st Ave & Marion St,2nd Ave & Pine St,CBD-05,CBD-13,Short-Term Pass Holder,NULL,NULL
+8175,11/1/14 10:22,11/1/14 10:25,SEA00446,SEA,00446,147.212,15th Ave E & E Thomas St,E Pine St & 16th Ave,CH-05,CH-07,Annual Member,Male,1981
+46207,3/12/15 12:20,3/12/15 12:24,SEA00441,SEA,00441,253.613,UW McCarty Hall / Whitman Ct,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,UW-01,UD-01,Annual Member,Male,1977
+94874,6/21/15 18:06,6/21/15 18:27,SEA00180,SEA,00180,1255.839,Key Arena / 1st Ave N & Harrison St,Pier 69 / Alaskan Way & Clay St,SLU-19,WF-01,Short-Term Pass Holder,NULL,NULL
+27819,1/13/15 8:13,1/13/15 8:15,SEA00282,SEA,00282,170.766,Pine St & 9th Ave,PATH / 9th Ave & Westlake Ave,SLU-16,SLU-07,Annual Member,Male,1987
+16351,11/22/14 21:05,11/22/14 21:08,SEA00379,SEA,00379,150.601,E Pine St & 16th Ave,Cal Anderson Park / 11th Ave & Pine St,CH-07,CH-08,Annual Member,Male,1986
+32088,1/28/15 8:18,1/28/15 8:23,SEA00049,SEA,00049,353.481,E Harrison St & Broadway Ave E,Pine St & 9th Ave,CH-02,SLU-16,Annual Member,Male,1979
+120669,8/1/15 20:03,8/1/15 20:22,SEA00024,SEA,00024,1177.826,E Blaine St & Fairview Ave E,Occidental Park / Occidental Ave S & S Washington St,EL-03,PS-04,Annual Member,Male,1982
+109328,7/15/15 8:56,7/15/15 9:04,SEA00256,SEA,00256,507.257,E Pine St & 16th Ave,6th Ave & Blanchard St,CH-07,BT-04,Annual Member,Male,1989
+115871,7/25/15 12:04,7/25/15 12:35,SEA00390,SEA,00390,1820.744,15th Ave E & E Thomas St,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,CH-05,PS-05,Short-Term Pass Holder,NULL,NULL
+21014,12/12/14 17:15,12/12/14 17:30,SEA00448,SEA,00448,930.05,Pine St & 9th Ave,Dexter Ave N & Aloha St,SLU-16,SLU-02,Annual Member,Male,1972
+45438,3/10/15 10:46,3/10/15 10:53,SEA00321,SEA,00321,399.526,E Pine St & 16th Ave,E Harrison St & Broadway Ave E,CH-07,CH-02,Annual Member,Female,1972
+7448,10/29/14 18:10,10/29/14 18:19,SEA00277,SEA,00277,536.083,Bellevue Ave & E Pine St,12th Ave & E Mercer St,CH-12,CH-15,Annual Member,Male,1987
+8908,11/2/14 12:51,11/2/14 13:16,SEA00355,SEA,00355,1457.205,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,Eastlake Ave E & E Allison St,UD-01,EL-05,Short-Term Pass Holder,NULL,NULL
+88456,6/11/15 9:21,6/11/15 9:28,SEA00211,SEA,00211,395.127,Dexter Ave N & Aloha St,PATH / 9th Ave & Westlake Ave,SLU-02,SLU-07,Annual Member,Male,1985
+8829,11/2/14 11:29,11/2/14 11:34,SEA00427,SEA,00427,337.949,Summit Ave & E Denny Way,7th Ave & Union St,CH-01,CBD-03,Annual Member,Female,1987
+104297,7/7/15 15:58,7/7/15 16:23,SEA00236,SEA,00236,1482.762,Pier 69 / Alaskan Way & Clay St,12th Ave & E Yesler Way,WF-01,CD-01,Annual Member,Female,1970
+33238,1/31/15 13:42,1/31/15 13:44,SEA00318,SEA,00318,164.635,E Pine St & 16th Ave,Cal Anderson Park / 11th Ave & Pine St,CH-07,CH-08,Annual Member,Male,1993
+149390,9/25/15 14:12,9/25/15 14:30,SEA00456,SEA,00456,1075.685,Harvard Ave & E Pine St,Eastlake Ave E & E Allison St,CH-09,EL-05,Short-Term Pass Holder,NULL,NULL
+122670,8/5/15 6:49,8/5/15 7:05,SEA00074,SEA,00074,949.374,Key Arena / 1st Ave N & Harrison St,2nd Ave & Spring St,SLU-19,CBD-06,Annual Member,Female,1981
+141364,9/8/15 17:01,9/8/15 17:10,SEA00172,SEA,00172,536.381,7th Ave & Union St,Summit Ave & E Denny Way,CBD-03,CH-01,Annual Member,Male,1980
+90031,6/13/15 16:56,6/13/15 17:16,SEA00064,SEA,00064,1231.556,Pier 69 / Alaskan Way & Clay St,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,WF-01,WF-04,Short-Term Pass Holder,NULL,NULL
+61817,4/20/15 18:54,4/20/15 19:17,SEA00500,SEA,00500,1415.625,Pine St & 9th Ave,3rd Ave & Broad St,SLU-16,BT-01,Short-Term Pass Holder,NULL,NULL
+22226,12/17/14 11:30,12/17/14 11:35,SEA00241,SEA,00241,306.314,Occidental Park / Occidental Ave S & S Washington St,City Hall / 4th Ave & James St,PS-04,CBD-07,Annual Member,Female,1977
+63141,4/22/15 20:03,4/22/15 20:13,SEA00299,SEA,00299,590.539,Dexter Ave N & Aloha St,9th Ave N & Mercer St,SLU-02,DPD-01,Short-Term Pass Holder,NULL,NULL
+149493,9/25/15 17:36,9/25/15 17:48,SEA00488,SEA,00488,758.404,2nd Ave & Pine St,3rd Ave & Broad St,CBD-13,BT-01,Short-Term Pass Holder,NULL,NULL
+120555,8/1/15 17:50,8/1/15 18:13,SEA00115,SEA,00115,1370.838,Lake Union Park / Valley St & Boren Ave N,Pier 69 / Alaskan Way & Clay St,SLU-17,WF-01,Short-Term Pass Holder,NULL,NULL
+20230,12/9/14 16:05,12/9/14 16:13,SEA00440,SEA,00440,507.182,Pier 69 / Alaskan Way & Clay St,1st Ave & Marion St,WF-01,CBD-05,Short-Term Pass Holder,NULL,NULL
+74966,5/17/15 19:03,5/17/15 19:17,SEA00374,SEA,00374,804.919,Bellevue Ave & E Pine St,3rd Ave & Broad St,CH-12,BT-01,Short-Term Pass Holder,NULL,NULL
+75303,5/18/15 13:11,5/18/15 13:51,SEA00431,SEA,00431,2408.754,Eastlake Ave E & E Allison St,Eastlake Ave E & E Allison St,EL-05,EL-05,Short-Term Pass Holder,NULL,NULL
+13927,11/15/14 12:13,11/15/14 12:30,SEA00043,SEA,00043,983.269,2nd Ave & Pine St,Summit Ave E & E Republican St,CBD-13,CH-03,Annual Member,Female,1961
+89717,6/13/15 12:37,6/13/15 12:57,SEA00186,SEA,00186,1182.222,12th Ave & NE Campus Pkwy,Children's Hospital / Sandpoint Way NE & 40th Ave NE,UD-04,DPD-03,Short-Term Pass Holder,NULL,NULL
+27786,1/13/15 6:05,1/13/15 6:08,SEA00125,SEA,00125,160.631,Summit Ave & E Denny Way,REI / Yale Ave N & John St,CH-01,SLU-01,Annual Member,Male,1987
+102257,7/4/15 15:35,7/4/15 15:55,SEA00492,SEA,00492,1182.18,3rd Ave & Broad St,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,BT-01,WF-04,Short-Term Pass Holder,NULL,NULL
+81846,5/30/15 10:06,5/30/15 10:31,SEA00026,SEA,00026,1496.022,Pier 69 / Alaskan Way & Clay St,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,WF-01,WF-04,Short-Term Pass Holder,NULL,NULL
+93441,6/19/15 8:23,6/19/15 8:30,SEA00193,SEA,00193,400.934,Westlake Ave & 6th Ave,Occidental Park / Occidental Ave S & S Washington St,SLU-15,PS-04,Annual Member,Male,1974
+67791,5/3/15 14:23,5/3/15 14:45,SEA00165,SEA,00165,1331.165,UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd,Eastlake Ave E & E Allison St,UW-10,EL-05,Short-Term Pass Holder,NULL,NULL
+112347,7/19/15 12:12,7/19/15 13:15,SEA00150,SEA,00150,3760.798,Key Arena / 1st Ave N & Harrison St,Pine St & 9th Ave,SLU-19,SLU-16,Short-Term Pass Holder,NULL,NULL
+9009,11/2/14 15:52,11/2/14 15:59,SEA00487,SEA,00487,404.537,6th Ave S & S King St,1st Ave & Marion St,ID-04,CBD-05,Annual Member,Female,1974
+5332,10/24/14 8:11,10/24/14 8:24,SEA00330,SEA,00330,779.555,E Harrison St & Broadway Ave E,2nd Ave & Blanchard St,CH-02,BT-05,Annual Member,Male,1982
+85874,6/6/15 16:03,6/6/15 16:26,SEA00042,SEA,00042,1417.092,E Blaine St & Fairview Ave E,Eastlake Ave E & E Allison St,EL-03,EL-05,Short-Term Pass Holder,NULL,NULL
+131006,8/18/15 17:03,8/18/15 17:11,SEA00343,SEA,00343,498.512,Pier 69 / Alaskan Way & Clay St,2nd Ave & Pine St,WF-01,CBD-13,Annual Member,Male,1992
+134812,8/25/15 6:54,8/25/15 7:01,SEA00292,SEA,00292,403.089,2nd Ave & Spring St,2nd Ave & Vine St,CBD-06,BT-03,Annual Member,Male,1965
+153354,10/3/15 21:06,10/3/15 21:12,SEA00482,SEA,00482,381.627,2nd Ave & Blanchard St,6th Ave & Blanchard St,BT-05,BT-04,Short-Term Pass Holder,NULL,NULL
+94362,6/20/15 17:53,6/20/15 18:11,SEA00476,SEA,00476,1109.598,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,REI / Yale Ave N & John St,EL-01,SLU-01,Short-Term Pass Holder,NULL,NULL
+561,10/13/14 13:27,10/13/14 13:33,SEA00063,SEA,00063,364.088,2nd Ave & Spring St,Occidental Park / Occidental Ave S & S Washington St,CBD-06,PS-04,Short-Term Pass Holder,NULL,NULL
+155849,10/9/15 18:53,10/9/15 18:58,SEA00030,SEA,00030,315.151,2nd Ave & Blanchard St,Dexter Ave & Denny Way,BT-05,SLU-18,Annual Member,Female,1984
+6549,10/27/14 14:07,10/27/14 15:22,SEA00284,SEA,00284,4533.002,Pier 69 / Alaskan Way & Clay St,Pier 69 / Alaskan Way & Clay St,WF-01,WF-01,Short-Term Pass Holder,NULL,NULL
+25716,1/5/15 9:55,1/5/15 9:59,SEA00029,SEA,00029,264.153,2nd Ave & Blanchard St,Westlake Ave & 6th Ave,BT-05,SLU-15,Annual Member,Male,1987
+76609,5/20/15 18:46,5/20/15 18:52,SEA00326,SEA,00326,338.856,Frye Art Museum / Terry Ave & Columbia St,7th Ave & Union St,FH-01,CBD-03,Annual Member,Female,1982
+141044,9/7/15 20:15,9/7/15 20:36,SEA00211,SEA,00211,1259.117,9th Ave N & Mercer St,3rd Ave & Broad St,DPD-01,BT-01,Short-Term Pass Holder,NULL,NULL
+86938,6/8/15 14:43,6/8/15 15:03,SEA00144,SEA,00144,1182.748,2nd Ave & Pine St,Republican St & Westlake Ave N,CBD-13,SLU-04,Short-Term Pass Holder,NULL,NULL
+15272,11/19/14 12:14,11/19/14 12:22,SEA00379,SEA,00379,464.056,NE 42nd St & University Way NE,UW Engineering Library / E Stevens Way NE & Jefferson Rd,UD-02,UW-06,Annual Member,Male,1954
+36061,2/12/15 0:28,2/12/15 0:40,SEA00355,SEA,00355,740.791,1st Ave & Marion St,Westlake Ave & 6th Ave,CBD-05,SLU-15,Short-Term Pass Holder,NULL,NULL
+131571,8/19/15 14:37,8/19/15 15:39,SEA00270,SEA,00270,3703.025,12th Ave & NE Campus Pkwy,12th Ave & NE Campus Pkwy,UD-04,UD-04,Short-Term Pass Holder,NULL,NULL
+31283,1/25/15 16:10,1/25/15 16:17,SEA00424,SEA,00424,387.91,Occidental Park / Occidental Ave S & S Washington St,2nd Ave & Spring St,PS-04,CBD-06,Annual Member,Male,1986
+54424,4/5/15 10:59,4/5/15 11:26,SEA00133,SEA,00133,1625.941,Pier 69 / Alaskan Way & Clay St,Pier 69 / Alaskan Way & Clay St,WF-01,WF-01,Short-Term Pass Holder,NULL,NULL
+146327,9/18/15 18:37,9/18/15 18:49,SEA00245,SEA,00245,755.409,Pier 69 / Alaskan Way & Clay St,Key Arena / 1st Ave N & Harrison St,WF-01,SLU-19,Short-Term Pass Holder,NULL,NULL
+110722,7/17/15 8:57,7/17/15 9:04,SEA00052,SEA,00052,454.392,Bellevue Ave & E Pine St,PATH / 9th Ave & Westlake Ave,CH-12,SLU-07,Annual Member,Male,1988
+80956,5/28/15 18:03,5/28/15 18:10,SEA00418,SEA,00418,450.372,PATH / 9th Ave & Westlake Ave,Dexter Ave N & Aloha St,SLU-07,SLU-02,Annual Member,Male,1967
+18937,12/4/14 6:28,12/4/14 6:49,SEA00388,SEA,00388,1261.307,Bellevue Ave & E Pine St,UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd,CH-12,UW-10,Annual Member,Male,1982
+93320,6/18/15 20:23,6/18/15 20:38,SEA00187,SEA,00187,904.497,Dexter Ave N & Aloha St,1st Ave & Marion St,SLU-02,CBD-05,Annual Member,Male,1988
+117920,7/28/15 18:14,7/28/15 18:24,SEA00318,SEA,00318,590.99,E Blaine St & Fairview Ave E,Dexter Ave N & Aloha St,EL-03,SLU-02,Annual Member,Female,1989
+70030,5/8/15 13:13,5/8/15 13:19,SEA00239,SEA,00239,360.316,Key Arena / 1st Ave N & Harrison St,Dexter Ave N & Aloha St,SLU-19,SLU-02,Annual Member,Male,1982
+31122,1/25/15 10:55,1/25/15 10:58,SEA00358,SEA,00358,210.271,15th Ave E & E Thomas St,E Pine St & 16th Ave,CH-05,CH-07,Annual Member,Female,1950
+112365,7/19/15 12:26,7/19/15 12:44,SEA00379,SEA,00379,1103.91,Cal Anderson Park / 11th Ave & Pine St,3rd Ave & Broad St,CH-08,BT-01,Annual Member,Male,1993
+120918,8/2/15 12:07,8/2/15 12:14,SEA00228,SEA,00228,415.699,Eastlake Ave E & E Allison St,12th Ave & NE Campus Pkwy,EL-05,UD-04,Short-Term Pass Holder,NULL,NULL
+38929,2/19/15 8:51,2/19/15 8:56,SEA00038,SEA,00038,328.125,Pine St & 9th Ave,PATH / 9th Ave & Westlake Ave,SLU-16,SLU-07,Annual Member,Male,1987
+107025,7/11/15 16:19,7/11/15 16:29,SEA00474,SEA,00474,602.334,Cal Anderson Park / 11th Ave & Pine St,2nd Ave & Spring St,CH-08,CBD-06,Annual Member,Male,1978
+51339,3/27/15 17:10,3/27/15 17:13,SEA00493,SEA,00493,233.519,Pine St & 9th Ave,Westlake Ave & 6th Ave,SLU-16,SLU-15,Annual Member,Male,1983
+5286,10/23/14 22:19,10/23/14 22:47,SEA00139,SEA,00139,1672.015,7th Ave & Union St,Dexter Ave N & Aloha St,CBD-03,SLU-02,Annual Member,Male,1988
+72745,5/13/15 8:35,5/13/15 8:39,SEA00165,SEA,00165,199.29,Cal Anderson Park / 11th Ave & Pine St,Bellevue Ave & E Pine St,CH-08,CH-12,Annual Member,Male,1984
+138638,9/2/15 12:03,9/2/15 12:10,SEA00379,SEA,00379,442.809,6th Ave & Blanchard St,Dexter Ave & Denny Way,BT-04,SLU-18,Annual Member,Male,1977
+88783,6/11/15 17:18,6/11/15 17:38,SEA00487,SEA,00487,1220.711,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,EL-01,UD-01,Short-Term Pass Holder,NULL,NULL
+29133,1/18/15 10:59,1/18/15 11:03,SEA00125,SEA,00125,186.148,2nd Ave & Spring St,1st Ave & Marion St,CBD-06,CBD-05,Short-Term Pass Holder,NULL,NULL
+46076,3/12/15 7:53,3/12/15 8:01,SEA00364,SEA,00364,500.888,Dexter Ave N & Aloha St,PATH / 9th Ave & Westlake Ave,SLU-02,SLU-07,Annual Member,Male,1967
+83084,6/1/15 8:56,6/1/15 8:59,SEA00324,SEA,00324,172.304,Bellevue Ave & E Pine St,Westlake Ave & 6th Ave,CH-12,SLU-15,Annual Member,Male,1983
+98654,6/28/15 16:10,6/28/15 16:23,SEA00477,SEA,00477,803.706,E Blaine St & Fairview Ave E,Republican St & Westlake Ave N,EL-03,SLU-04,Short-Term Pass Holder,NULL,NULL
+146704,9/19/15 16:06,9/19/15 17:07,SEA00097,SEA,00097,3661.984,UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd,UW McCarty Hall / Whitman Ct,UW-10,UW-01,Short-Term Pass Holder,NULL,NULL
+52736,3/31/15 18:01,3/31/15 18:08,SEA00122,SEA,00122,419.626,UW Intramural Activities Building,UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd,UW-07,UW-10,Annual Member,Male,1973
+149251,9/25/15 8:54,9/25/15 9:00,SEA00391,SEA,00391,368.872,Summit Ave & E Denny Way,7th Ave & Union St,CH-01,CBD-03,Annual Member,Male,1980
+97975,6/27/15 11:50,6/27/15 11:58,SEA00459,SEA,00459,460.677,7th Ave & Union St,2nd Ave & Vine St,CBD-03,BT-03,Short-Term Pass Holder,NULL,NULL
+40328,2/23/15 14:25,2/23/15 14:30,SEA00180,SEA,00180,305.654,3rd Ave & Broad St,Key Arena / 1st Ave N & Harrison St,BT-01,SLU-19,Short-Term Pass Holder,NULL,NULL
+31405,1/26/15 8:11,1/26/15 8:17,SEA00453,SEA,00453,382.763,Summit Ave E & E Republican St,Pine St & 9th Ave,CH-03,SLU-16,Annual Member,Male,1981
+22377,12/18/14 7:25,12/18/14 7:48,SEA00322,SEA,00322,1401.069,Dexter Ave N & Aloha St,15th Ave NE & NE 40th St,SLU-02,UW-04,Annual Member,Male,1981
+32091,1/28/15 8:19,1/28/15 8:25,SEA00463,SEA,00463,356.021,Summit Ave & E Denny Way,2nd Ave & Spring St,CH-01,CBD-06,Annual Member,Male,1981
+13984,11/15/14 13:51,11/15/14 15:41,SEA00073,SEA,00073,6604.008,15th Ave NE & NE 40th St,15th Ave NE & NE 40th St,UW-04,UW-04,Short-Term Pass Holder,NULL,NULL
+138132,9/1/15 7:10,9/1/15 7:19,SEA00445,SEA,00445,543.206,Terry Ave & Stewart St,2nd Ave & Spring St,SLU-20,CBD-06,Annual Member,Male,1988
+37307,2/14/15 20:05,2/14/15 20:18,SEA00087,SEA,00087,767.472,2nd Ave & Blanchard St,6th Ave & Blanchard St,BT-05,BT-04,Short-Term Pass Holder,NULL,NULL
+64194,4/25/15 15:27,4/25/15 15:40,SEA00481,SEA,00481,791.388,2nd Ave & Vine St,3rd Ave & Broad St,BT-03,BT-01,Short-Term Pass Holder,NULL,NULL
+115692,7/24/15 19:45,7/24/15 19:52,SEA00275,SEA,00275,441.103,REI / Yale Ave N & John St,7th Ave & Union St,SLU-01,CBD-03,Annual Member,Male,1982
+70081,5/8/15 14:30,5/8/15 14:45,SEA00127,SEA,00127,878.752,Dexter Ave N & Aloha St,Dexter Ave N & Aloha St,SLU-02,SLU-02,Annual Member,Male,1969
+71843,5/11/15 7:50,5/11/15 8:03,SEA00296,SEA,00296,770.924,12th Ave & E Mercer St,2nd Ave & Spring St,CH-15,CBD-06,Annual Member,Male,1991
+15110,11/19/14 6:08,11/19/14 6:29,SEA00234,SEA,00234,1242.208,E Blaine St & Fairview Ave E,UW Intramural Activities Building,EL-03,UW-07,Annual Member,Female,1987
+96825,6/25/15 9:19,6/25/15 9:25,SEA00424,SEA,00424,356.956,REI / Yale Ave N & John St,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,SLU-01,EL-01,Annual Member,Male,1962
+117329,7/27/15 18:59,7/27/15 19:18,SEA00082,SEA,00082,1156.338,Pier 69 / Alaskan Way & Clay St,Pine St & 9th Ave,WF-01,SLU-16,Short-Term Pass Holder,NULL,NULL
+16453,11/23/14 12:46,11/23/14 12:53,SEA00403,SEA,00403,419.486,Summit Ave E & E Republican St,Pine St & 9th Ave,CH-03,SLU-16,Annual Member,Male,1976
+48092,3/18/15 16:18,3/18/15 16:23,SEA00333,SEA,00333,338.367,REI / Yale Ave N & John St,Pine St & 9th Ave,SLU-01,SLU-16,Annual Member,Male,1987
+141479,9/8/15 20:14,9/8/15 20:21,SEA00051,SEA,00051,422.47,12th Ave & NE Campus Pkwy,UW McCarty Hall / Whitman Ct,UD-04,UW-01,Annual Member,Other,1992
+152477,10/1/15 19:56,10/1/15 20:26,SEA00315,SEA,00315,1782.65,Dexter Ave & Denny Way,Cal Anderson Park / 11th Ave & Pine St,SLU-18,CH-08,Short-Term Pass Holder,NULL,NULL
+16775,11/24/14 11:05,11/24/14 11:13,SEA00212,SEA,00212,481.873,9th Ave N & Mercer St,Westlake Ave & 6th Ave,DPD-01,SLU-15,Annual Member,Male,1965
+34324,2/5/15 9:26,2/5/15 9:44,SEA00472,SEA,00472,1064.668,15th Ave NE & NE 40th St,Children's Hospital / Sandpoint Way NE & 40th Ave NE,UW-04,DPD-03,Annual Member,Male,1977
+46717,3/13/15 14:53,3/13/15 15:10,SEA00303,SEA,00303,998.802,2nd Ave & Pine St,E Blaine St & Fairview Ave E,CBD-13,EL-03,Annual Member,Male,1981
+138108,9/1/15 1:23,9/1/15 1:55,SEA00256,SEA,00256,1903.057,2nd Ave & Vine St,3rd Ave & Broad St,BT-03,BT-01,Short-Term Pass Holder,NULL,NULL
+57984,4/15/15 10:36,4/15/15 10:39,SEA00098,SEA,00098,195.934,6th Ave & Blanchard St,9th Ave N & Mercer St,BT-04,DPD-01,Annual Member,Male,1991
+73189,5/14/15 11:51,5/14/15 11:57,SEA00394,SEA,00394,392.289,NE 47th St & 12th Ave NE,UW McCarty Hall / Whitman Ct,UD-07,UW-01,Annual Member,Male,1993
+132431,8/21/15 0:05,8/21/15 0:10,SEA00115,SEA,00115,278.173,Bellevue Ave & E Pine St,Summit Ave E & E Republican St,CH-12,CH-03,Annual Member,Male,1992
+22656,12/19/14 11:27,12/19/14 12:18,SEA00110,SEA,00110,3044.02,Pier 69 / Alaskan Way & Clay St,Pier 69 / Alaskan Way & Clay St,WF-01,WF-01,Short-Term Pass Holder,NULL,NULL
+40008,2/22/15 13:33,2/22/15 15:10,SEA00120,SEA,00120,5807.937,2nd Ave & Vine St,2nd Ave & Vine St,BT-03,BT-03,Short-Term Pass Holder,NULL,NULL
+62498,4/21/15 16:38,4/21/15 16:59,SEA00486,SEA,00486,1285.457,Key Arena / 1st Ave N & Harrison St,Summit Ave & E Denny Way,SLU-19,CH-01,Short-Term Pass Holder,NULL,NULL
+93584,6/19/15 12:36,6/19/15 13:11,SEA00456,SEA,00456,2105.41,3rd Ave & Broad St,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,BT-01,PS-05,Short-Term Pass Holder,NULL,NULL
+138359,9/1/15 18:08,9/1/15 18:23,SEA00188,SEA,00188,893.844,Union St & 4th Ave,E Blaine St & Fairview Ave E,CBD-04,EL-03,Annual Member,Female,1979
+30669,1/23/15 12:25,1/23/15 12:30,SEA00336,SEA,00336,338.045,6th Ave S & S King St,City Hall / 4th Ave & James St,ID-04,CBD-07,Annual Member,Male,1967
+66392,4/30/15 18:39,4/30/15 18:59,SEA00213,SEA,00213,1242.52,Westlake Ave & 6th Ave,15th Ave E & E Thomas St,SLU-15,CH-05,Annual Member,Male,1984
+124260,8/7/15 12:52,8/7/15 13:05,SEA00124,SEA,00124,768.756,REI / Yale Ave N & John St,Union St & 4th Ave,SLU-01,CBD-04,Annual Member,Female,1974
+43829,3/6/15 14:48,3/6/15 15:29,SEA00193,SEA,00193,2453.802,2nd Ave & Spring St,2nd Ave & Spring St,CBD-06,CBD-06,Short-Term Pass Holder,NULL,NULL
+33412,1/31/15 22:46,1/31/15 22:57,SEA00169,SEA,00169,642.267,Pine St & 9th Ave,E Pine St & 16th Ave,SLU-16,CH-07,Short-Term Pass Holder,NULL,NULL
+117773,7/28/15 15:54,7/28/15 21:20,SEA00277,SEA,00277,19567.887,Pier 69 / Alaskan Way & Clay St,Pier 69 / Alaskan Way & Clay St,WF-01,WF-01,Short-Term Pass Holder,NULL,NULL
+126058,8/10/15 11:13,8/10/15 11:48,SEA00151,SEA,00151,2095.862,Lake Union Park / Valley St & Boren Ave N,Lake Union Park / Valley St & Boren Ave N,SLU-17,SLU-17,Short-Term Pass Holder,NULL,NULL
+155389,10/8/15 16:57,10/8/15 17:05,SEA00182,SEA,00182,511.645,Dexter Ave N & Aloha St,Westlake Ave & 6th Ave,SLU-02,SLU-15,Annual Member,Male,1982
+84528,6/4/15 11:58,6/4/15 12:18,SEA00330,SEA,00330,1217.418,Dexter Ave N & Aloha St,Dexter Ave N & Aloha St,SLU-02,SLU-02,Annual Member,Male,1969
+75898,5/19/15 15:27,5/19/15 15:42,SEA00262,SEA,00262,864.163,2nd Ave & Pine St,City Hall / 4th Ave & James St,CBD-13,CBD-07,Short-Term Pass Holder,NULL,NULL
+64068,4/25/15 12:51,4/25/15 12:57,SEA00071,SEA,00071,370.03,2nd Ave & Vine St,2nd Ave & Pine St,BT-03,CBD-13,Annual Member,Male,1989
+151299,9/29/15 13:28,9/29/15 14:05,SEA00212,SEA,00212,2200.902,NE 42nd St & University Way NE,Dexter Ave & Denny Way,UD-02,SLU-18,Short-Term Pass Holder,NULL,NULL
+46098,3/12/15 8:30,3/12/15 8:34,SEA00437,SEA,00437,211.631,E Harrison St & Broadway Ave E,Harvard Ave & E Pine St,CH-02,CH-09,Annual Member,Male,1987
+135866,8/26/15 19:53,8/26/15 20:19,SEA00279,SEA,00279,1567.797,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,EL-01,EL-01,Short-Term Pass Holder,NULL,NULL
+8383,11/1/14 16:05,11/1/14 16:17,SEA00381,SEA,00381,688.539,Key Arena / 1st Ave N & Harrison St,2nd Ave & Pine St,SLU-19,CBD-13,Short-Term Pass Holder,NULL,NULL
+115732,7/24/15 22:50,7/24/15 23:00,SEA00415,SEA,00415,602.531,Occidental Park / Occidental Ave S & S Washington St,Pier 69 / Alaskan Way & Clay St,PS-04,WF-01,Annual Member,Male,1989
+116974,7/27/15 11:59,7/27/15 12:02,SEA00485,SEA,00485,232.315,2nd Ave & Spring St,2nd Ave & Pine St,CBD-06,CBD-13,Annual Member,Male,1986
+91178,6/15/15 14:20,6/15/15 14:38,SEA00170,SEA,00170,1103.85,12th Ave & E Denny Way,REI / Yale Ave N & John St,CH-06,SLU-01,Annual Member,Male,1974
