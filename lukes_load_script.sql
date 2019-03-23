@@ -14,16 +14,11 @@ CREATE TABLE IF NOT EXISTS sea_aff_housing.seattle_income_restricted_housing (
 	city_seattle TEXT,
 	year_placed_in_service INT,
 	council_distric TEXT
-	); 
-	
+	);
+
 DELETE FROM sea_aff_housing.seattle_income_restricted_housing;
 
 COPY sea_aff_housing.seattle_income_restricted_housing FROM '/Users/modestlyawesome/Downloads/Galvanize/rent_and_income_restricted_housing.csv'
 WITH DELIMITER ',' CSV HEADER;
 
 COMMIT;
-
-SELECT sum(num_restricted_units::int), council_distric
-FROM sea_aff_housing.seattle_income_restricted_housing
-GROUP BY council_distric
-ORDER BY council_distric
